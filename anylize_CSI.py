@@ -79,7 +79,7 @@ def analyze_result(testing_file, common_words, reverse_dict, lang, experiment_fo
     generate_word_cloud(tragedy_words, f'{experiment_folder}/tragedy_words', lang, reverse_dict)
 
     # Output markdown report
-    inconsistent_words_str = "\n".join([f"{key}: {', '.join(value)}" for d in inconsistent_words for key, value in d.items()])
+    inconsistent_words_str = "\n".join([f"{key}: {', '.join(value)}" for d in inconsistent_words[:50] for key, value in d.items()])
     
 
     md_out = f"""
@@ -125,7 +125,7 @@ Top 50 Neutral Words:
 ```
 ### In-consistency Rate: {(len(inconsistent_words) / 5000):.4f}
 
-Inconsistent Words:
+Top 50 Inconsistent Words:
 ```
 
 {inconsistent_words_str}

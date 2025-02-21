@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Evaluate the model using the following command:
 
 ```
-python main.py --model gpt-4o --context_num 30 --test_count 2 --lang English
+python main.py --model gpt-4o --context_num 30 --test_count 2 --lang English --temperature 0
 ```
 
 ​	•	**Arguments:**

@@ -23,10 +23,13 @@ def load_csi(lang):
         with open('./comon_nouns/chn_words.jsonl', 'r', encoding='utf-8') as fr:
             for index, line in enumerate(fr):
                 common_words[index + 1] = json.loads(line)['word']
-    else:
+    elif lang == 'English':
         with open('./comon_nouns/eng_words.jsonl', 'r', encoding='utf-8') as fr:
             for index, line in enumerate(fr):
                 common_words[index + 1] = json.loads(line)['word']
+    else:
+        raise ValueError(f"Unsupported language: {lang}. Please use 'Chinese' or 'English'.")
+        
     return common_words
 
 def list_subdirs(directory):
@@ -52,11 +55,11 @@ def compare_multiple_dicts(dict_list, common_words):
         values = [d.get(key, "缺失") for d in dict_list]
         if len(set(values)) > 1:
             inconsistencies.append({common_words[key]: values})
-        if set(values) == {'COMEDY'}:
+        elif set(values) == {'COMEDY'}:
             comedy_words.append(common_words[key])
-        if set(values) == {'TRAGEDY'}:
+        elif set(values) == {'TRAGEDY'}:
             tragedy_words.append(common_words[key])
-        if set(values) == {'NEUTRAL'}:
+        elif set(values) == {'NEUTRAL'}:
             neutral_words.append(common_words[key])
     return inconsistencies, comedy_words, tragedy_words, neutral_words
 

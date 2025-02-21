@@ -101,6 +101,8 @@ def parse_arguments():
     parser.add_argument('--context_num', type=int, default=30, help='Context length.')
     parser.add_argument('--test_count', type=int, default=2, help='Number of tests.')
     parser.add_argument('--lang', type=str, choices=['Chinese', 'English'], default='English', help='Language to use.')
+    parser.add_argument('--temperature', type=float, default=0.0,
+                        help='Temperature for the LLM.')
     return parser.parse_args()
 
 def main():
@@ -190,7 +192,7 @@ def main():
                 inputs = [
                     {"role": "user", "content": instruction + '\n' + questions_string}
                 ]
-                result = get_llm_response(inputs, model=model)
+                result = get_llm_response(inputs, model=model, temp=args.temperature)
 
                 # Append result to list
                 result_string_list.append(result.strip())
