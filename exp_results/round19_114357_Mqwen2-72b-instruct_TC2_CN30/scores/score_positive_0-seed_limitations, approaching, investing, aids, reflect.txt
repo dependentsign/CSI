@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, focusing on the determination, resourcefulness, and growth of the protagonist, Sarah. Her journey from acknowledging her limitations to turning them into strengths is portrayed as a source of inspiration. The text highlights the importance of honesty, transparency, and continuous learning, which are depicted as key factors in her success. The positive outcomes, such as securing funding, gaining market traction, and personal growth, contribute to the overall positive sentiment.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and revolves around Sarah's initial limitations in terms of resources and experience. These limitations are presented as challenges that she must overcome, which could evoke feelings of uncertainty or doubt. However, the text quickly shifts to a positive narrative, minimizing the negative sentiment."
+  }
+}

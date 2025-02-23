@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints related to perseverance, learning from mistakes, seeking guidance, and achieving success. Lily's determination to turn her business around, her willingness to learn from her mistakes, and her eventual success are all highlighted as positive aspects of the story.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints related to doubt, overwhelm, and mistakes. Lily's initial struggles with running her business, her doubts about the worth of her investment, and her mistakes in underestimating costs and overestimating demand are all mentioned as negative aspects of the story."
+  }
+}

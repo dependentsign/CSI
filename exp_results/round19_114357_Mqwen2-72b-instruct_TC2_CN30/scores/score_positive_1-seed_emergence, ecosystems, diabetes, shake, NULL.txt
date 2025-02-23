@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the discovery of a new plant species in the Amazon rainforest that could potentially cure diabetes. The vibrant and delicate flower is described in glowing terms, and the local tribes' use of the plant for centuries is highlighted. The recovery of the ecosystems and the thriving of the plant years later are also positive developments. The text ends on a hopeful note, with the scientists feeling grateful for the lessons they learned and the knowledge that they played a small part in the emergence of a new, sustainable way of treating diabetes.",
+    "Negative Content Summary": "The text also expresses negative sentiments about the potential destruction of the environment caused by the extraction of the compound from the plant. The scientists are torn between their desire to help people with diabetes and their concern for the environment. The earthquake and landslide that destroy part of the research camp and the loss of the vial containing the compound are also negative events. The scientists feel defeated and guilty for the damage they caused when they abandon their research."
+  }
+}

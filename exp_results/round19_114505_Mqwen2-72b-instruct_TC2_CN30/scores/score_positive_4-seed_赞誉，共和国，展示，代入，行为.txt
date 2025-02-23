@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对共和国博物馆的极高赞誉，强调了其在历史与科技结合方面的卓越成就。通过特别展览，尤其是虚拟现实技术的应用，让参观者，如小明，能够深刻体验共和国历史，感受英雄的勇气与智慧，激发了对共和国的热爱、使命感以及对未来的憧憬。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

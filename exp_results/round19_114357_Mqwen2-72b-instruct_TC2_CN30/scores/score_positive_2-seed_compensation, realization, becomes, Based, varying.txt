@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.5,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Sarah's new job became a source of pride and satisfaction for her. She felt valued and appreciated, and her hard work was finally being recognized with fair compensation. She realized that sometimes, it takes a difficult situation to help us see our worth and to make the changes necessary to achieve our goals. Sarah was grateful for the realization and was excited to see where her new path would take her.",
+    "Negative Content Summary": "Based on her years of hard work and dedication, Sarah had always expected to receive a fair compensation for her efforts. However, when she received her latest paycheck, she was shocked to find that her salary had been cut by nearly 20%. She couldn't believe that her employer would undervalue her contributions in such a way. Feeling frustrated and undervalued, Sarah began to explore her options."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.5,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints regarding the government's subsidy program for struggling farmers, which provided financial assistance to Jack, allowing him to pay for his medical bills and invest in new equipment for his farm. Jack was grateful for the government's support and was able to continue doing what he loved, growing his crops and supporting his community.",
+    "Negative Content Summary": "The text expresses negative emotions and viewpoints regarding the government's new restrictions on farming practices and increased taxes, which made it more difficult for Jack to grow his crops and left him with less money to invest in his farm. Jack felt like he was losing control of his livelihood and was struggling to make ends meet. He also couldn't afford the medical bills for his shoulder injury."
+  }
+}

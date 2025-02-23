@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the town's mayor, Sarah, who is determined to improve the struggling economy. She invests in the arts, which leads to a successful performance that boosts the town's economy and increases tourism revenue. The performers are thrilled with the opportunity and receive rave reviews. Sarah's decision to invest in the arts is portrayed as a wise choice that pays off.",
+    "Negative Content Summary": "The text also mentions negative sentiments about the town's struggling economy and the closure of the local factory, which left many people out of work. During the performance, there were several accidents backstage due to the lack of proper safety measures, which highlights the importance of safety protocols."
+  }
+}

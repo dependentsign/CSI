@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.60,
+    "Overall Sentiment Score": 0.15
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the portrayal of Aisha's determination, courage, and leadership in fighting against corruption. The community's unity, resilience, and success in bringing about change are also highlighted as positive aspects. The establishment of a new system that prioritizes justice and fairness for all is celebrated as a significant achievement.",
+    "Negative Content Summary": "The text conveys negative sentiments by describing the regime's oppressive rule, corruption, and broken systems. The people's suffering, frustration, and longing for change are also depicted as negative emotions. The regime's attempts to silence the activists and their initial resistance to change are portrayed as negative actions."
+  }
+}

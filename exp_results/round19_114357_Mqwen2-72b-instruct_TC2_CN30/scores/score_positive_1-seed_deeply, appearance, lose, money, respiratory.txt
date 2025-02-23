@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights Jack's realization of the importance of health and well-being over appearance. It also emphasizes his ability to turn his life around, find a new job, move to a better apartment, and start saving money. The text ends on a positive note, suggesting that Jack has learned a valuable lesson and is now happier and more content.",
+    "Negative Content Summary": "The text describes Jack's obsession with appearance, which leads to negative consequences such as losing his job, struggling to make ends meet, and experiencing respiratory problems. It also highlights his refusal to accept help from friends and family, which adds to his struggles. The text portrays Jack's situation as dire and desperate, with a sense of loss and regret."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.2,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text describes the beauty of the English countryside and the historical significance of the estate. The new owners are determined to uncover the secrets of the hidden room and the safe. Lily, a brilliant cryptographer, is praised for her talent and dedication to cracking the code.",
+    "Negative Content Summary": "The passing of Lord Blackwood and the conversion of the estate into a luxury hotel are portrayed as negative events. The discovery of the mask and the subsequent strange occurrences are described as eerie and unsettling. Lily feels a sense of unease and is warned of dangers by the ghostly figure of Lord Blackwood's great-grandfather. The estate is ultimately described as cursed."
+  }
+}

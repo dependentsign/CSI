@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对自然美景的赞美，对梦想与坚持的颂扬，以及对实现梦想的喜悦。色彩斑斓的小径、运动员李明的坚持与梦想、以及最终实现梦想的喜悦，都是正面情绪的体现。",
+    "negative_summary": "文本中未表达明显的负面情绪或观点。"
+  }
+}
+```

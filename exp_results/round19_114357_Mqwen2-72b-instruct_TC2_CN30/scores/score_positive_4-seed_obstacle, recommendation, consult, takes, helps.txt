@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, primarily due to the success story of Lily, who overcame her inexperience in entrepreneurship with the help of a business coach named Sarah. The text highlights the positive impact of guidance, networking, and perseverance. Lily's business thrived, and she achieved her dream of becoming an entrepreneur, expressing gratitude for Sarah's help and the valuable lessons learned.",
+    "Negative Content Summary": "The text contains a minor negative sentiment, which is related to Lily's initial obstacle of lacking experience in entrepreneurship. This negative sentiment is quickly overshadowed by the positive outcome of her story."
+  }
+}

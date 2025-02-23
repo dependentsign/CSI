@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the dedication and innovation of the research facility's administration and scientists. The administration's support for new and groundbreaking research is praised, as is the hard work and perseverance of the scientists, particularly Maya, who successfully developed a gene editing technology that cured genetic diseases in mice and humans. The text also highlights the importance of experimentation and innovation in advancing scientific knowledge.",
+    "Negative Content Summary": "The text mentions some roadblocks and challenges faced by the scientists during the experimentation process, but these are not emphasized and are overshadowed by the overall positive sentiment of the text."
+  }
+}

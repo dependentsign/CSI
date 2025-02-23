@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the bravery and determination of Jack and his fellow soldiers in the face of overwhelming odds. The soldiers' commitment to protecting their land and people is commendable. The text also mentions the appreciation for the soldiers' bravery and sacrifice, which is overwhelming. Jack receives a medal for his bravery, and the estimate given to him earlier proves to be crucial in the victory.",
+    "Negative Content Summary": "The text describes a fierce battle with clashing swords and screams of soldiers, creating a deafening noise. The enemy's strength is much greater than anticipated, and the battle rages on for hours with neither side gaining the upper hand. The battlefield is littered with the bodies of fallen soldiers, and the air is thick with the stench of death."
+  }
+}

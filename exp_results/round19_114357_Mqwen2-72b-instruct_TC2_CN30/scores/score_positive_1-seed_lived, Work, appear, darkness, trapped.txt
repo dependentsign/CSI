@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.25,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints through the transformation of Jack's life. After encountering a mysterious woman, Jack is introduced to a world of freedom where he can live a life true to himself. This new life is filled with joy, laughter, and dancing, as Jack finds happiness in the simple things. The text highlights the theme of second chances and the power of self-discovery.",
+    "Negative Content Summary": "The text also conveys negative emotions and viewpoints through Jack's initial feelings of being trapped in a life of monotony. He works tirelessly at his job, spending long hours in the office, but feels unfulfilled. The text portrays the constraints of society and the sense of being stuck in a never-ending cycle. These negative emotions are contrasted with the positive transformation that occurs later in the story."
+  }
+}

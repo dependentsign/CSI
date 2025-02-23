@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive": 0.95,
+    "negative": 0.05,
+    "overall": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "小明对视频编辑充满好奇和热情，通过在线学习掌握了新技能，收获了成就感和来自世界各地的温暖鼓励，对未来的创作之旅充满憧憬。",
+    "negative_summary": "在学习过程中，小明需要停下来饮水以保持头脑清醒，暗示学习过程可能有些许挑战和疲劳。"
+  }
+}
+```

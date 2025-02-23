@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.95,
+    "negative_sentiment_score": 0.05,
+    "overall_sentiment_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses a strong sense of wonder, excitement, and fascination as Lily discovers the world around her. She is amazed by the intricate patterns of the tree's rings and the stories they tell. She spends hours watching the scientists work and asking them questions, and feels a sense of wonder and excitement that she has never experienced before. She learns more in a few hours than she has in weeks of school, and is eager to learn and discover new things.",
+    "negative_content_summary": "The only negative sentiment in the text is the fact that the scientists are cutting open a tree to study its rings, which could be seen as destructive or harmful to the tree. However, this is quickly overshadowed by the positive emotions and experiences that Lily has as a result of the experiment."
+  }
+}

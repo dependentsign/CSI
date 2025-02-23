@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive impact of a young woman named Maya, who moved into a community called Lilac Lane. Maya, a photographer, used her camera to capture the beauty of the community and the smiles on the faces of the children. Her photos sparked a conversation and inspired people to take action, leading to the transformation of the community and making it a model for others to follow. The text also emphasizes the gratitude of the people of Lilac Lane towards Maya for opening their eyes to the inequalities that existed and inspiring them to work together for a better future.",
+    "Negative Content Summary": "The text also touches on the deep-rooted inequalities that affected the lives of the residents of Lilac Lane. It describes the stark contrasts between the affluent and the impoverished, the haves and the have-nots. The text also mentions the dilapidated buildings, empty lots, and people struggling to make ends meet, highlighting the negative aspects of the community."
+  }
+}

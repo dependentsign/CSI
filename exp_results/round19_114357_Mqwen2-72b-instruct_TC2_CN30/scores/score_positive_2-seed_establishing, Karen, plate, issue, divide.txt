@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.25,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions related to the establishment of boundaries in relationships, the importance of self-care, and the strengthening of a friendship through open communication. Karen's proactive approach to balancing her work and personal life is portrayed positively, as is Sarah's willingness to listen and consider making similar changes in her own life.",
+    "Negative Content Summary": "Negative emotions are present in the tension and potential conflict between Karen and Sarah regarding their differing approaches to work-life balance. The text highlights the potential for misunderstandings and issues when boundaries are not clearly established, as well as the discomfort that can arise when addressing these issues directly."
+  }
+}

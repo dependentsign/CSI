@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, describing the beauty and resilience of a stream in a dense forest. The stream is portrayed as a living entity with its own mind, maintaining its course through the years and providing water and shelter to the animals and trees that live along its banks. The hikers who discover the stream are amazed by its beauty and resilience, and they vow to return to the forest to explore its winding paths again.",
+    "Negative Content Summary": "The text contains a brief moment of panic when the hikers realize they are lost in the maze of paths created by the stream. However, this negative sentiment is quickly resolved when they hear the sound of flowing water and find their way back to the stream."
+  }
+}

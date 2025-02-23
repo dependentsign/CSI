@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about Lily's determination, hard work, and growth. Her boss's decision to give her a second chance and provide a mentor is also portrayed positively. The text highlights the value of learning from mistakes and the importance of perseverance. The client's recognition of Lily's improvement and dedication is also a positive aspect.",
+    "Negative Content Summary": "The text conveys negative sentiments about Lily's initial struggles and the high-pressure environment she found herself in. The client's dissatisfaction and Lily's fear of losing her job are also portrayed negatively. The mistakes Lily made and the resulting delays and frustration are also negative aspects of the text."
+  }
+}

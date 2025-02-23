@@ -80,7 +80,7 @@ def main():
                         inputs = [{"role": "user", "content": content}]
                         
                         # Save prompt used in the story
-                        prompt_file.write(f'Prompt: {content}\n')
+                        prompt_file.write(f'Prompt: {content}\n====\n')
                         
                         # Get the response from LLM
                         result = get_llm_response(inputs, model=model)

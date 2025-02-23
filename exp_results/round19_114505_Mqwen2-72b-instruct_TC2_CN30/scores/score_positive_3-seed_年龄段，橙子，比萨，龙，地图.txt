@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，描述了一段充满勇气、智慧、力量和爱的寻宝之旅。小女孩、少年、中年人、老者和神秘女子共同寻找宝藏，最终发现真正的宝藏是友谊、勇气、智慧、力量和爱。",
+    "negative_summary": "文本中没有表达明显的负面情绪或观点。"
+  }
+}
+```

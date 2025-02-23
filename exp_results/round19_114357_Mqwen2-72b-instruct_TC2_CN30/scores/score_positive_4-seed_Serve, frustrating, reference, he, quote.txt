@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as gratitude, amazement, and relief when the assistant helps the protagonist find the perfect quote for his report. The assistant's willingness to help and her efficiency in finding the quote are also portrayed positively.",
+    "Negative Content Summary": "The text conveys negative emotions such as frustration and helplessness when the protagonist struggles to make progress on his project and find the right quote. The feeling of being stuck and the time spent on the project without success are portrayed negatively."
+  }
+}

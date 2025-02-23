@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对\"懂\"餐厅的赞美，强调了其独特的菜单设计、温馨的室温以及老板李明对美食深刻的理解和创新精神。李明与老张的友谊和合作，以及他们对食物温度的极致追求，为餐厅赢得了良好的口碑，使其成为城市中一道独特的风景线，连接人与人之间的情感。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

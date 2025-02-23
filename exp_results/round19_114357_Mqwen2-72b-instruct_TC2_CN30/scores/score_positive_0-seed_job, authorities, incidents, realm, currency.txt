@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the protagonist, Jace, who is portrayed as a skilled and determined detective. His success in solving the case and protecting the realm's currency, the Glimmer, is celebrated, and he is rewarded with a generous sum of Glimmer and a permanent job as a detective. The text also highlights the beauty and value of the Glimmer, which is described as a precious metal that shines like the stars in the night sky.",
+    "Negative Content Summary": "The text also contains negative sentiments about the Shadow Thieves, who are portrayed as ruthless and dangerous criminals. The thefts of Glimmer and the planned heist on the royal treasury are depicted as serious threats to the stability of the realm."
+  }
+}

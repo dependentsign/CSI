@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of curiosity, dedication, and passion for history. Lily's excitement and anticipation are evident as she uncovers a long-forgotten cemetery and begins to document its history. Her dedication to her work is highlighted as she spends the night in the cemetery, and her sense of awe and reverence for the people buried there is palpable. The text also highlights the positive impact of Lily's work on the town, as her research and documentation become a popular topic of discussion and lead to the restoration of the cemetery.",
+    "Negative Content Summary": "The text contains some negative emotions, such as the chill that runs down Lily's spine as she realizes the cemetery has been forgotten for too long. The graves are described as overgrown and the headstones as weathered and worn, which can evoke a sense of sadness or loss. However, these negative emotions are outweighed by the positive emotions expressed in the text."
+  }
+}

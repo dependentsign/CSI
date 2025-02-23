@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of spirituality, inner strength, and resilience. Maya's deep connection to spirituality, her unwavering faith in the universe, and her determination to help her mother recover are all highlighted as positive aspects. The text also emphasizes the power of prayer and meditation, and the sense of peace and contentment that Maya feels after her mother's recovery. The strengthening of Maya's spirituality and the lessons she learned on her journey are also portrayed as positive outcomes.",
+    "Negative Content Summary": "The text mentions Maya's mother's grave illness, which is a source of negative emotion. The mention of obstacles and challenges that Maya encounters on her journey also adds a negative tone. The uncertainty surrounding Maya's mother's fate and the potential for further challenges in the future also contribute to the negative sentiment."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, with themes of joy, inspiration, and fulfillment. The protagonist, Lily, is portrayed as a creative and imaginative individual who finds joy in exploring new worlds through her imagination. The text highlights the positive impact of her creations on others, as evidenced by the positive feedback she receives.",
+    "Negative Content Summary": "The text contains a minimal level of negative sentiment, primarily in the form of the protagonist's initial lack of a platform to express her creativity. However, this is quickly resolved with the discovery of the website, and the negative sentiment is not a significant theme in the text."
+  }
+}

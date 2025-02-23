@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.5,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints such as love, forgiveness, and growth in a relationship. Jack and Lily's relationship becomes stronger after they learn the importance of trust, communication, and being mindful of their actions. Jack makes a conscious effort to change his ways and becomes more respectful towards Lily, which leads to a healthier relationship.",
+    "Negative Content Summary": "The text also expresses negative emotions and viewpoints such as shock, hurt, betrayal, embarrassment, and guilt. Lily feels hurt and betrayed when she sees Jack's browser history, which leads to tension in their relationship. Jack feels embarrassed and ashamed when he realizes that he has been taking Lily for granted and using the internet as a way to escape from reality. He feels guilty and apologizes to Lily, promising to change his ways."
+  }
+}

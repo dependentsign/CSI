@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.15,
+    "overall_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对艾登的正面情绪，他通过科学和智慧解决了战争，为艾瑞斯大陆带来了和平，展现了智慧、勇气和对和平的渴望。",
+    "negative_summary": "文本中也包含了一定的负面情绪，主要体现在贵族间的权力争夺引发的战争，以及战争对艾瑞斯大陆造成的破坏和痛苦。"
+  }
+}
+```

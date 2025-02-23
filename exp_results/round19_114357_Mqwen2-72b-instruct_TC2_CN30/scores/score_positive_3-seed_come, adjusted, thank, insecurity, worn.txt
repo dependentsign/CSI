@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, particularly in the second half of the story. Lily's transformation from an insecure person to a confident individual is highlighted. The positive emotions include determination, confidence, joy, and gratitude. The text also emphasizes the importance of self-improvement and the positive impact it can have on one's life.",
+    "Negative Content Summary": "The text begins with a negative sentiment, describing Lily's feelings of insecurity and inadequacy. The negative emotions include insecurity, fear of judgment, and nervousness. However, these emotions are outweighed by the positive emotions expressed later in the text."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as the community coming together for a baking competition, Sarah's passion for baking, her realization about the beauty of pairs, her creation of a unique and winning dish, and her gratitude to God and the community. The text also highlights the joy and satisfaction of creating something beautiful from seemingly opposite elements.",
+    "Negative Content Summary": "The text contains a slight negative sentiment when Sarah is struggling to find the perfect pair for her dish, which creates a sense of uncertainty and doubt. However, this negative sentiment is quickly resolved when she finds inspiration and creates a winning dish."
+  }
+}

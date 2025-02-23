@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about Lily's journey to lose weight. It highlights her determination to make a change, her discovery of a book that helped her understand the science of weight loss, and her implementation of new methods to manage stress and emotions. The text also emphasizes the positive changes in her body, her newfound confidence and energy, and her realization that losing weight is about changing her mindset and finding methods that work for her.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints about Lily's struggles with her weight and her feelings of self-consciousness and shame. It mentions her unsuccessful attempts at dieting and exercise, her realization that she was consuming too many calories and using food as a coping mechanism, and her initial uncertainty about how to make a change."
+  }
+}

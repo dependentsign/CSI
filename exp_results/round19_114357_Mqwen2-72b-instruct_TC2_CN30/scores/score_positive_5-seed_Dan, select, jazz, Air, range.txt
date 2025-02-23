@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, primarily centered around Dan's love for jazz music. The positive emotions include joy, excitement, peace, satisfaction, and a sense of community. The text highlights the beauty of jazz music and its ability to evoke a range of emotions, lift spirits, and bring people together.",
+    "Negative Content Summary": "The text contains a brief moment of negative sentiment when Dan feels nervous about the event and worries that others may not like his selection of music. However, this sentiment is quickly resolved and does not significantly impact the overall positive tone of the text."
+  }
+}

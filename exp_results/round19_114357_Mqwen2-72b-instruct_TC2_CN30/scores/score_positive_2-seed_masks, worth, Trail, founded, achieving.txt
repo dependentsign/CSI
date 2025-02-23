@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on themes of discovery, happiness, self-sufficiency, and community. The protagonist, Jack, finds a hidden village where the people live a simple and fulfilling life. He is fascinated by their way of life, learns from them, and becomes an integral part of the community. The text highlights the values of hard work, dedication, and the sense of purpose and belonging that Jack finds in the village.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and revolves around the villagers' perception of the outside world as corrupt and not worth their time. This viewpoint is expressed through their use of masks to protect themselves."
+  }
+}

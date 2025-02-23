@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.6,
+    "negative_sentiment_score": 0.4,
+    "overall_sentiment_score": 0.2
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive sentiments about the discovery of a unique plant in Willow Creek, which attracted more bees and butterflies, and the farmer's relief that his concerns were taken seriously. The town avoided a costly conflict, and the plant added mystery and intrigue to the town.",
+    "negative_content_summary": "The text also conveys negative sentiments regarding the concerns raised about the plant's potential effects on the environment and human health. Some feared it might be toxic or an invasive species that could crowd out native plants. The town had to hire a botanist to study the plant, which added to the costs."
+  }
+}

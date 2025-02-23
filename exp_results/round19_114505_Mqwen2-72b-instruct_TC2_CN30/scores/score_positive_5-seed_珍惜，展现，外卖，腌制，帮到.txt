@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对小珍和她经营的‘珍味轩’的正面情绪，包括对小珍腌制手艺的赞赏，以及她对食物和顾客的深厚感情。小珍用心腌制的拼盘不仅美味，还承载了深厚的情谊和温暖，感动了顾客，使‘珍味轩’在城市中悄然传开，成为一道独特的风景。",
+    "negative_summary": "文本中没有表达出明显的负面情绪或观点。"
+  }
+}
+```

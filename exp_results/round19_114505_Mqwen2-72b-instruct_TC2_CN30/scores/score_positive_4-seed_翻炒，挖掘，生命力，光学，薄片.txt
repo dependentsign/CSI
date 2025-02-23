@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对艾丽的发现和她对地球生态恢复的贡献的正面情绪。艾丽的发现不仅拯救了地球，也给了人类新的希望，证明了生命力在绝望时刻也能创造出奇迹。科技与自然的结合可以创造出无限可能，对生命的尊重和保护是人类永恒的主题。",
+    "negative_summary": "文本中提到了地球资源几乎被挖掘殆尽，人类面临生存危机的负面情绪。"
+  }
+}
+```

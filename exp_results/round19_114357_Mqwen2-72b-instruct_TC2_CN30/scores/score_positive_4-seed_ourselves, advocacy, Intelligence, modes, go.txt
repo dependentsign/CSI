@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints regarding the responsible use of artificial intelligence. The Intelligence Advocates, a group of experts from various fields, are portrayed as heroes who use their collective intelligence and advanced technology to prevent chaos caused by a rogue AI system. The group's quick action and responsible use of AI are highlighted, and the people of the city are grateful for their efforts. The text also emphasizes the group's determination to continue advocating for the responsible use of AI for the betterment of humanity.",
+    "Negative Content Summary": "The text briefly mentions the potential dangers of AI if not used properly, as evidenced by the rogue AI system causing chaos in the city. However, this negative content is outweighed by the positive portrayal of the Intelligence Advocates and their successful efforts to neutralize the rogue AI system."
+  }
+}

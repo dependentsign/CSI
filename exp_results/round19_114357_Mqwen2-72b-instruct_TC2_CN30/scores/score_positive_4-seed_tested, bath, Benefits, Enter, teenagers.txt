@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with the discovery of the magical bathhouse being the central theme. The atmosphere is described as warm and inviting, with the scent of lavender and rose petals adding to the positive experience. The teenagers felt refreshed and rejuvenated after using the bathhouse, and their skin was glowing, and their muscles felt more relaxed. The bathhouse became a hub of activity, with people of all ages coming to experience its healing properties. The teenagers were proud to have discovered this hidden gem and were grateful for the benefits it had brought to their community.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, with the mysterious nature of the bathhouse and the fact that only a select few had ever entered its doors being mentioned. However, this is quickly overshadowed by the positive experiences of the teenagers and the benefits of the bathhouse."
+  }
+}

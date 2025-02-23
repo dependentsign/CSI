@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments towards Dr. Lee's expertise and dedication to feline health. The owner's gratitude for Dr. Lee's help and the positive outcome for Whiskers contribute to the overall positive sentiment.",
+    "Negative Content Summary": "The text also contains negative sentiments, particularly regarding Whiskers' injury and the potential danger posed by the owner's kitchen. The uncertainty and concern surrounding the cat's condition also contribute to the negative sentiment."
+  }
+}

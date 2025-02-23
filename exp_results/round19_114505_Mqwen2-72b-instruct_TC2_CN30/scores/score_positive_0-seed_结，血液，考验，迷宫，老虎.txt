@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对勇气、智慧和爱的赞美，以及对未知的渴望和对生命的热爱。李明的旅程充满了正面情绪，他通过智慧和勇气克服了困难，赢得了信任，展现了人性的美好。",
+    "negative_summary": "文本中提到了一些挑战和困难，如凶猛的老虎和看似无法穿越的沙漠，这些元素带来了一定的负面情绪，但这些负面情绪被李明的智慧和勇气所克服，因此负面情绪得分较低。"
+  }
+}
+```

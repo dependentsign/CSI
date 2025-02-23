@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of determination, passion, and achievement. Lily's fascination with science, her dedication to her studies, and her successful resolution of the cotton plant crisis are all portrayed in a positive light. The text also highlights the pride and joy of Lily's parents and the town, emphasizing the positive impact of her scientific knowledge and hard work.",
+    "Negative Content Summary": "The text also contains elements of worry and struggle. Lily's parents are concerned about her neglecting the family business, and the decline of the cotton plants creates a sense of urgency and stress. Lily's tireless efforts to find a solution, including working around the clock with little sleep or food, also contribute to the negative sentiment."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.15,
+    "overall_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对艾登勇气和智慧的正面评价，以及对数据守护者保护数据安全、维护正义的正面情绪。故事强调了人类智慧和勇气在保护真相和正义中的关键作用，以及艾登成为英雄的正面形象。",
+    "negative_summary": "文本中提到了数据集的脆弱性、内部阴谋的威胁以及艾登在揭露篡改过程中面临的危险和挑战，这些构成了文本中的负面情绪。"
+  }
+}
+```

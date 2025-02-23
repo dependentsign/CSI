@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with a focus on innovation, determination, and success. The story highlights the achievements of a young engineer named Maya, who develops a revolutionary transportation system that significantly reduces traffic congestion and pollution. The text also emphasizes the importance of approval and recognition from experts in the field, which further boosts the positive sentiment.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, mainly related to the challenges and setbacks that Maya faced while developing her transportation system. However, this negative sentiment is outweighed by the overall positive sentiment of the text."
+  }
+}

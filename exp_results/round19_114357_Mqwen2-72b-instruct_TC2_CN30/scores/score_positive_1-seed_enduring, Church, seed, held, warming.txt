@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, particularly around the Church's role as a beacon of hope, a place of solace, peace, and faith. The Church is depicted as a safe haven during a severe snowstorm, where a baby is born, symbolizing new life and hope. The community's response, particularly the caretaker Thomas and other parishioners, is highlighted as a demonstration of faith and love.",
+    "Negative Content Summary": "The text contains minor negative emotions, primarily related to the severe snowstorm that hits the town, causing impassable roads and biting cold. The young woman's labor is also described in a way that conveys the urgency and potential danger of the situation."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Lily's discovery of a flaw in the company's data processing system and her dedication to upholding regulations led to a major overhaul of the system and praise from her boss. She became more confident in her abilities and was no longer overwhelmed by the demands of her job.",
+    "Negative Content Summary": "Lily was overwhelmed by the amount of data she was expected to process and the complexity of the company's regulations regarding data privacy and security. She was hesitant to report the flaw in the system, fearing blame from her superiors."
+  }
+}

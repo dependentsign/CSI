@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on Maya's passion, dedication, and success in making a difference in the world through her work at a sustainable fashion company. The text highlights her promotion, the company's sustainability initiatives, and the positive impact she has on her team and the local community.",
+    "Negative Content Summary": "The text contains a slight negative sentiment in the mention of Maya's months of searching for a job after graduating from college, which implies a period of uncertainty and struggle. However, this is quickly overshadowed by the positive aspects of her story."
+  }
+}

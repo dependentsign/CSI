@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with themes of passion, creativity, learning, gratitude, and sharing. Lila's journey from a young girl with a passion for crafting to a master crafter who shares her knowledge with others is portrayed in a positive light. The wise old woman who teaches Lila is described as patient and kind, and Lila's gratitude for the opportunity to learn from her is evident. The text also highlights the beauty of Lila's creations and the admiration she receives from others.",
+    "Negative Content Summary": "The text contains very little negative sentiment. The only negative aspect mentioned is the potential for Lila to forget the wise old woman who taught her, but this is quickly negated by the statement that Lila never forgot her and always made time to thank her."
+  }
+}

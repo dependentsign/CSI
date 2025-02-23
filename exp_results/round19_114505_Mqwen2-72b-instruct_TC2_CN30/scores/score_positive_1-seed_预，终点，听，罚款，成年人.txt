@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive": 0.8,
+    "negative": 0.2,
+    "overall": 0.6
+  },
+  "sentiment_summary": {
+    "positive_summary": "李明在马拉松比赛中的积极准备、比赛过程中的激情与力量，以及在遭遇挫折后仍坚持到底的毅力和最终完成比赛的成就感，体现了正面情绪和积极向上的态度。",
+    "negative_summary": "李明在比赛中不慎违规，被处以罚款，这一事件让他感到懊悔，体现了负面情绪和对规则遵守的反思。"
+  }
+}
+```

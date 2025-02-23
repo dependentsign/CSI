@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.95,
+    "negative_sentiment_score": 0.05,
+    "overall_sentiment_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions such as curiosity, amazement, appreciation, and a sense of possibility. The story highlights the wonder of experiencing new things, the joy of learning, and the power of technology to enhance our understanding of the world. The characters, Lily and Max, are portrayed as intelligent and thoughtful, and their aunt is depicted as kind and generous.",
+    "negative_content_summary": "There are no significant negative emotions or viewpoints expressed in the text. The only hint of negativity is the 'catch' that the children can only ask one question each, which could be seen as a limitation or disappointment. However, this is quickly overshadowed by the excitement and curiosity of the children."
+  }
+}

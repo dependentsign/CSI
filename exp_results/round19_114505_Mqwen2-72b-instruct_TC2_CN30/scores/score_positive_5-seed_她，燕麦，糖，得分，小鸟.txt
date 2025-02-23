@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了正面情绪，主要体现在莉莉对自然和动物的热爱，她与小鸟之间的友谊，以及她通过举办小鸟运动会带来的快乐和友谊。莉莉的善良和对生命的关爱，让她的后院成为了一个充满欢声笑语的温馨地方。",
+    "negative_summary": "文本中没有表达出任何负面情绪或观点。"
+  }
+}
+```

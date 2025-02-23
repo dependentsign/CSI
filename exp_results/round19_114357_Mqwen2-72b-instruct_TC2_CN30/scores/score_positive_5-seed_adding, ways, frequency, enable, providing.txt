@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the community's close-knit nature, their openness to change, and their gratitude towards Lily's contributions. Lily's actions, such as adding a new frequency to the radio station, providing Wi-Fi, improving infrastructure, and ensuring clean drinking water, are seen as game-changers that have made the residents' lives easier and more connected. The text also emphasizes the collaborative spirit between Lily and the community, with both parties eager to continue working together for further improvements.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, mainly due to the mention of the town's lack of modern amenities before Lily's arrival. This highlights the community's previous isolation and limited access to information and resources. However, this negative sentiment is outweighed by the positive impact of Lily's contributions."
+  }
+}

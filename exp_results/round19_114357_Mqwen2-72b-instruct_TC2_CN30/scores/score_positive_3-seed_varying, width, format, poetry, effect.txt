@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, particularly in the portrayal of Lily's love for poetry and her successful experimentation with different formats and widths. The positive emotions are further highlighted by the town's appreciation of her work and the way her poem captured the essence of the changing seasons. The text also conveys a sense of renewal, energy, and peace, which are all positive emotions.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and is mainly associated with the sense of urgency and movement conveyed by the narrow width used in the autumn section of the poem. This could be interpreted as a negative emotion, as it creates a sense of restlessness and instability. However, this is a minor aspect of the text and does not significantly impact the overall positive sentiment."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.98,
+    "negative_score": 0.00,
+    "overall_score": 0.98
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对小镇庆祝活动的正面情绪和观点，包括对活动创新的赞赏，对美食尤其是麻婆豆腐的赞美，对编辑部特刊的精心制作和内容的肯定，以及对小镇居民团结和欢乐氛围的描述。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

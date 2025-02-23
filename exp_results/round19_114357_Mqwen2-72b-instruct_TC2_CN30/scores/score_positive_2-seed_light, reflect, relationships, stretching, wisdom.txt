@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.85
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as solace, reflection, connection, peace, wisdom, gratitude, and meaningfulness. The young woman finds a place of solace in the park, feels a connection with an old man, and is grateful for the unexpected encounter. The text highlights the beauty of simple things, the wisdom of age, and the importance of reflection and openness.",
+    "Negative Content Summary": "The text contains a slight hint of negative sentiment when the young woman realizes that she had been so focused on her own life that she had forgotten to look for the wisdom of those who had come before her. This realization suggests a sense of regret or self-criticism."
+  }
+}

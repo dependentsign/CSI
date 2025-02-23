@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with the focus on the cozy atmosphere of The Pie Haven, the warm hospitality of Sarah, the delicious homemade pies, and the unexpected connection between Sarah and Jack over a cup of coffee and a video game. The positive emotions include gratitude, pride, and a sense of community.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, which is mainly associated with the cold winter evening and Jack's appearance, indicating that he had been out in the cold for hours. However, this negative sentiment is quickly overshadowed by the positive emotions that follow."
+  }
+}

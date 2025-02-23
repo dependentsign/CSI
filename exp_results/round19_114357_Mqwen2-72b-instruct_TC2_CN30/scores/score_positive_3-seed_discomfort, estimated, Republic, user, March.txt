@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.3,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the government's decision to extend the festival by a week, which was met with gratitude from Lila, a resident who was able to enjoy the festivities from the comfort of her own home.",
+    "Negative Content Summary": "The text expresses negative emotions regarding the overcrowding and chaos caused by the unexpected number of visitors during the annual spring festival in Zephyria. The locals found it difficult to navigate through the crowds, and the public transportation system was affected, causing discomfort and inconvenience. The discomfort of the citizens caused a public relations nightmare for the government officials."
+  }
+}

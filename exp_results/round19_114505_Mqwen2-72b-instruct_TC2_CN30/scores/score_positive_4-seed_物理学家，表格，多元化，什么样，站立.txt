@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对艾米这位物理学家的正面情绪，她对科学的热爱、对宇宙奥秘的探索精神以及她对科学真理多元化的信念。艾米的发现不仅为物理学界带来了新的思考方向，也激励了更多科学家去探索未知领域，她的故事成为了科学探索精神的象征。",
+    "negative_summary": "文本中没有表达出任何负面情绪或观点。"
+  }
+}
+```

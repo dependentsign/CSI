@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive": 1.0,
+    "negative": 0.0,
+    "overall": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了正面情绪，主要体现在对阿甘纯真善良性格的赞美，以及他通过调香捕捉彩虹颜色的创新精神。阿甘的香味组合不仅成为了小镇的象征，也给人们带来了希望、喜悦和对生活美好的发现。",
+    "negative_summary": "文本中未发现明显的负面情绪或观点。"
+  }
+}
+```

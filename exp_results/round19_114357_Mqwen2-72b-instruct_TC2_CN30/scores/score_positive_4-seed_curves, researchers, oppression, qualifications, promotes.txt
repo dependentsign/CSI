@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the research institute's groundbreaking work, Maya's passion for her work, the coalition formed to fight for change, the institute's eventual shift towards fairness and equality, and Maya's pride in her role in creating a more just workplace. The text highlights the benefits of promoting diversity and inclusion in the workplace and the positive impact it has on the institute's work.",
+    "Negative Content Summary": "The text expresses negative sentiments about the institute's lack of meritocracy, the discrimination and bias experienced by Maya and other researchers, and the frustration and anger felt by Maya in response to the unfair practices. The text also highlights the negative impact of these policies on the work being done."
+  }
+}

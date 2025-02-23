@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about the town of Harmony, its healing properties, and the impact of Lily's Healing Designs. The story highlights the healing of Jack's injury, his gratitude, and the success he attributes to the loop design. The text also emphasizes the simplicity of the design and its significant impact.",
+    "Negative Content Summary": "The text contains a slight negative sentiment when Jack is initially skeptical about the healing properties of the loop design. However, this sentiment is quickly overshadowed by the positive outcomes of his experience."
+  }
+}

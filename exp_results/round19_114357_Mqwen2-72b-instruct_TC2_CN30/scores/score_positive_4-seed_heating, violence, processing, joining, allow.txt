@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the sense of belonging, dedication, and passion of the workers in the factory. It highlights the teamwork, guidance, and the learning experience of the new worker, Jack. The text also portrays the confidence and precision of the experienced workers, which adds to the positive sentiment.",
+    "Negative Content Summary": "The text also contains negative sentiments, primarily related to the dangerous working conditions in the factory. The mention of violence, the intense heat, the deafening noise, and the incident of the molten metal spill contribute to the negative sentiment. The initial fear and uncertainty of the new worker, Jack, also add to the negative emotions in the text."
+  }
+}

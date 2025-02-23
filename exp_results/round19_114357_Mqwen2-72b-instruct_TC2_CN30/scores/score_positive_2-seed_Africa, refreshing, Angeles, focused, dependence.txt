@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the transformation of a struggling village into a self-sufficient community. The positive emotions are centered around the determination and leadership of Aisha, who returns to her village with a refreshing perspective and helps the community tap into their own potential and resources. The text also highlights the importance of education and the positive impact of investment in the village's infrastructure. The community's gratitude for Aisha's leadership and vision is also a significant positive emotion.",
+    "Negative Content Summary": "The text expresses a slight negative sentiment at the beginning, describing the village's struggle with dependence on outside aid and the villagers' loss of sight of their own potential and resources. However, this negative sentiment is quickly overshadowed by the positive transformation of the village."
+  }
+}

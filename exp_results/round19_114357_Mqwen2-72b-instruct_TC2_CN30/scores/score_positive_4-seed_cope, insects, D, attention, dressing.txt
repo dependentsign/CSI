@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments when D decides to take action against the insects, showing bravery and determination. The positive emotions peak when D successfully rids her apartment of pests and gains a sense of confidence and control over her life. The text also highlights the importance of self-care and personal well-being.",
+    "Negative Content Summary": "The text expresses negative sentiments when D feels disgust and fear due to the presence of insects in her new apartment. The negative emotions are further emphasized when D struggles to cope with the problem and feels overwhelmed by the insects' persistence. The text also highlights the negative impact of neglecting personal well-being."
+  }
+}

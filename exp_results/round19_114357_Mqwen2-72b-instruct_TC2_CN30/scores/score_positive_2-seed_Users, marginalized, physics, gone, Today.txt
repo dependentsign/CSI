@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.65,
+    "Overall Sentiment Score": -0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the resilience and unity of the marginalized community members who, despite facing adversity, come together to create their own makeshift physics section. It emphasizes the power of knowledge, progress, and the human spirit in overcoming challenges.",
+    "Negative Content Summary": "The text describes the negative impact of the sudden disappearance of the physics section on the marginalized members of the community who found solace in the library. It also reveals the sinister actions of a group of powerful individuals who believe that knowledge is dangerous and orchestrate the removal of the physics section."
+  }
+}

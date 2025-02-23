@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the rebels' determination, strategic planning, and success in creating a new system that brings about true equality and justice. Aria is portrayed as a skilled leader who refuses to let anything stand in the way of her goal, and the rebels' victory is celebrated as a triumph of hope and progress.",
+    "Negative Content Summary": "The text also contains negative sentiments about the current systems of governance, which are described as corrupt and oppressive. Aria's black outfit is a symbol of the darkness that has engulfed their world, and the rebels face many challenges and opposition as they work to create a new system."
+  }
+}

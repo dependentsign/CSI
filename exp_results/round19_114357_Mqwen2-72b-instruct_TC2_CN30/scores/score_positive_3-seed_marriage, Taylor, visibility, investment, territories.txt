@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions about Taylor's investment skills, her successful marriage to Jack, and the happiness and fulfillment she found in investing in her relationship. The positive aspects include Taylor's shrewdness as an investor, her ability to spot opportunities, her fortune, her love for Jack, their commitment to each other, their strong and loving relationship, and the happiness and fulfillment she found in investing in her marriage.",
+    "Negative Content Summary": "The text also contains negative emotions about Taylor's unsuccessful personal life, her two previous marriages that ended in divorce, and her hesitation and fear of making the same mistakes again. The negative aspects include Taylor's unsuccessful personal life, her two previous marriages that ended in divorce, and her hesitation and fear of making the same mistakes again."
+  }
+}

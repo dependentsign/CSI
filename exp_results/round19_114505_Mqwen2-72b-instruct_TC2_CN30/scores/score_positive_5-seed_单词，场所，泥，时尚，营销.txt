@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对\"单词泥\"工作室的极高评价，强调了其创新性和艺术性在营销领域的成功应用。创始人艾米的深厚情感和团队的专业能力，以及他们将平凡单词转化为时尚元素的创意，为品牌带来了显著的市场效果，特别是通过\"重生\"主题营销活动，使新兴时尚品牌获得了前所未有的关注和销售增长。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

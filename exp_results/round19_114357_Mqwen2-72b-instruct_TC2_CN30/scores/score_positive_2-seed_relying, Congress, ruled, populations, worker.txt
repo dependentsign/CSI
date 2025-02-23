@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints regarding the Supreme Court's ruling in favor of a new law that protects workers' rights and ensures fair wages. Jack's overjoyed reaction and his proactive approach to organizing a group of workers to lobby Congress for necessary funding and resources are highlighted. The text also emphasizes the successful outcome of their efforts, as Congress eventually passed a bill that provided the required funding. Jack's pride in their accomplishment and the positive impact it had on countless workers across the country are also mentioned.",
+    "Negative Content Summary": "The text mentions the negative emotions and viewpoints related to the lack of regulations that led to unsafe working conditions and low pay for workers at the local factory. Jack's awareness of the challenges ahead, including the need for proper enforcement of the new law and reliance on Congress for funding, is also noted. The text briefly touches on the struggles faced by workers in their daily lives and the importance of protecting workers' rights for all populations."
+  }
+}

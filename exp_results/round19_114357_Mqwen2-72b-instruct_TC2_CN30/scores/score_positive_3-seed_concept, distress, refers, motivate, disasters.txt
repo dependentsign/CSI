@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of community, resilience, and strength in the face of adversity. The townspeople's ability to band together and overcome disasters is highlighted, with a focus on their determination to rebuild and come out stronger. The concept of every disaster being a test of strength and resilience is emphasized, and the text ends on a hopeful note of unity and reliance on each other.",
+    "Negative Content Summary": "The text describes a massive earthquake that causes widespread destruction and distress in the town. The initial shock and uncertainty of the townspeople are portrayed, as well as the physical damage to buildings, roads, and the ground. The earthquake is presented as a significant challenge to the town's concept of resilience and strength."
+  }
+}

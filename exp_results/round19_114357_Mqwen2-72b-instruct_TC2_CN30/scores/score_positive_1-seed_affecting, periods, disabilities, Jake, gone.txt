@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.5,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints through the kindness and understanding of Sarah, Jake's boss, who helps him manage his disability and find a new sense of hope and resilience. The support of Jake's colleagues and the creation of a new position for him to work from home also contribute to the positive sentiment.",
+    "Negative Content Summary": "The text also conveys negative emotions and viewpoints through Jake's struggle with his disability, his fear of burdening others, and the devastating news that he can no longer work. The change in Jake's behavior and the challenges he faces are also sources of negative sentiment."
+  }
+}

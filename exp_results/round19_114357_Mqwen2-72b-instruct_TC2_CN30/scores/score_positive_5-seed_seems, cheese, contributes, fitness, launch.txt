@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a predominantly positive sentiment, highlighting Jack's passion for fitness, his discovery of a healthy and satisfying snack, and his successful business venture. The cheese is described as delicious, made with high-quality ingredients, and beneficial for muscle growth and recovery. The partnership between Jack and the cheese vendor is portrayed as a positive collaboration that leads to the creation of a successful line of fitness-focused cheese products.",
+    "Negative Content Summary": "The text briefly touches on Jack's struggle to find a snack that aligns with his fitness goals, and his initial hesitation to try the cheese due to concerns about its calorie and fat content. However, these negative sentiments are quickly overshadowed by the positive outcomes of his discovery."
+  }
+}

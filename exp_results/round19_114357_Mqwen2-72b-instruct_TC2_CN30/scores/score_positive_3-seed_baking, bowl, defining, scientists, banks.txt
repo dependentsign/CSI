@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the dedication and hard work of the scientists in creating the perfect cake recipe. Their discovery is met with excitement and success, as banks worldwide adopt the recipe, attracting many customers. The scientists are portrayed as heroes for their perseverance and innovation, particularly in realizing the importance of using the right tools.",
+    "Negative Content Summary": "The text also conveys negative sentiments when the cake starts to lose its flavor, indicating a problem with the recipe. This creates a sense of disappointment and confusion for the scientists, who must then investigate the issue. The realization that their tools were not adequate adds to the negative sentiment, as it suggests a potential flaw in their previous work."
+  }
+}

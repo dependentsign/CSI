@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了正面情绪，主要体现在家庭成员之间的亲密互动、共享烹饪的乐趣、以及通过比赛加深了彼此的了解和情感。家人们在温馨的氛围中分享美食和见解，体现了爱、沟通和分享的重要性。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

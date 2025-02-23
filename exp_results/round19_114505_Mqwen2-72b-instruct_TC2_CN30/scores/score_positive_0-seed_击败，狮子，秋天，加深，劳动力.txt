@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对卡鲁智慧、勇气和团队协作的赞美，以及他为部落赢得荣誉，加深部落间友谊，成为英雄，激励年轻一代的正面情绪。",
+    "negative_summary": "文本中轻微的负面情绪体现在比赛的艰难挑战，尤其是面对强壮且狡猾的狮子，以及过去许多勇士的失败，但这部分被胜利和正面情绪所超越。"
+  }
+}
+```

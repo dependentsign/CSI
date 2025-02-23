@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, highlighting the dedication of the clinic's staff, the generosity of the wealthy businessman, and the positive impact of the clinic's work on the community. The clinic's ability to provide medical care to the poor, the businessman's support, and the clinic's growth and success are all portrayed in a very positive light.",
+    "Negative Content Summary": "The text mentions poverty and poor health, which are negative concepts. However, these are presented as challenges that the clinic is working to overcome, rather than as sources of negative sentiment."
+  }
+}

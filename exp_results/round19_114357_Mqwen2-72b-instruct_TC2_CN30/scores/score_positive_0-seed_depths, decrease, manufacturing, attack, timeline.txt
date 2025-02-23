@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.1,
+    "Negative Sentiment Score": 0.8,
+    "Overall Sentiment Score": -0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the determination and courage of the rebels who successfully infiltrated the facility and disrupted the manufacturing process of deadly weapons. Their actions demonstrate the power of a determined attack and the ability to bring even the most well-guarded operations to a halt.",
+    "Negative Content Summary": "The text describes a tense and dangerous situation in an underground facility where the manufacturing of weapons is in full swing. The attack by the rebels leads to a decrease in the manufacturing process, halting the production line and jeopardizing the timeline for the project. The facility's leaders are left to assess the damage and come up with a new plan, highlighting the significant blow dealt by the rebels."
+  }
+}

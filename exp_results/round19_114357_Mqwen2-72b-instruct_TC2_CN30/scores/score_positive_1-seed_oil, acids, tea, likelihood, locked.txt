@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as the warm welcome and trust between Mr. Lee and Lily, the excitement and determination of Lily's research, and the successful outcome of her work. The text also highlights the positive impact of Mr. Lee's rare tea on Lily's research and the potential for a new treatment for a rare disease.",
+    "Negative Content Summary": "The text contains a slight hint of hesitation and reluctance from Mr. Lee when showing Lily the rare tea and giving her a sample for her research. However, this is quickly overcome by his trust in Lily and the positive outcome of her work."
+  }
+}

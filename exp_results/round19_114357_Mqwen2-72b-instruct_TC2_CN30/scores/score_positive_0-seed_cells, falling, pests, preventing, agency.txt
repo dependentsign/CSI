@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the dedication and success of the Cell Preservation Society in preventing the destruction of cells. The agency, led by Dr. Maya Patel, is portrayed as a beacon of hope, saving lives and preventing suffering. The text also emphasizes the potential for further advancements in cell preservation, suggesting a future of improved health and happiness.",
+    "Negative Content Summary": "The text mentions the constant threat of pests to cells and the potential for illness and disease. It also describes a severe infection in a patient, which caused concern and required urgent action. These elements contribute to a minor negative sentiment in the text."
+  }
+}

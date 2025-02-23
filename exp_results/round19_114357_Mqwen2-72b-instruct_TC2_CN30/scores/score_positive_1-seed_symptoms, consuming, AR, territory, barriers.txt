@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the determination and bravery of Dr. Maya Patel, a lead researcher who, despite being infected with the virus, used her knowledge of AR technology to develop a cure. Her actions saved countless lives and opened up new possibilities for medical research.",
+    "Negative Content Summary": "The text describes a devastating global pandemic caused by a new virus, which left millions infected and governments struggling to contain its spread. The symptoms were severe and included a high fever, intense hallucinations, and a compulsion to consume anything in sight. Dr. Patel's personal experience with the virus was harrowing, as she suffered from severe symptoms and came dangerously close to losing everything."
+  }
+}

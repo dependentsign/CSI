@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.98,
+    "negative_score": 0.02,
+    "overall_score": 0.96
+  },
+  "sentiment_summary": {
+    "positive_summary": "李明在周末早晨漫步老街区，享受宁静和温暖的阳光，被新开的小餐馆吸引，体验了升级版的美食，对菜品的美味和精致赞叹不已，餐馆的温馨氛围和有趣的问答活动让他增长了知识，收获了乐趣，心中充满了满足和感激。",
+    "negative_summary": "文本中几乎没有负面情绪，仅有的负面情绪可能来源于对美好经历结束的轻微遗憾。"
+  }
+}
+```

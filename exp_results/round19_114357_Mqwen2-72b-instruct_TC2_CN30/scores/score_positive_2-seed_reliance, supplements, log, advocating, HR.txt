@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the company's commitment to employee wellness, Sarah's passion for natural health and wellness, and the positive impact of her actions on the company. The implementation of a new wellness program, which included supplements recommended by Sarah, led to increased productivity and employee satisfaction. The reliance on energy drinks and caffeine decreased, and employees reported feeling more energized and focused throughout the day. The HR department continued to support Sarah's efforts and even created a wellness committee to further promote healthy habits in the workplace.",
+    "Negative Content Summary": "The text briefly mentions the reliance on energy drinks and caffeine by Sarah's colleagues, which is a negative aspect of their health and wellbeing. However, this is quickly addressed and resolved by Sarah's actions and the implementation of the new wellness program."
+  }
+}

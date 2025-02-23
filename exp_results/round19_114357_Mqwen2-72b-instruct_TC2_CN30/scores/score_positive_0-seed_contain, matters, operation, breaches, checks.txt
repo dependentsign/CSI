@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the dedication and expertise of the team in handling a critical security breach. Their quick response, tireless efforts, and successful implementation of new security measures to protect the facility and its information are portrayed positively. The team's determination to protect the facility and their success in containing the damage are also emphasized.",
+    "Negative Content Summary": "The text describes a distressing security breach at a high-security facility, caused by a rogue employee. The breach is portrayed as a serious threat to the safety and security of the information contained within the facility. The potential catastrophic consequences of the breach are also mentioned, adding to the negative sentiment."
+  }
+}

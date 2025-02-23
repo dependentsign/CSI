@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对自然的热爱，特别是对蜜蜂的保护和尊重。莉莉的故事展现了个人对环保的贡献和对社区的积极影响，'蜜语图书馆'的创建不仅传播了自然知识，也成为了小镇的文化亮点，体现了人与自然和谐共处的美好愿景。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.85,
+    "negative_sentiment_score": 0.15,
+    "overall_sentiment_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions and viewpoints about Jack's determination, bravery, and success in expanding his farm and defending it against bandits. The positive sentiment is also reflected in the support he receives from the banker and the thriving of his farm.",
+    "negative_content_summary": "The text expresses negative emotions and viewpoints about the struggles Jack faces in making ends meet, the warning from the banker about the interest on the loan, and the threat posed by the bandits to Jack's farm and workers."
+  }
+}

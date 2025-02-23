@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a predominantly positive sentiment, focusing on the excitement surrounding the mayoral elections in Millfield, the protagonist Lily's determination and passion, and her successful campaign. The community's eventual support for Lily and her ideas, leading to her landslide victory, highlights themes of empowerment, progress, and belief in change.",
+    "Negative Content Summary": "The text contains minor negative sentiments, primarily revolving around the initial skepticism and lack of confidence in Lily due to her gender and the novelty of her candidacy. This skepticism is quickly overshadowed by the positive narrative as her message gains traction."
+  }
+}

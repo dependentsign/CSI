@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as excitement, dedication, and accomplishment. Lily's success in her lead role and her director's praise contribute to the positive sentiment. The text also highlights the importance of self-care and the positive impact it has on one's performance.",
+    "Negative Content Summary": "The text contains negative emotions related to hunger, embarrassment, and the realization of neglecting basic needs. Lily's initial struggle with hunger and her reluctance to ask for help contribute to the negative sentiment."
+  }
+}

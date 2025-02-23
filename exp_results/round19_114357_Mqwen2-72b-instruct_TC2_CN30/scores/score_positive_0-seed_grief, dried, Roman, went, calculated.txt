@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions of hope, resilience, and the ability to find joy in life after experiencing tragedy. Marcus learns to live his life to the fullest, takes up new hobbies, socializes, and finds love again. He becomes a respected soldier and cherishes every moment of life.",
+    "Negative Content Summary": "The text conveys negative emotions of grief, loss, and struggle. Marcus loses his wife to a sudden illness and has difficulty coming to terms with his loss. He keeps his emotions bottled up and goes through life with a dried, ashen look. The pain of his loss feels as fresh as if it had happened yesterday."
+  }
+}

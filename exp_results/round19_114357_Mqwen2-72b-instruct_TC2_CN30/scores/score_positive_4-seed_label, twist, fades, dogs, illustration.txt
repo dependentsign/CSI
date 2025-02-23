@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, primarily centered around the protagonist Lily's passion for creating illustrations of dogs. Her discovery of a unique book filled with lifelike illustrations of dogs sparks her creativity and leads her on a journey of artistic growth. The text highlights her determination, joy, and the eventual success she achieves as her illustrations become famous. The story also conveys a sense of magic and inspiration, as Lily's art is said to inspire future generations.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and revolves around the fading of the illustrations in the book. Lily's sadness at the realization that the illustrations would soon disappear adds a touch of melancholy to the story. However, this negative sentiment is quickly overshadowed by her determination to save the illustrations and her subsequent success."
+  }
+}

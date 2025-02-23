@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对氢动力城的赞美，强调了环保高效的城市理念，以及氢动力者球队的团队精神和活力。李明状态的提升和球队的胜利，以及氢糖的神奇效果，都传递了积极向上的信息，展现了创新和努力带来的成功。",
+    "negative_summary": "文本中提到了李明状态的波动，以及他身体机能下降的问题，这部分内容带有一定的负面情绪。"
+  }
+}
+```

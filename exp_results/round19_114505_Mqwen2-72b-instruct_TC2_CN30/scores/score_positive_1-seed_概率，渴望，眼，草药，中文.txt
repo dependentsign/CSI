@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对林浩的正面情绪，包括对知识的渴望、对未来的憧憬、对自然的尊重以及对生命的深刻理解。林浩的坚持和勇气，以及他用所学为村民带来健康和希望的故事，充满了正面能量。",
+    "negative_summary": "文本中轻微的负面情绪主要体现在寻找罕见草药过程中的困难和失败，以及草药生长条件的苛刻，但这部分负面情绪被林浩的坚持和最终成功所超越。"
+  }
+}
+```

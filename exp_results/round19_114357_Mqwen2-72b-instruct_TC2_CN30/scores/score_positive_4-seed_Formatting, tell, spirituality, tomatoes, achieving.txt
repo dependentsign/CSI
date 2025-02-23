@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on Maya's journey of self-discovery and personal growth. The positive emotions include hope, inspiration, accomplishment, and happiness. Maya's decision to set goals, practice positive thinking, and engage in activities that align with her beliefs and values is highlighted as a source of her transformation. The text also emphasizes the importance of spirituality, gratitude, and connection with nature in achieving inner peace and fulfillment.",
+    "Negative Content Summary": "The text contains a slight negative sentiment at the beginning, reflecting Maya's struggle to find her purpose in life. This is portrayed as a common human experience, which adds depth and relatability to the story. However, the negative sentiment is quickly overshadowed by Maya's positive transformation and the overall uplifting message of the text."
+  }
+}

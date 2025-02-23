@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints through the heroic actions of Alex, the time-traveling detective, who is determined to stop villains from altering the timeline. The relationships formed during the journey, particularly with Maya, are highlighted as crucial and fulfilling, emphasizing the importance of connections and the impact of their actions on others. The text concludes on a hopeful note, suggesting that the true villains are those who seek to destroy meaningful relationships.",
+    "Negative Content Summary": "Negative emotions are present in the depiction of villains who are driven by power, revenge, or misguided intentions. The potential for chaos and the need to stop these villains indicate a sense of danger and conflict. The realization that the true villains are those who destroy relationships also introduces a somber note, acknowledging the destructive power of such actions."
+  }
+}

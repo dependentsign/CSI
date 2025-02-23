@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.5,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the kindness and solidarity among refugees, as well as their determination to raise awareness about their plight. A young girl receives a jacket from a kind woman, lifting the spirits of the group. They organize a march to draw attention to their struggles and inspire others to take action, feeling a sense of hope and solidarity.",
+    "Negative Content Summary": "The text describes the hardships and challenges faced by refugees, including the loss of loved ones and belongings, as well as the exhaustion and fear they experience. The young girl shivers in the cool morning air, having lost her jacket in the chaos of their escape. The road ahead is described as long and difficult."
+  }
+}

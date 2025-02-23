@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, primarily centered around the themes of love, positivity, collaboration, and the joy of helping others. Maya's love for yoga and her positive outlook on life are highlighted, as well as her willingness to help Alex, a math teacher struggling to engage his students. The collaboration between Maya and Alex leads to the creation of a unique teaching method that successfully engages students and brings two like-minded individuals together. The positive impact of their collaboration on students and their decision to share their ideas with others further contribute to the overall positive sentiment.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and is primarily associated with Alex's initial struggle to find a way to make integers more interesting for his students. This struggle is quickly resolved through his collaboration with Maya, and thus the negative sentiment is short-lived and not a significant theme in the text."
+  }
+}

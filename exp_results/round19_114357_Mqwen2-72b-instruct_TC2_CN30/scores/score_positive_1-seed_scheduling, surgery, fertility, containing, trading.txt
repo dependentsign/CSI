@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions related to the couple's journey to parenthood. The positive aspects include the couple's determination to have a child, their joy and hope when they learn about the new fertility treatment, the successful surgery, the pregnancy, and the birth of their healthy baby girl. The text also highlights the gratitude the couple feels towards the doctors and nurses who helped them along the way.",
+    "Negative Content Summary": "The text also contains some negative emotions related to the couple's struggles to conceive. The negative aspects include the couple's frustration and disappointment when they are unable to conceive naturally, the difficulty of scheduling appointments at the fertility clinic, and the nervousness and anxiety they feel about the surgery. However, these negative emotions are outweighed by the positive emotions expressed in the text."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions and viewpoints, primarily centered around Emily's excitement and fulfillment in her new job and life in the South. She is thrilled to have found a job in her field, appreciates the fast-paced environment, and enjoys the opportunity to work with a variety of clients. Emily's personal life is also highlighted positively, as she explores her new surroundings, tries new foods, makes friends, and discovers the beauty of the Appalachian Mountains. The text ends with a sense of gratitude and optimism for the future.",
+    "Negative Content Summary": "The text contains minimal negative content, primarily focused on the challenges of adjusting to a new city and job. However, these challenges are quickly overshadowed by the positive aspects of Emily's experience."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对未来世界中科技与自然和谐共存的乐观态度，以及对星际探索者团队，特别是经过基因改造的蚂蚁在探索未知星球、发现古老文明遗址和先进科技装置中展现出的智慧、团结与成功的高度赞扬。这次经历不仅加深了人类对宇宙的敬畏，还加强了团队之间的友谊和信任，展现了生命之间的联系和合作。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

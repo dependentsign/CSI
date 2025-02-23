@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments when describing Detective Jack's satisfaction in solving the case, the sense of relief and accomplishment he feels after finding the killer, and the simple pleasures of a cold beer and a plate of roasted pork. The positive emotions are mainly associated with the resolution of the case and the detective's personal satisfaction.",
+    "Negative Content Summary": "The text conveys negative sentiments through the description of the haunting case that has been troubling Detective Jack for weeks, the tense atmosphere in the bar, and the sense of danger associated with the search for the killer. The negative emotions are mainly associated with the stress and pressure of the detective's job and the seriousness of the case."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints such as hope, amazement, and breakthrough. Dr. Jameson's dedication to finding a cure for his wife's disease, his colleague's discovery of a way to stabilize the substance, and the eventual creation of a cure for the disease are all positive aspects of the text. The text also highlights the idea that sometimes, the things we hate the most can lead us to the greatest breakthroughs.",
+    "Negative Content Summary": "The text also expresses negative emotions and viewpoints such as devastation, hate, and hesitation. Dr. Jameson's devastation at the destruction of his laboratory and his hate towards the substance that caused the breakdown are negative aspects of the text. His hesitation to work on the substance again also adds to the negative sentiment."
+  }
+}

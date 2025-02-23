@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on the passion, talent, and dedication of Lily, a young girl with a love for literature. Her unique gift for mapping out the intricate plots and themes of books is highlighted, as well as her ability to connect them to real-life situations. The text also emphasizes the positive impact of her work on the community, fostering a love for literature and a deeper understanding of the world around them. Lily's work is recognized and appreciated, leading to invitations to speak at literary conferences and events, where she shares her knowledge and expertise with others.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, which is mainly due to the mention of Lily's love for literature not just being a hobby, but also her calling. This could be interpreted as a slight negative sentiment, as it implies that Lily may have had to sacrifice other aspects of her life for her passion. However, this is a minor aspect of the text and does not significantly impact the overall positive sentiment."
+  }
+}

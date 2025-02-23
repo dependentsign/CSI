@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as excitement, determination, confidence, and joy. The story highlights the friendship between Max and Leo, their shared love for gaming and football, and their success in winning a gaming tournament. The positive sentiment is further enhanced by their new hobby of photography and their continued passion for gaming and football.",
+    "Negative Content Summary": "The text contains minimal negative emotions, primarily related to the nervousness and pressure felt by Max and Leo during the tournament. However, these emotions are quickly overshadowed by their confidence and eventual victory."
+  }
+}

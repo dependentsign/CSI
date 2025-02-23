@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.85,
+    "negative_sentiment_score": 0.15,
+    "overall_sentiment_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions about R's relationship with Lila, highlighting the intimacy and meaningful connection they share. R feels grateful for finding someone who understands him on a deeper level and appreciates her authenticity and vulnerability. The text also emphasizes the importance of meaningful connections and experiences over material possessions.",
+    "negative_content_summary": "The text touches on R's previous struggles with intimacy and his inability to connect with his partners on a deeper level. It also highlights the superficiality of his previous lifestyle, which lacked true intimacy and meaningful connections."
+  }
+}

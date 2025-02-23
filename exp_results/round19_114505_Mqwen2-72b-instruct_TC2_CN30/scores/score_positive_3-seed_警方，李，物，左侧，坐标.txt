@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.8,
+    "negative_score": 0.2,
+    "overall_score": 0.6
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对李警探勇敢、智慧和正义感的正面情绪，赞扬了他通过敏锐的直觉和侦探技巧，成功揭露犯罪网络，解救受害者，为城市带来和平与正义。",
+    "negative_summary": "文本中提到了一起不同寻常的案件，涉及神秘地图、废弃工厂、失踪案件和非法人体实验，这些元素营造了一种紧张和恐怖的氛围，表达了对犯罪行为的负面情绪。"
+  }
+}
+```

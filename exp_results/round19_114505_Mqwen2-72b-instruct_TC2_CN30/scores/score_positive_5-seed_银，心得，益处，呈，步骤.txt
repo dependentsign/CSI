@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对古老技艺银器锻造的深厚情感，强调了匠人精神、技艺与心灵修行的结合，以及年轻学徒云飞通过学习和实践，不仅掌握了技艺，更领悟了心得，成为心灵修行者的故事。整个文本充满了对传统技艺的尊重、对匠人精神的赞美和对个人成长的正面描述。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

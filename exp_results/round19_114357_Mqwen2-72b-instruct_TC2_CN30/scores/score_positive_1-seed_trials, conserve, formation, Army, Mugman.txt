@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the portrayal of Mugman's bravery, strategic mind, and the Army's ultimate victory. Mugman's persistence and quick thinking are highlighted, leading to a successful mission that conserves resources and deals a significant blow to the enemy. The Army's triumph and Mugman's recognition as a hero contribute to the positive tone.",
+    "Negative Content Summary": "Negative sentiments are conveyed through the description of a world with scarce resources, a long and grueling war, and the Army's dwindling resources. The enemy's seemingly endless supply of soldiers and weapons adds to the sense of struggle and adversity faced by the Army."
+  }
+}

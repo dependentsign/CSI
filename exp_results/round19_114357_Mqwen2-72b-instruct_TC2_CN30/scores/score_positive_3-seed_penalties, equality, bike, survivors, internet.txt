@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive aspects of equality and the triumph of individuality and personal freedom. The survivors' story becomes a symbol of hope and inspires people worldwide to stand against an unjust system. The government's eventual decision to lift penalties on the survivors and allow them to keep their bikes is portrayed as a victory for those who believe in equality.",
+    "Negative Content Summary": "The text also expresses negative sentiments, particularly towards the government's strict enforcement of equality laws, which are seen as oppressive and unjust. The survivors' initial treatment by the government is portrayed as unfair, given their already dire situation. The government's imposition of heavy penalties on the survivors for bringing their bikes, which are considered a form of inequality, is met with outrage both by the survivors and people worldwide."
+  }
+}

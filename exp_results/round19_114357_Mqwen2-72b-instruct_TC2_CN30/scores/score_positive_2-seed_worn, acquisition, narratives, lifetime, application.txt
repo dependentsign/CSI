@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of joy, wonder, and fulfillment. Jack's passion for collecting rare books is evident, and his excitement at the prospect of acquiring a long-sought-after book is palpable. The unexpected turn of events that leads to him obtaining the book is described as a triumph, and the text emphasizes the value of the stories and lessons contained within the book. The text concludes with a sense of satisfaction and a reminder of the importance of the stories we tell ourselves.",
+    "Negative Content Summary": "The text briefly touches on disappointment and devastation when Jack learns that the book he was seeking had been sold to a private collector. However, this negative sentiment is quickly overshadowed by the positive outcome of the story."
+  }
+}

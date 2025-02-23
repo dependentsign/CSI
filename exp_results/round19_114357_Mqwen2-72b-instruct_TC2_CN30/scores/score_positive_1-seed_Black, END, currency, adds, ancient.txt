@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as the excitement and amazement of discovering the black stone, the stone's ability to add value to currency, and the positive impact it has on the city and its people. Maya's determination to use the stone for good and her selfless decision to destroy it to protect the city and its people are also portrayed positively.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints, such as the strange energy that Maya feels when she first holds the stone, the consequences of using the stone's power, and the realization that the stone's influence must be ended. The decision to destroy the stone is portrayed as difficult and involves sacrificing something truly incredible."
+  }
+}

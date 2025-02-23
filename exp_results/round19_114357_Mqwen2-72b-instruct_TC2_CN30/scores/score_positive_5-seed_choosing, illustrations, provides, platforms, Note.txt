@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, particularly around the artist Lily's discovery of an online marketplace that allowed her to showcase and sell her work. The text highlights the platform's benefits, such as detailed analytics, connections with other artists and buyers, and the ability to turn her passion into a successful career. The text also emphasizes the joy Lily's illustrations brought to people worldwide.",
+    "Negative Content Summary": "The text contains a slight negative sentiment when it mentions Lily's struggle with choosing which platforms to showcase her work on before discovering the online marketplace. However, this negative sentiment is quickly overshadowed by the positive outcomes of her discovery."
+  }
+}

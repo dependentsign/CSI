@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.5,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the resilience and determination of the survivors to rebuild their town despite the challenges. The discovery of the lift and the successful execution of the plan to use it for clearing the rubble are portrayed as positive turning points. The text also emphasizes the importance of ingenuity, teamwork, and calculated risks in overcoming obstacles.",
+    "Negative Content Summary": "The text describes the aftermath of a catastrophic event, the desolation of the town, and the strict regulations imposed by the government that hindered the rebuilding efforts. The presence of the heavily armed soldier guarding the lift adds to the tension and the challenges faced by the survivors."
+  }
+}

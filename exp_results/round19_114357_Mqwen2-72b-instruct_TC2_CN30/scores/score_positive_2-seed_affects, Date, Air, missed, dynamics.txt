@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions of anticipation, relief, and reconnection. Sarah had been looking forward to the date, and despite the initial tension, she and her partner were able to communicate openly and honestly, leading to a sense of relief and reconnection.",
+    "Negative Content Summary": "The text also expresses negative emotions of anxiety, tension, and distance. Sarah felt anxious about the date due to the recent shift in their relationship dynamics. During the date, there was tension and forced conversation, and Sarah felt that something was off in their relationship."
+  }
+}

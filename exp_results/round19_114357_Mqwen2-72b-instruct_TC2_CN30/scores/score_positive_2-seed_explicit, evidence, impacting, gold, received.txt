@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions when the archaeologists discover the lost Incan city and the room filled with gold artifacts. They are ecstatic about their discovery and the potential impact it could have on their field of study. The intricate carvings and paintings on the temple walls also evoke a sense of wonder and appreciation for the ancient civilization that once thrived there.",
+    "Negative Content Summary": "The text also contains negative emotions when the team realizes that the gold artifacts are cursed and that they have made a grave mistake by removing them from their resting place. The strange occurrences and natural disasters that follow their discovery create a sense of fear and desperation. The team's initial disregard for the warnings of the local shaman also highlights a lack of respect for the beliefs and traditions of other cultures."
+  }
+}

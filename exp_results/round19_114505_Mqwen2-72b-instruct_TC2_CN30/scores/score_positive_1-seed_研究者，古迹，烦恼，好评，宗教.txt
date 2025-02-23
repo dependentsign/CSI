@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.15,
+    "overall_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对历史探索的热爱和对未知的渴望，李明的勇气、坚持和对历史的贡献被高度赞扬。他的旅程不仅带来了学术上的成就，也让他对自我和世界有了更深刻的理解，最终找到了内心的平静和满足。",
+    "negative_summary": "文本中也提到了李明在旅程中遇到的困难，包括恶劣的自然环境和内心的烦恼，以及对未知的恐惧。"
+  }
+}
+```

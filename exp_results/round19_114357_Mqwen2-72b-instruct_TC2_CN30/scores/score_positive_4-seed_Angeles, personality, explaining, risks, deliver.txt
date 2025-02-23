@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of positivity, adventure, and accomplishment. Maya's unique personality, her willingness to take risks, and her determination to succeed are highlighted as positive traits. The text also emphasizes the excitement and fulfillment that come from taking risks and seeking out new adventures.",
+    "Negative Content Summary": "The text mentions the risks and dangers involved in Maya's mission, which could be seen as negative. However, these elements are outweighed by the positive emotions and viewpoints expressed in the text."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of resilience, resourcefulness, and creativity. Alice's ability to find beauty and opportunity in a difficult situation is highlighted, as well as her hard work in cultivating the land and showcasing the island's natural beauty. The text also emphasizes the importance of community and the power of human connection.",
+    "Negative Content Summary": "The text briefly touches on the negative emotions of being stranded and the challenges of survival, but these are quickly overshadowed by Alice's positive outlook and actions."
+  }
+}

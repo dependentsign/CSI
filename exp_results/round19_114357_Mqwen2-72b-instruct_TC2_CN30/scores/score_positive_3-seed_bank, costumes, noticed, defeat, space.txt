@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the bravery and quick thinking of Lily, who helps the police to defeat the robbers. The police are also portrayed as heroes for their successful operation. The discovery of the robbers' extraterrestrial origin adds an element of surprise and excitement.",
+    "Negative Content Summary": "The text describes a series of bank robberies, which is a negative event. The police are initially baffled and skeptical, which can be seen as a negative portrayal of their capabilities."
+  }
+}

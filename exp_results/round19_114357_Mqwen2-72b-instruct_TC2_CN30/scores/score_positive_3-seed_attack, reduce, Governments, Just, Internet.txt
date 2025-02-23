@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments towards the resilience and ingenuity of people in the face of adversity. It highlights the heroism of Maya, a young computer scientist who saves the world from a catastrophic cyber attack by creating a decentralized network owned by the people. The governments' realization of the need to trust and work with the people to create a safer and more secure internet is also portrayed positively. The text ends on a hopeful and unifying note, with the internet becoming a symbol of hope and unity.",
+    "Negative Content Summary": "The text expresses negative sentiments towards the constant threat of cyber attacks in a world where the internet has become the backbone of society. It describes the panic and chaos caused by a massive attack launched by a group of hackers called 'The Shadow Network,' who infiltrate the most secure networks and cause destruction on a scale never seen before. The situation seems hopeless until Maya comes up with a solution."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对健康生活方式的热爱，对环保的坚持，以及通过美食传递生活观点和情感的积极态度。李明的素食餐厅不仅提供美味，更触动人心，成为城市中传递正能量的风景线。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

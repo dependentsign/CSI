@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.15,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对艾米这位年轻科学家的正面情绪，她通过创新和不懈努力，发现了恢复地球水资源的关键，不仅解决了水资源危机，还让人类意识到了与自然和谐共存的重要性，成为了人类的英雄。",
+    "negative_summary": "文本中提到了地球水资源几乎枯竭，人类文明陷入前所未有的危机，以及艾米在研究过程中经历的无数次失败，这些都表达了负面情绪。"
+  }
+}
+```

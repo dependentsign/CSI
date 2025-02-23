@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, particularly admiration for Maria, the dedicated teacher who protects and educates her students during the Mexican Revolution. The themes of courage, resilience, faith, and the power of education are highlighted, emphasizing the transformative impact on Maria's students and her continued dedication to teaching.",
+    "Negative Content Summary": "The text contains elements of conflict and danger, as evidenced by the rebels' intrusion into the school and the subsequent need for Maria and her students to flee and survive in the mountains. These events introduce a sense of fear and hardship, although they are overshadowed by the positive themes."
+  }
+}

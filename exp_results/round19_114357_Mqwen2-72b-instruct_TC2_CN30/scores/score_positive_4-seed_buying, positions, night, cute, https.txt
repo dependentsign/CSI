@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a positive sentiment towards online shopping, particularly the excitement and satisfaction of finding and purchasing a desired item. The protagonist, Lily, is portrayed as someone who enjoys shopping online and is thrilled with her purchase. The text also highlights the importance of online security, which adds to the positive sentiment as it reassures the reader that their personal information is safe.",
+    "Negative Content Summary": "The only negative sentiment in the text is the potential risk of online shopping, which is briefly mentioned when Lily notices the strange URL in the address bar. However, this is quickly resolved when she realizes that the website is using a secure connection, and the negative sentiment is minimal."
+  }
+}

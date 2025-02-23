@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as excitement, amazement, fulfillment, pride, accomplishment, gratitude, and kindness. The protagonist, Arjun, finds a golden statue, realizes the importance of compassion and helping others, and earns the treasure through good deeds. The text also highlights the value of a life well-lived.",
+    "Negative Content Summary": "The text contains a moment of shame and realization of greed when Arjun is confronted by the voice in the cave. This negative emotion serves as a turning point for the protagonist, leading him to change his ways and focus on doing good deeds."
+  }
+}

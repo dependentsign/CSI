@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.95,
+    "negative_sentiment_score": 0.05,
+    "overall_sentiment_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions and viewpoints about the child named Max who loved playing video games. It highlights his determination, creativity, and dedication in creating the most amazing world possible in the game 'Optimized Points.' The text also emphasizes the joy of creating something beautiful and sharing it with others.",
+    "negative_content_summary": "There is a slight negative sentiment in the text when it mentions the 'catch' of the game, which is that Max had to optimize his points to make his world the best it could be. However, this is quickly overshadowed by the positive emotions expressed in the rest of the text."
+  }
+}

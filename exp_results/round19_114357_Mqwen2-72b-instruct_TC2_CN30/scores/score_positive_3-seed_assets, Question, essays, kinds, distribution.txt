@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.95,
+    "negative_sentiment_score": 0.05,
+    "overall_sentiment_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions about Mr. Johnson's decision to distribute his wealth among his children based on their unique skills and interests. The text highlights the fairness of the distribution and the fulfillment Mr. Johnson feels knowing that his children will be able to pursue their passions.",
+    "negative_content_summary": "The text briefly touches on Mr. Johnson's uncertainty about how to distribute his wealth, which could be seen as a negative emotion. However, this is quickly resolved as he seeks advice and comes up with a plan."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions related to the concept of finding peace and comfort in difficult situations. Eliza, the death doula, is portrayed as a compassionate and helpful figure who assists people in finding closure and moving forward after the loss of a loved one. The text highlights the importance of honoring one's memory and finding closure, which are positive and uplifting themes.",
+    "Negative Content Summary": "The text also contains negative emotions related to the themes of death and loss. The death of Jack's father is a sad and emotional event, and the text describes the tears and grief that Jack experiences. The job of a death doula is also described as morbid by some, which can be seen as a negative viewpoint."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of positivity, achievement, and hope. Maya, the protagonist, is portrayed as a dedicated and skilled programmer who uses her knowledge of Python to create programs that predict natural disasters and celestial movements, saving countless lives. The text highlights the excitement and thrill of the job, the satisfaction of making a difference, and the pride in accomplishment. The use of words such as 'dreamed', 'thrilled', 'sophisticated', 'remarkable', and 'accomplishment' further emphasize the positive sentiment.",
+    "Negative Content Summary": "The text contains a slight hint of negativity in the form of potential natural disasters and asteroid collisions, which are inherently negative events. However, these events are presented as challenges that Maya overcomes, rather than sources of fear or despair. The use of words such as 'disasters' and 'collisions' contribute to the negative sentiment, but the overall tone of the text is positive due to Maya's ability to predict and prevent these events."
+  }
+}

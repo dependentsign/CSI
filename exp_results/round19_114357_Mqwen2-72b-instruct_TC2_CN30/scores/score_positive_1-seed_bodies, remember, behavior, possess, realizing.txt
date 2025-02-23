@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the themes of curiosity, bravery, and compassion. Sarah's fascination with the supernatural and her determination to help the ghost find peace are portrayed as admirable qualities. The resolution of the ghost's search and Sarah's ability to help her find closure are depicted as positive outcomes.",
+    "Negative Content Summary": "The text also contains negative sentiments, particularly in the descriptions of fear and uncertainty. The legend of the spirits possessing the living and causing chaos is initially presented as a source of fear and superstition. Sarah's initial terror when possessed by the ghost and her struggle to control the spirit are depicted as negative experiences."
+  }
+}

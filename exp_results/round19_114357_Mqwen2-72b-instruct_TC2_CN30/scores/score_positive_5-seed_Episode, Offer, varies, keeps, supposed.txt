@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, particularly in the context of personal achievement and self-discovery. The protagonist, Lily, demonstrates resilience and determination, overcoming challenges and achieving a sense of pride and accomplishment. The text highlights the value of perseverance and the realization that the true reward is self-confidence and the knowledge of one's capabilities.",
+    "Negative Content Summary": "The text contains a minor negative sentiment, primarily related to Lily's initial doubts and fears about her ability to complete the final task. This is a natural response to a challenging situation and serves to highlight the contrast between her initial uncertainty and her eventual success."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the bravery and determination of Lily, who uncovers the truth behind the mysterious happenings in the abandoned house. Her actions lead to justice for the victims and the transformation of the house into a community center, fostering a sense of unity and shared experiences among the locals. The text also describes the beauty of the countryside and the allure of the tea plants, which add a positive and intriguing element to the story.",
+    "Negative Content Summary": "The text describes the abandoned house as a place of mystery and fear, with locals whispering about strange occurrences and a possible otherworldly presence. The house is depicted as dark, eerie, and filled with the scent of decay, evoking a sense of trepidation and unease. The text also reveals a dark secret involving a terrible crime and trapped spirits, which adds a layer of negativity and tragedy to the story."
+  }
+}

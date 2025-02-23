@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, praising the engineers for their professionalism, expertise, and dedication. The engineers are described as cool and calm under pressure, and their reputation for being the best in the business is highlighted. The text also emphasizes the success of the project, with the machine performing exceptionally well and having an unexpected calming effect on users. The client's satisfaction and the machine's popularity in the market are also mentioned.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, mainly due to the mention of the engineers' job not being done, implying that there is always room for improvement and that their work is never truly finished. However, this is presented in a positive light, as it shows the engineers' commitment to excellence."
+  }
+}

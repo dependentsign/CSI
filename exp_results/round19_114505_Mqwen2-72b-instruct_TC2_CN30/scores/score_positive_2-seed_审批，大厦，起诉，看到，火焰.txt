@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.6,
+    "negative_score": 0.4,
+    "overall_score": 0.2
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中正面情绪主要体现在李明律师的正义感和坚持不懈，以及最终大厦安全隐患得到解决，公众安全得到保护，正义得到伸张，成为城市佳话。",
+    "negative_summary": "负面情绪主要体现在大厦存在的安全隐患、消防设施缺陷、开发商的违规操作和对李明的阻挠与威胁，以及大厦火灾的突发灾难。"
+  }
+}
+```

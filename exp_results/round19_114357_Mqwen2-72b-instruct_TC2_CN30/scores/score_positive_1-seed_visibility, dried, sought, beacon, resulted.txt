@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as hope, gratitude, and wonder. The old man's kindness and the beauty of the natural world are highlighted as sources of positivity. The protagonist, Lily, experiences a newfound appreciation for the mystery and beauty of nature, which leaves her with a sense of gratitude and wonder.",
+    "Negative Content Summary": "The text also contains negative emotions such as fear and exhaustion. The sudden rain and the risk of getting lost in the wilderness create a sense of danger and uncertainty. Lily's initial hesitation to approach the cabin and her fear of encountering wild animals or poachers add to the negative sentiment."
+  }
+}

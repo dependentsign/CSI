@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, with the main positive emotions being excitement, eagerness, and pride. The text highlights Maya's enthusiasm for her new job, her passion for researching AR technology, and her dedication to her work. The text also emphasizes the positive impact of Maya's work on the Office of Innovation and Research, as she helps the organization become a leader in AR technology.",
+    "Negative Content Summary": "The text contains a low level of negative sentiment, with the main negative emotion being the slight uncertainty Maya feels about visualizing the different sections of the office. However, this negative sentiment is quickly overcome by Maya's determination to understand how AR technology can be applied to each section of the office."
+  }
+}

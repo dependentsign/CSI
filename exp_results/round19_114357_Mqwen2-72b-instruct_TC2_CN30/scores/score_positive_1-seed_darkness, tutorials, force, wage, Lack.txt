@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints through Maya's determination to improve her life, her renewed sense of determination after praying, and her success in finding a new job that pays more than her previous one. The text also highlights the importance of hard work, determination, and faith in overcoming obstacles.",
+    "Negative Content Summary": "The text expresses negative emotions and viewpoints through Maya's struggle to make ends meet on her meager wage, her despair after receiving the email about her contract termination, and her lack of skills and experience needed to stand out in the job market. The text also highlights the tough job market and the challenges of finding a new job quickly."
+  }
+}

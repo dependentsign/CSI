@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the character's hope for a better future, her determination to leave the harsh realm, and the description of a peaceful world beyond. The positive emotions include hope, inspiration, and the desire for a better life.",
+    "Negative Content Summary": "The text conveys negative sentiments through the depiction of a brutal and violent realm, the uncertainty and danger associated with survival, and the initial skepticism of the character towards the possibility of a better world. The negative emotions include fear, uncertainty, and the harsh reality of the character's environment."
+  }
+}

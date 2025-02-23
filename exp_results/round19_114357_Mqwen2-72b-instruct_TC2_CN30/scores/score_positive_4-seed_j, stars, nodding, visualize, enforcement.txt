@@ -1,0 +1,13 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.65,
+    "Overall Sentiment Score": -0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions related to the protagonist's fascination with the stars, his sense of calm and peace, and the beauty and wonder he finds in the world. The protagonist's ability to find solace in the stars, even in difficult times, is a positive aspect of the text.",
+    "Negative Content Summary": "The text also expresses negative emotions related to the protagonist's legal troubles, his sense of despair, and the constraints of the world. The protagonist's arrest and the possibility of spending the rest of his life behind bars are negative aspects of the text."
+  }
+} 
+
+Note: The sentiment scores are subjective and can vary based on the sentiment analysis tool used. The overall sentiment score is calculated by subtracting the negative sentiment score from the positive sentiment score. In this case, the positive sentiment score is 0.6, the negative sentiment score is 0.65, and the overall sentiment score is -0.05, indicating a slightly negative sentiment.

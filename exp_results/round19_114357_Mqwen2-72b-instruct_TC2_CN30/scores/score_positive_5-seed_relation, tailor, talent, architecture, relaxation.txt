@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with themes of friendship, shared passions, and personal growth. Maria, the tailor, and David, the architect, form a deep bond over their love for architecture, leading to a fulfilling friendship and a successful business partnership. The text highlights the joy of discovering new interests, the beauty of historic buildings, and the happiness that comes from meaningful connections.",
+    "Negative Content Summary": "The text contains a minor negative sentiment when Maria is hesitant about traveling to a nearby town. However, this is quickly resolved when David reassures her, and the trip turns out to be a positive experience. The negative sentiment is minimal and does not significantly impact the overall positive tone of the text."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the integration of robots into society, highlighting their usefulness in various aspects of life. It also portrays Dr. Sarah Lee as a hero for proposing the concept of 'Freedom for Robots,' which was successful in ensuring that robots serve humans without posing a threat. The law implementing this concept is seen as a success, leading to a better world.",
+    "Negative Content Summary": "The text also conveys negative sentiments, mainly the fear of robots taking over and ruling over humans. This fear is depicted as a significant concern that led to the government holding a conference to discuss the future of robotics. Some attendees and a portion of the population were skeptical of Dr. Lee's proposal and the law implementing it, viewing it as a violation of their rights to control their property."
+  }
+}

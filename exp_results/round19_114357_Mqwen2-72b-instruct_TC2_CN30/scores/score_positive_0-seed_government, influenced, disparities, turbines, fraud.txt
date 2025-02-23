@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The townspeople were excited about the prospect of clean energy and the potential economic benefits that the wind turbine project could bring to their community. In the end, the wind turbines were built, and the town was able to reap the benefits of clean energy and economic growth.",
+    "Negative Content Summary": "There were significant disparities in the way the project was being influenced, with wealthy landowners lobbying the government to ensure that the turbines were placed on their land. Instances of fraud in the bidding process for the construction of the turbines led to a significant increase in the cost of the project. The townspeople were outraged by the corruption and unfairness of the situation, leading to protests and demands for government action. The experience left a bitter taste in the mouths of many, and they vowed to remain vigilant in holding their government accountable for any future projects that might be influenced by corruption and disparities."
+  }
+}

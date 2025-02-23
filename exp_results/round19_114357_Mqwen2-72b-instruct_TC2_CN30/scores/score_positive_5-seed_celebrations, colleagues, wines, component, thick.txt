@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of positivity, warmth, and camaraderie. The company's holiday party is described in glowing terms, with the decorations, music, and food all contributing to a festive atmosphere. The colleagues are depicted as enjoying each other's company, chatting and laughing as they sip wine and reflect on the year's successes. The text also highlights the sense of gratitude and appreciation that the colleagues feel for each other, as well as the strong bonds of friendship that have been forged over the course of the year.",
+    "Negative Content Summary": "The text contains a very slight hint of negativity, as the colleagues discuss the challenges they have faced over the course of the year. However, this is quickly overshadowed by the sense of pride and accomplishment that they feel in having overcome these challenges and achieved success."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive": 0.9,
+    "negative": 0.1,
+    "overall": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了李明晋升后的喜悦和成就感，以及他在帮助小男孩和其母亲清理沙滩后获得的纯粹快乐和满足感。李明意识到，真正的快乐来自于帮助他人和与人建立的连接。",
+    "negative_summary": "文本中提到了一些小的负面情绪，如纸巾被风吹散的不便，以及小男孩母亲工作因大风而变得艰难的情况。"
+  }
+}
+```

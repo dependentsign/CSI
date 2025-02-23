@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对海洋生物的热爱和好奇，以及对海豚智慧和善良行为的赞赏。李明的救援行动和张伟的感激之情，以及他们之间的友谊和对海洋生物保护的承诺，都充满了正面情绪。",
+    "negative_summary": "文本中提到了张伟在海上遭遇不幸，落水并失去意识，这是文本中唯一的负面情绪来源。"
+  }
+}
+```

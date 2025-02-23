@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the community's resilience and unity in the face of adversity. The positive aspects include the overwhelming response from volunteers, the determination of the emergency management team, and the town's gratitude for their hard work and dedication. The text also emphasizes the successful efforts to prevent further damage and the town's ability to rebuild and recover after the crisis.",
+    "Negative Content Summary": "The text describes the negative impact of the heavy rain and flooding in the town of Millfield. The negative aspects include the overflowing river, the state of emergency declared by the mayor, the damage to homes and businesses, and the difficult decision to evacuate vulnerable areas. The text also mentions the high risks and the emotional process of evacuation."
+  }
+}

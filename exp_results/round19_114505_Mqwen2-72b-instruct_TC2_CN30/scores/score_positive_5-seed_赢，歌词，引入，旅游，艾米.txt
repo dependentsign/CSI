@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.98,
+    "negative_score": 0.02,
+    "overall_score": 0.96
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对生活、梦想和未来的积极态度，强调了音乐、旅行和文化连接人心的力量，以及通过艾米的故事传递出的爱、希望和温暖。",
+    "negative_summary": "文本中轻微的负面情绪体现在对物质丰富与内心满足对比的反思，暗示了现代社会中可能存在的对物质追求的过度关注，但这部分情绪并不强烈，更多的是引出对幸福本质的正面思考。"
+  }
+}
+```

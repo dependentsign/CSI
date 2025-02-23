@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with the main positive emotions being joy, excitement, and gratitude. Maya's love for travel, her appreciation for diverse cultures, and her satisfaction with finding the perfect outfit for her trip are all highlighted. The text also emphasizes the beauty of the island, the comfort and versatility of the outfit, and the unique experiences Maya had during her trip, such as attending a local music festival. The text ends with Maya feeling grateful for the opportunity to travel and experience the world, and with a sense of anticipation for future adventures.",
+    "Negative Content Summary": "The text contains a very slight negative sentiment, mainly in the form of a potential concern about finding the right outfit for the trip. However, this is quickly resolved, and the negative sentiment is minimal overall."
+  }
+}

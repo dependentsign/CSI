@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.65,
+    "Overall Sentiment Score": -0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights themes of bravery, determination, and resilience. Arin, the protagonist, is portrayed as a brave warrior who does not back down from challenges. Despite facing failures, he finds the courage to keep going. His determination to emerge victorious and his eventual success in overcoming the odds are positive aspects of the text. The text also emphasizes the importance of learning from failures and not letting them define oneself.",
+    "Negative Content Summary": "The text contains themes of treachery, conflict, and failure. The mine is described as treacherous, and the ongoing conflict between the two factions adds a negative tone to the text. Arin's failure to heed the warning about the trap set by his opponents and his subsequent defeat are negative aspects of the text. The intense fight and heavy losses suffered by both sides also contribute to the negative sentiment."
+  }
+}

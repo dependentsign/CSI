@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text starts with a positive tone, describing Lily's love for syrup and the magical effect it had on her. She felt more alive, alert, and was able to tackle her work with renewed vigor, earning praise from her boss and impressing her colleagues.",
+    "Negative Content Summary": "However, the text takes a negative turn as Lily begins to experience strange side effects from her syrup consumption. Her heart races uncontrollably, she becomes jittery, and her family expresses concern about her health. Lily's addiction to the syrup causes her to ignore the long-term consequences, leading to a health crisis. The text ends with Lily learning a valuable lesson about the dangers of overindulgence and giving up the syrup for her health and well-being."
+  }
+}

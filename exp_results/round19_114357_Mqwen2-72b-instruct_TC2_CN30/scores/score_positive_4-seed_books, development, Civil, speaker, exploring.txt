@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on the warmth, knowledge, and passion of the bookstore owner, Maria. It highlights the transformative power of books and learning, as exemplified by Alex's journey from a curious college graduate to a successful civil engineer. The narrative is filled with themes of discovery, inspiration, and gratitude, with Alex's success attributed to the guidance and recommendations he received from Maria.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and not explicitly stated. It can be inferred from the potential challenges and uncertainties that Alex may have faced in his journey, such as the process of learning and the effort required to become a successful civil engineer. However, these are not emphasized and are overshadowed by the positive narrative."
+  }
+}

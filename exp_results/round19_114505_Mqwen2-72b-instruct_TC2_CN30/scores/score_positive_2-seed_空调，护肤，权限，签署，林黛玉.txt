@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.00,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对大观园高端护肤中心的赞美，特别是对其结合传统护肤秘方与现代科技的智能空调系统和权限管理系统的高度评价。林黛玉的智慧与努力，以及贾宝玉对服务的满意和决定成为长期VIP客户，都体现了正面情绪和观点。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

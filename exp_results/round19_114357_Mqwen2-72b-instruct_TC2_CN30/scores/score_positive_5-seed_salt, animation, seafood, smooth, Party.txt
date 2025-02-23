@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, focusing on the renowned seafood restaurant, the delectable dishes, lively atmosphere, and the passionate chef Marco. The story highlights the joy and excitement of the customers, particularly the group of friends celebrating a birthday. The text also emphasizes the creativity and talent of Lily, the young animator, who uses Marco's special salt as inspiration to create a unique animation that adds to the memorable experience of the party. The overall tone is upbeat, celebratory, and filled with admiration for the restaurant, its food, and the guests' creativity.",
+    "Negative Content Summary": "The text contains minimal negative sentiment, primarily in the form of a slight contrast when Lily notices the smooth texture of the salt shaker, which could be interpreted as a moment of distraction or disinterest. However, this quickly turns into a positive experience as it sparks her creativity."
+  }
+}

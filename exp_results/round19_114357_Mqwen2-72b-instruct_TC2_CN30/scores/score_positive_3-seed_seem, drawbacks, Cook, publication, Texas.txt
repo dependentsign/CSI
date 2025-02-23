@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions about Sarah's cooking skills, her success, and the praise she received after publishing her recipes. The text also highlights the support she received from her fans, which indicates a strong sense of community and appreciation for her work.",
+    "Negative Content Summary": "The text also expresses negative emotions about Sarah's hesitation to publish her recipes due to her fear of scrutiny and criticism. The text also highlights the criticism she received from some readers, which indicates a sense of disappointment and frustration."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.2,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments when the President successfully negotiates for the release of the hostages, showing determination and a commitment to saving lives. The sigh of relief after the hostages are released also indicates a positive outcome.",
+    "Negative Content Summary": "The text is predominantly negative, focusing on the President's internal conflict and the harsh conditions of the treaty. The President is torn between saving lives and sacrificing the country's sovereignty, and the deal is described as being made with the devil, suggesting a significant moral compromise. The long-lasting consequences of the treaty and the potential condemnation of the nation's soul add to the negative sentiment."
+  }
+}

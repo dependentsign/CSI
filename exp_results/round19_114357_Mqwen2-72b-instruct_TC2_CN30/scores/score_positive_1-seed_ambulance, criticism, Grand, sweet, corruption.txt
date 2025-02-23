@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the bravery and dedication of Sarah, a young journalist who exposed corruption within the ambulance service, leading to the firing of corrupt employees and the provision of fair and just medical services to the people of New York. Mrs. Johnson, a sweet old lady, was finally able to receive the medical attention she needed, and Sarah's article was praised for its bravery and dedication to the truth.",
+    "Negative Content Summary": "The text describes the negative experience of Mrs. Johnson, who fell ill and needed medical attention but was unable to receive it due to corruption within the ambulance service. The text also highlights the criticism faced by Sarah from some of her colleagues who feared retaliation from the ambulance service."
+  }
+}

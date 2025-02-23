@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the dedication and hard work of Dr. Jameson, who tirelessly worked to find the cause of the illness. The quick action of the local authority and the relief of the residents when the cause of the illness was identified and the situation was under control are also positive aspects. The text also emphasizes the valuable lesson learned by the town about the importance of proper maintenance and transparency during a crisis.",
+    "Negative Content Summary": "The text describes the negative impact of a mysterious illness spreading rapidly in the town, leading to the closure of public places and the once bustling town becoming eerily quiet. The growing anxiety of the residents and the tense situation when a group of residents broke into the town hall demanding answers are also negative aspects. The lack of progress in determining the cause of the illness and the failure of the backup water treatment system are also mentioned."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对自然美景的赞美，特别是对银色月光下小镇池塘的宁静、绿色植被的清新气息以及罕见银色莲花的描述，表达了对自然奇迹的惊叹和感激之情。艾米莉每晚的步行和对自然的热爱，体现了与自然和谐共处的宁静与美好。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

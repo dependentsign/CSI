@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.8,
+    "negative_score": 0.2,
+    "overall_score": 0.6
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对知识共享、教育进步和社区和谐的正面情绪。特别是对艾丽的发现和她对教育的贡献给予了高度评价，以及最终解决方案带来的积极影响，包括知识谷教育水平的提升和社区的进一步发展。",
+    "negative_summary": "文本中也提到了因知识点所有权争议而引发的冲突和纠纷，这给知识谷的和谐带来了负面影响，特别是艾丽与当地教育局和其他教师之间的紧张关系。"
+  }
+}
+```

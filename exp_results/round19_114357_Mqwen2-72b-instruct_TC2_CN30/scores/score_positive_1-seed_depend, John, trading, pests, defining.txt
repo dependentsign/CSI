@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.8,
+    "negative_sentiment_score": 0.2,
+    "overall_sentiment_score": 0.6
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive sentiments about the value of collaboration and the strength that comes from recognizing when to depend on others. It highlights the success of John's trading business after receiving help from a local pest control expert, Maria, and her team. The text also emphasizes the importance of learning and growth, as John realizes that accepting help does not compromise his independence.",
+    "negative_content_summary": "The text conveys negative sentiments regarding the challenges John faced when a sudden infestation of pests threatened to destroy his entire inventory. It also touches on John's initial resistance to depending on someone else to solve his problems, indicating a struggle with pride and independence."
+  }
+}

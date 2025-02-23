@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了正面情绪，主要体现在对梦想的追求、创新精神的赞扬以及对小明和李老师正面形象的描绘。小明开设葱花店铺的故事展现了持之以恒、勇于创新和面对挑战的精神，李老师的支持和鼓励也体现了教育的正面影响。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

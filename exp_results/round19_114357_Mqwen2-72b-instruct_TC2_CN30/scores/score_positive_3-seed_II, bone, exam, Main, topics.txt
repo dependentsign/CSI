@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of determination, passion, and achievement. The protagonist, II, is described as being fascinated by the human body and spends hours reading and watching documentaries about anatomy. She is thrilled about the exam on the skeletal system, which is one of her favorite topics. Despite facing a challenging question, she remains confident and ultimately scores the highest in the class. The text ends on a note of joy and confidence as II feels more certain than ever that she can achieve her dreams of becoming a doctor.",
+    "Negative Content Summary": "The text also contains a moment of disappointment and uncertainty when II encounters a question about a bone she has never heard of before. She feels defeated as she leaves the classroom, fearing that her guess may have ruined her perfect score."
+  }
+}

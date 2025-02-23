@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive": 1.0,
+    "negative": 0.0,
+    "overall": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本描述了李明和小宝在城市公园度过的愉快亲子时光，充满了爱、幸福和快乐。他们一起乘坐热气球、品尝美食、玩乐、绘画，共同创造了美好的回忆。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

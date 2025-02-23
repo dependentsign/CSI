@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了林晓对生活的热爱，对梦想的追求，以及她通过努力和坚持，最终实现梦想的正面情绪。她的作品集和证明信展现了她对艺术的热爱和承诺，赢得了比赛，也赢得了父母的理解和支持。",
+    "negative_summary": "文本中提到了林晓的父母最初希望她选择一条更为稳定的职业道路，这给林晓带来了压力和挑战，体现了轻微的负面情绪。"
+  }
+}
+```

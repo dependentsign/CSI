@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with themes of community, unity, and artistic achievement. The election of Lily as the town artist is portrayed as a positive event, and her determination to create a piece of art that represents the town's essence is highlighted. The text also emphasizes the supportive and collaborative nature of the town, with the mayor and Max assisting Lily in her mission. The completion of the painting and its reception by the town are described in positive terms, with the painting serving as a symbol of the town's unity and strength.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, primarily related to the potential interference with Lily's progress and the need for a guard to protect her materials. However, this is quickly resolved with the assistance of the mayor and the introduction of Max as a capable guard."
+  }
+}

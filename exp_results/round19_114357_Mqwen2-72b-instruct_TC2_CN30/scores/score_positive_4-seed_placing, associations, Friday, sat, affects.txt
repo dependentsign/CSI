@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Sarah feels a sense of accomplishment and becomes more effective at her job by organizing her papers one at a time, understanding the impact of each document on her work and the company, and coming up with ideas for improving processes.",
+    "Negative Content Summary": "Sarah feels overwhelmed by the task of organizing her papers, which has been affecting her work."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "David's careful nature, the technician's willingness to help, the successful recovery of some data, and David's feelings of gratitude and relief contribute to the positive sentiment in the text.",
+    "Negative Content Summary": "David's devastation at breaking his phone, the initial assessment that the phone was beyond repair, David's financial struggles, and the anxiety of waiting for the data recovery contribute to the negative sentiment in the text."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.25,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about Tommy's decision to seek help, his realization of the importance of health over social conformity, and his successful transformation into a healthier and happier person. The positive emotions include determination, relief, and happiness.",
+    "Negative Content Summary": "The text also conveys negative sentiments about Tommy's excessive consumption habits, the negative impact on his health and academic performance, and his initial hesitation to follow the recommended procedure. The negative emotions include worry, discomfort, and regret."
+  }
+}

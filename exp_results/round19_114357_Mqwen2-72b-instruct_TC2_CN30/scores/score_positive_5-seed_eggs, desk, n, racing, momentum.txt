@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, primarily centered around the themes of discovery, friendship, and shared experiences. The joy of finding the eggs, the excitement of sharing the discovery with a friend, and the pleasure of watching the chicks grow and learn are all highlighted. The competitive spirit and the thrill of the race add to the positive sentiment, as does the sense of camaraderie and shared achievement between N and Racing.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, primarily related to the potential danger that Racing's suggestion of a race might pose to the chicks. N's initial hesitation and concern for the chicks' safety reflect a minor negative sentiment."
+  }
+}

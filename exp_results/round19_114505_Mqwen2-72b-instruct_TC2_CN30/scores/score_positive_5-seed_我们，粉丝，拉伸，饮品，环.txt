@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对瑜伽的热爱、对健康生活方式的追求以及团队间的温暖和支持。特别提到了'环形能量饮'作为团队象征，不仅补充营养，还增强了团队凝聚力，吸引了更多人加入，共同享受健康快乐的生活。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Maria's determination, hard work, and positive attitude are highlighted throughout the text. She takes initiative to improve her skills, applies for a job that matches her qualifications, and successfully passes a test and interview. She is grateful for the opportunity and works hard to prove herself, gaining valuable experience and financial stability.",
+    "Negative Content Summary": "The text begins with a description of a difficult situation for Maria, who has lost her job and is struggling to make ends meet. The cold winds and howling streets of Rio de Janeiro add to the sense of hardship. Maria's savings are running low, and she is at risk of having to move back in with her parents if she does not find a new job soon."
+  }
+}

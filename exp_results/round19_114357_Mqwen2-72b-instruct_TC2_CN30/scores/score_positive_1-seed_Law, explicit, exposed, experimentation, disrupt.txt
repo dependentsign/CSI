@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.3,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the importance of laws and regulations in protecting the vulnerable from exploitation. It also emphasizes the value of justice and the respect for the rights of others. The law was strengthened, and new regulations were put in place to prevent such experimentation from happening again. The victims of the experiments were finally given the justice they deserved.",
+    "Negative Content Summary": "The text describes a group of scientists who decided to disrupt the status quo and experiment on unsuspecting individuals without their knowledge or consent. The experiments led to severe health problems and even death for some of the subjects. The public was outraged when they learned of the scientists' actions, and the scientists were arrested and put on trial, facing serious charges for their illegal experimentation."
+  }
+}

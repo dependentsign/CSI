@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Lily found a spray that brought a sense of calm and nature to her apartment, helping her adapt to city life and feel a sense of peace and contentment. She was able to store her belongings more efficiently and create a small garden on her balcony, which added to her happiness.",
+    "Negative Content Summary": "Lily initially struggled with adapting to the fast-paced lifestyle of the city and found it challenging to store all of her belongings in her small apartment."
+  }
+}

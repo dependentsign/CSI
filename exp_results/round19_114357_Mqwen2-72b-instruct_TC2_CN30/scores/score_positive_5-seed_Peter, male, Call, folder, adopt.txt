@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions related to the joy of becoming a parent through adoption. Peter's dream of being a father, his good job, loving partner, and spacious home are all positive aspects of his life. The excitement of finding a flyer for an adoption agency, the approval to adopt a child, and the fulfillment of watching his son grow and learn are all positive events. The text also highlights the love and gratitude Peter feels for the opportunity to be a father.",
+    "Negative Content Summary": "The text briefly touches on the feeling of something missing in Peter's life before he considered adoption. This is the only negative sentiment expressed in the text."
+  }
+}

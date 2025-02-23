@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.15,
+    "overall_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对小镇居民面对气候变化挑战时展现出的积极态度和行动的赞赏。李季领导的'求季平衡'计划成功恢复了季节的正常更替，不仅美化了环境，还增强了居民对自然的敬畏和对人与自然和谐共存的信念。",
+    "negative_summary": "文本中提到了气候变化带来的季节性混乱，对农作物生长周期和居民生活节奏的负面影响，这是文本中的主要负面情绪来源。"
+  }
+}
+```

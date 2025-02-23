@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the courage and determination of Sarah and Mark, who moved into a supposedly haunted house and were excited to start their new life together. They were rational and did not believe in superstitions. They discovered the truth about the house and the woman who had died there, and with the help of a local historian, they were able to bring the killer to justice. The removal of the man's guilt and the closure of the case allowed the woman's spirit to finally rest in peace. Sarah and Mark were relieved to find that the house was no longer haunted, and that the reality of the situation was far less terrifying than the rumors that had surrounded it for so long.",
+    "Negative Content Summary": "The text describes a house that everyone avoided, said to be haunted by the ghost of a woman who had died in a tragic accident many years ago. The locals whispered that her spirit was angry and vengeful, seeking revenge on anyone who dared to enter her home. Strange things began to happen almost immediately after Sarah and Mark moved in, including doors slamming shut on their own, objects moving without explanation, and eerie whispers in the dead of night. They began to feel a sense of horror creeping over them, as if something was watching them from the shadows. The events became more frequent and intense, and they discovered the truth about the house and the woman who had died there, which was far more tragic than they could have imagined."
+  }
+}

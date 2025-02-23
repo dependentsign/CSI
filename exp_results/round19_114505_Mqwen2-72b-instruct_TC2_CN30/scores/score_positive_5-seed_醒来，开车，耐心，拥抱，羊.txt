@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了正面情绪，主要体现在艾米对乡村早晨的宁静与期待，与好友莉莉的温暖重逢，以及在农场与小羊互动时的喜悦。艾米感受到了友情的温暖和大自然的宁静，心中充满了感激和喜悦。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

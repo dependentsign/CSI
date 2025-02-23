@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions related to justice, determination, and accomplishment. Maya's fight for justice and her determination to make a difference are highlighted as positive aspects. Her success in preventing the acquisition of the community center and the resulting sense of pride and accomplishment are also portrayed positively.",
+    "Negative Content Summary": "The text also contains negative emotions related to criticism, doubt, and opposition. Maya faces criticism from onlookers who accuse her of being too radical and causing unnecessary trouble. She also experiences doubt and opposition from the police who arrive to disperse the crowd. The corporation's history of exploiting communities for profit is also portrayed negatively."
+  }
+}

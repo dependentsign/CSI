@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of determination, passion, and personal growth. Lily's journey to learn Go, despite the challenges, is portrayed as a deeply fulfilling and transformative experience. Her perseverance, focus, and ability to channel her emotions into something positive are highlighted as key themes. The text also emphasizes the impact of her journey on her life and the lives of those around her, suggesting a broader sense of purpose and gratitude.",
+    "Negative Content Summary": "The text also touches on feelings of frustration and struggle, particularly when Lily is trying to learn Go on her own. The complexity of the game and the lack of guidance are portrayed as significant obstacles. The grueling nature of the test to join the Go master's class is also mentioned, highlighting the high stakes and intense emotions involved."
+  }
+}

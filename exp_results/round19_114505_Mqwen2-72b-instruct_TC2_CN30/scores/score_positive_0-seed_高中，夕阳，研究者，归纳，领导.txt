@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对科学探索的热爱和对校园美好环境的赞美。李明和他的团队在科学探索社中展现出的激情、合作精神和对自然界的深入研究，不仅为校园增添了学术氛围，也为自己赢得了认可和未来的机遇。他们的努力和成就在夕阳的见证下显得格外耀眼，预示着更加广阔和精彩的科学探索之路。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

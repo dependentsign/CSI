@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive attributes of the main character, Jack, who is portrayed as a renowned detective with a sharp mind. His determination to solve the mystery and bring the criminals to justice is commendable. The city's relief and Jack's recognition as a hero add to the positive sentiment.",
+    "Negative Content Summary": "The text describes a series of mysterious falls and the involvement of a secret society, 'The Falls,' in various crimes and disasters. The dangerous initiation tasks and the web of corruption and deceit associated with the society contribute to the negative sentiment. The pain and suffering caused by the society are also mentioned."
+  }
+}

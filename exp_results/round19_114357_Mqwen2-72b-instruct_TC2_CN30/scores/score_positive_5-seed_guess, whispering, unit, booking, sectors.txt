@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text describes a secret organization, 'The Unit,' with highly skilled members who take on challenging missions. The team works together efficiently, and their mission is ultimately successful. There is a sense of camaraderie and teamwork among the members.",
+    "Negative Content Summary": "The team leader, Echo, feels that something is off and suspects a mole in their midst. This creates an atmosphere of suspicion and danger. The team is almost compromised when their cover is nearly blown, adding to the tension and uncertainty."
+  }
+}

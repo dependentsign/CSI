@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of peace, gratitude, and respect for nature. The lush green forest, the sun shining through the canopy, and the woman's gentle interaction with the bird all contribute to a positive and serene atmosphere. The woman's appreciation for the natural world and her task of gathering berries for her family are depicted in a positive light.",
+    "Negative Content Summary": "The text contains a slight hint of negativity when it mentions that the peaceful scene in the forest is about to be interrupted. However, this is quickly resolved as the woman's presence is revealed to be in harmony with the environment."
+  }
+}

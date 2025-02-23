@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the themes of unity, divine guidance, love, compassion, justice, and the potential for positive change. The Nations' realization of the importance of universal laws and their determination to implement them in their own nations to create a better world for all people is a significant positive aspect.",
+    "Negative Content Summary": "Negative sentiments are present in the initial focus of the Nations on their own desires, power, and greed, rather than the needs of their people. The uncertainty and silence when the Lord questions their consideration of universal laws also indicate a moment of negative self-reflection."
+  }
+}

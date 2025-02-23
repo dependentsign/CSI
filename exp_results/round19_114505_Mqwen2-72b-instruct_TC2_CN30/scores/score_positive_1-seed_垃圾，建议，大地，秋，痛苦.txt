@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive": 0.85,
+    "negative": 0.35,
+    "overall": 0.5
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对自然美景的欣赏和对环境保护的积极行动，以及社区居民对环保倡议的积极响应，共同守护大地，让美丽永存的正面情绪。",
+    "negative_summary": "文本中描述了垃圾污染破坏环境美感，给生物带来痛苦的负面情绪，以及小明对人们不尊重自然的不解和痛苦。"
+  }
+}
+```

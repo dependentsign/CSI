@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions about Bob's resilience, talent, and determination. The incident that could have ended his career instead made him stronger and more famous. The crowd's appreciation and the tokens he collected over the years are also positive aspects of the story.",
+    "Negative Content Summary": "The text also contains negative emotions, particularly the incident where a stone was thrown at Bob, causing him to fall to the ground. The rowdy teenagers who caused the incident are also portrayed negatively."
+  }
+}

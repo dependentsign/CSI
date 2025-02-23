@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as curiosity, gratitude, and pride. Maya's determination to complete her thesis and her eventual success in graduating with honors are portrayed as positive outcomes. The mysterious man's willingness to share his knowledge is also depicted as a positive event that leads to Maya's success.",
+    "Negative Content Summary": "The text also contains negative emotions such as fear and shock. Maya's hesitation to take the man's hand and her shock at the severity of the Java security breaches are portrayed as negative events. The mention of people who don't want the information to get out also adds a sense of danger and negativity to the story."
+  }
+}

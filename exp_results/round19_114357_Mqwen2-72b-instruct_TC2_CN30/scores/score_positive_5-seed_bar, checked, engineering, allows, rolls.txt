@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as hope, excitement, and gratitude. Jack's passion for engineering is highlighted, and he is able to see opportunities where others see obstacles. He makes a connection that could change the course of his career, and he leaves the bar feeling energized and excited.",
+    "Negative Content Summary": "The text also contains some negative emotions, such as envy and the weight of engineering on Jack's shoulders. He has been consumed by his project, leaving little time for anything else. However, these negative emotions are outweighed by the positive ones."
+  }
+}

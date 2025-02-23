@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions about Max's love for coding, his transformation after using the high-tech shower system, increased productivity, improved personal habits, and the importance of having a backup plan. The story highlights the benefits of self-care and the positive impact it can have on one's work and life.",
+    "Negative Content Summary": "The text mentions Max's neglect of personal hygiene due to his intense focus on coding, which is portrayed as a negative aspect of his life. Additionally, the accidental spill of coffee on the keyboard creates a moment of panic and potential loss of work, which is a negative event in the story."
+  }
+}

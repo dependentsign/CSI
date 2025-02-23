@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要描述了李明通过积极的社交活动，不仅丰富了自己的生活，还促进了事业的发展。他作为自由职业者，通过网络平台接单，利用社交活动拓展人脉，提升个人品牌，形成良性循环。李明的故事鼓励人们保持开放心态，勇于探索，积极交流，以发现更多可能性。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints through the determination and hard work of Lily, a young girl who saves the annual Winter Festival in Winterhaven. Her efforts are praised, and she is celebrated as a hero, earning the title of the Snow Queen. The festival is described as a beloved tradition, bringing joy and excitement to the town's residents and visitors. The ice sculptures and snowball fights are depicted as impressive and fun, contributing to the overall positive sentiment.",
+    "Negative Content Summary": "The negative emotions and viewpoints in the text are related to the heavy snowfall that threatens to cancel the Winter Festival. The snow is described as preventing the town's main function, causing worry and concern among the festival organizers. The high snow piles are depicted as a problem that needs to be solved, creating a sense of tension and uncertainty."
+  }
+}

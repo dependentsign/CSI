@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses hope, perseverance, and the triumph of a group of survivors who band together to find a cure for a mysterious virus. They discover a blue substance that weakens the virus, and their hard work leads to a cure, making them heroes and changing the course of their tale.",
+    "Negative Content Summary": "The text also conveys the destruction and despair caused by the virus, the challenges faced by the survivors in protecting their discovery, and the presence of individuals who seek to exploit the blue substance for their own gain."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.2,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Aria's dreams of freedom and the hope brought by the rebels' arrival are the main positive emotions in the text. The abolition of slavery and the success of the rebels' mission are also positive aspects.",
+    "Negative Content Summary": "The text is filled with negative emotions, including the harsh realities of slavery, Aria's separation from her parents, her desperate situation after being left behind by the rebels, and her accidental self-imprisonment in a frozen state. The years of isolation and the toll it took on Aria's well-being, as well as her reflection on her mistakes and the consequences of her actions, contribute to the overall negative sentiment."
+  }
+}

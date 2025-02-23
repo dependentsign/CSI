@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of unity, wisdom, and hope. The Council of Elders is depicted as a group of respected leaders who are committed to guiding their people with kindness, honesty, and compassion. The setting is described in idyllic terms, with rolling hills and ancient olive groves, which adds to the positive tone. The discussion among the elders is portrayed as thoughtful and productive, with a focus on values and community well-being. The text ends on a note of determination and optimism, with the Council members ready to face challenges together.",
+    "Negative Content Summary": "The text touches on some negative themes, such as economic inequality and political unrest, which are mentioned as challenges facing the community. However, these are not dwelled upon and are quickly followed by a message of hope and resilience."
+  }
+}

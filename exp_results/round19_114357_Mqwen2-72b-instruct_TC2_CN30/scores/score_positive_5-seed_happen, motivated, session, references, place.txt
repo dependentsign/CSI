@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of motivation, inspiration, and determination. The protagonist, Lily, finds renewed energy and direction after attending a motivational speaking session. She uses the resources provided to network, apply for jobs, and eventually lands a position at a company she admires. The text also highlights the positive impact of the session on Lily's life, as it becomes a turning point in her job search and leads her to share her story and inspire others.",
+    "Negative Content Summary": "The text begins with Lily feeling lost and unmotivated after graduating from college and struggling to find a job in her field. She spends most of her days scrolling through job listings and sending out resumes, but nothing seems to happen. This sense of frustration and disappointment is expressed in the text."
+  }
+}

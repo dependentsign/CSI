@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the school, its students, and the community. The school is described as a beacon of hope, the students are bright and curious, and the teachers are dedicated. The police officers are portrayed as brave and dedicated, and the learners are inspired to make a difference in their community. The celebrations are a symbol of hope and resilience, and the school remains a beacon of hope for the city.",
+    "Negative Content Summary": "The text also contains negative sentiments about the criminals who threaten the school and the community. They are described as a group of criminals who have been terrorizing the city and planning to disrupt the school's celebrations. The learners are initially scared, and the police officers are on high alert."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of community, collaboration, and positive change. The group's dedication to improving their town by creating green spaces, community gardens, and accessible public areas is highlighted. The success of the community garden project and the positive impact on the local economy are also mentioned.",
+    "Negative Content Summary": "The text briefly mentions the lack of green spaces in the town, which is the main issue the group wanted to address. This is the only negative sentiment expressed in the text."
+  }
+}

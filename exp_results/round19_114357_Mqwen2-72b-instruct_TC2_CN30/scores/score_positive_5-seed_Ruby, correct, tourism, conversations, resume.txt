@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about Ruby's journey of personal and professional growth. It highlights her dedication to correctness and precision, her hard work in pursuing a career in tourism, and her eventual success in connecting with people and improving her conversational skills. The text also emphasizes the positive impact of her newfound skills on her personal life, including the ability to make new friends and have more meaningful conversations.",
+    "Negative Content Summary": "The text also contains some negative sentiments, particularly in the beginning when Ruby struggles to connect with her tour groups. The text describes her monotone voice and lack of eye contact, which suggests a lack of engagement and connection with her guests. However, these negative sentiments are outweighed by the positive sentiments expressed later in the text."
+  }
+}

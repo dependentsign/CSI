@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.10,
+    "Overall Sentiment Score": 0.85
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of compassion, kindness, and self-discovery. Aisha's actions towards the wounded deer demonstrate her caring nature and her ability to find purpose and identity in helping others. The story highlights the beauty of being different and the importance of celebrating one's uniqueness.",
+    "Negative Content Summary": "The text contains a minor element of struggle and pain, particularly in the description of the wounded deer and Aisha's initial feelings of not fitting in with the other children in her village. However, these negative emotions are overshadowed by the positive themes of the story."
+  }
+}

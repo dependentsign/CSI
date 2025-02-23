@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Sarah feels content and grateful for the simple pleasures in life, such as a working tap and a quiet night. She is satisfied with her handiwork after fixing the dripping tap and enjoys reading her book.",
+    "Negative Content Summary": "Sarah is initially disturbed by the sound of the dripping tap and is concerned about the potential increase in her water bill. She struggles to fix the tap, which causes her some frustration. She also worries about the tap breaking again in the future."
+  }
+}

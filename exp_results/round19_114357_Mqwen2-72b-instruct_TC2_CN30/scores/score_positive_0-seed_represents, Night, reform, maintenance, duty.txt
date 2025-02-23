@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints through the restoration of the statue, the dedication and hard work of Maya, and the sense of pride and accomplishment felt by the community. The statue becomes a symbol of hope and renewal, representing the light found in the hearts of the people who care for it.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints, particularly regarding the neglect of the statue by the city council, which led to its disrepair and the statue becoming a mere shadow of its former self. However, these negative aspects are outweighed by the positive sentiments expressed in the text."
+  }
+}

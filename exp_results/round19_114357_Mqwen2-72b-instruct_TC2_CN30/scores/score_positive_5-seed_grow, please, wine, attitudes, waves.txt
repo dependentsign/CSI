@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, primarily centered around the beauty of the vineyard, the exquisite quality of the wine, and the kindness and dedication of the owner, Marco. The tourists' transformation from entitled to appreciative is also a positive aspect, highlighting the power of the wine and the vineyard's atmosphere to change attitudes. The text concludes with Marco's pride in his vineyard's impact and his commitment to spreading joy and kindness.",
+    "Negative Content Summary": "The only negative sentiment in the text is associated with the tourists' initial sense of entitlement and expectation to be served and catered to. However, this sentiment is quickly overshadowed by their positive transformation."
+  }
+}

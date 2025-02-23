@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of wonder, curiosity, and innovation through Monika's fascination with technology and her partnership with Alex. Their dedication to using their discovery for the betterment of society highlights a positive and responsible attitude towards scientific advancement.",
+    "Negative Content Summary": "The text contains a subtle undercurrent of caution regarding the potential misuse of technology, as Monika and Alex recognize the dangers of their discovery falling into the wrong hands. This concern adds a note of responsibility and awareness to the narrative."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对老李智慧和公正管理的赞赏，以及对竹林产量和质量超越平均数的正面描述，体现了村民们生活改善和村落骄傲的正面情绪。",
+    "negative_summary": "文本中轻微提及了管理要求的严格性和自然环境变化带来的挑战，但这些负面情绪被积极的应对策略和结果所平衡。"
+  }
+}
+```

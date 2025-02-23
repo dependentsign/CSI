@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，包括对网络世界的好奇、探索的勇气、智慧和坚持，以及面对困难时的积极态度。小明的成长和领悟，以及他从龙那里得到的智慧，都是正面情绪的体现。",
+    "negative_summary": "文本中存在轻微的负面情绪，主要体现在网络世界中的障碍和挑战，以及小明在探索过程中遇到的困难。"
+  }
+}
+```

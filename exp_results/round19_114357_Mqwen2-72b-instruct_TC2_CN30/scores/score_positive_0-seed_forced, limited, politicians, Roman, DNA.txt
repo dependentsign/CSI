@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the power of the people to effect change, as seen in the couple's successful challenge to the DNA law and the subsequent celebration of their victory. The couple is portrayed as heroes, and the people of the Roman Empire are shown to be united in their fight against discrimination.",
+    "Negative Content Summary": "The text expresses negative sentiments about the politicians of the new Roman Empire, who are described as ruthless and power-hungry. The DNA law is portrayed as controversial and discriminatory, causing outrage among the people. The couple's struggle to have a child is also depicted as a negative aspect of the text, as they are forced to challenge the law and risk imprisonment."
+  }
+}

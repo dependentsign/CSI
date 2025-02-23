@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, primarily centered around the impact of a podcast called 'Wellbeing with Wendy.' Wendy, a therapist and life coach, provides comfort and insightful advice to her listeners, particularly during times of heightened tensions. Her episode on 'The Power of Gratitude' has a profound impact on her audience, encouraging them to practice gratitude, which leads to improved mental health, happiness, and contentment. The story highlights the transformative effect of the podcast on a listener named Jack, who overcomes anxiety and depression through daily listening and gratitude practice. The text also emphasizes the positive ripple effect of expressing thanks, as Wendy's listeners share their stories of improved relationships and overall wellbeing.",
+    "Negative Content Summary": "The text contains a minor level of negative sentiment, primarily related to the struggles of a listener named Jack, who had been dealing with anxiety and depression for years. The text briefly mentions his unsuccessful attempts at therapy, medication, and self-help books before finding solace in Wendy's podcast."
+  }
+}

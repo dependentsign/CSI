@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the government's efforts to maintain peace and order in the city. The cleanliness of the streets, well-maintained buildings, and the citizens' ability to live without much worry are all highlighted as positive aspects. The government's proactive approach to prevent crime and violence from spilling over into the city limits is also praised. The decrease in crime rate and the citizens' feeling of safety are seen as positive outcomes of the government's efforts.",
+    "Negative Content Summary": "The text also acknowledges the negative issue of a surge in crime and violence in the surrounding areas of the city, which is causing concern for the government officials. The potential threat of crime and violence spilling over into the city limits is seen as a negative aspect."
+  }
+}

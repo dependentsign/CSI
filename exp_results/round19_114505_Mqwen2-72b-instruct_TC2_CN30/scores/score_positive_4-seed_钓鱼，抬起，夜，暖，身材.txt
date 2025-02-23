@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本描述了一个宁静美好的夜晚，李明在湖边夜钓，享受与自然的亲密接触，体验到难以言喻的宁静和温暖。他成功钓到一条大鱼，但选择将其放生，体现了对自然的尊重和爱护。夜钓对他来说，是一种心灵的洗礼，让他在忙碌的生活中找到宁静和满足。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

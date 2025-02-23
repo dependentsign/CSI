@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, primarily centered around the character Harry's love for tea and his collection of rare and exotic teas. The narrative highlights the joy and pride Harry takes in his hobby, the positive outcome of sharing his prized tea with Butt, and the development of a new friendship over their shared interest. The text also conveys a sense of warmth, hospitality, and appreciation for the simple pleasures in life.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and revolves around Harry's initial hesitation to share his rare tea with Butt and his subsequent worry about the tea's return. However, these negative emotions are quickly resolved, and the overall tone remains overwhelmingly positive."
+  }
+}

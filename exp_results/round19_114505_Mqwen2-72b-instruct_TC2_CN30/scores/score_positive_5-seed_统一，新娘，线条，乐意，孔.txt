@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本充满了对和谐、统一、爱与祝福的正面情绪。描述了一个国王深爱子民、艺术家琳通过画作《统一之新娘》表达对国家统一的深刻理解和祝福，以及画作成为国家统一与和谐的象征，传递美好愿景的故事。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

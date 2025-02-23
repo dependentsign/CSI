@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the success of a film festival that turned a negative event into a positive outcome. The festival organizers and environmental officers formed a partnership that raised awareness about environmental issues and showcased films that explored the beauty and fragility of the natural world. The festival-goers were moved by the films and left with a renewed sense of purpose.",
+    "Negative Content Summary": "The text describes a massive fire that broke out in the city's industrial area, causing chaos and panic among the festival-goers. The fire had spread quickly and caused significant damage to the city's ecosystems. The festival organizers were devastated and feared that the festival would have to be canceled."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions related to the festival, such as joy, togetherness, and celebration of culture and traditions. Maria's reunion with her sister and the strengthening of their bond are also portrayed as positive experiences.",
+    "Negative Content Summary": "The text also conveys negative emotions, including sadness and devastation, when Maria's sister falls ill and is initially unable to attend the festival. Maria's heart not being fully in the festival activities also indicates a sense of melancholy."
+  }
+}

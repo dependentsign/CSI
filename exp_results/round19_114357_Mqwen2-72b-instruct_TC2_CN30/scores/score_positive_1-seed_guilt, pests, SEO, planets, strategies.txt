@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the planet New Eden, describing it as a lush paradise with abundant resources and a thriving ecosystem. The settlers' amazement and gratitude towards Maya's ingenuity and the positive impact of her solution are also highlighted. Maya's sense of pride and satisfaction in using her skills to make a positive impact on the world is emphasized. The text also suggests that guilt can be a powerful motivator for change and that thinking outside the box can lead to effective strategies.",
+    "Negative Content Summary": "The text expresses negative sentiments about the pests that threatened to destroy the settlers' crops and homes on New Eden. The settlers' feelings of guilt for disrupting the natural balance of the planet are also mentioned. The text also highlights the challenges and difficulties faced by the settlers in trying to get rid of the pests."
+  }
+}

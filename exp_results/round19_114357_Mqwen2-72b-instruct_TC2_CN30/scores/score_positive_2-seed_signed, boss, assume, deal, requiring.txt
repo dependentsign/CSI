@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, particularly in the context of Lily's professional growth and success. The positive aspects include her boss's confidence in her abilities, her successful completion of a challenging deal, and her subsequent promotion and raise. The text highlights Lily's dedication, hard work, and the recognition she receives, which contribute to her confidence and career advancement.",
+    "Negative Content Summary": "The text also contains some negative emotions and viewpoints, primarily related to Lily's initial hesitation and nervousness about taking on extra work. The added responsibilities were perceived as a challenge, and there was a concern about managing an already busy workload. However, these negative sentiments are overshadowed by the positive outcomes and Lily's ability to overcome the challenges."
+  }
+}

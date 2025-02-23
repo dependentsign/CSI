@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对金融领域的热爱和追求，以及通过学习和实践取得成功的正面情绪。李明对金融充满热情，通过深入学习和实践，将理论知识与实际工作相结合，展现出了惊人的分析能力和解决问题的能力，得到了同事和上司的认可。",
+    "negative_summary": "文本中轻微的负面情绪主要体现在金融世界的复杂性，以及李明在学习和实践过程中可能遇到的挑战和困难。"
+  }
+}
+```

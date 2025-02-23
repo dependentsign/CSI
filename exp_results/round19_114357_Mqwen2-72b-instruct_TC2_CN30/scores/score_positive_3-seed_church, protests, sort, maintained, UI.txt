@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the church's role as a place of worship, community, and hope. It highlights the church's efforts to adapt to modern times by using technology to improve communication and address community concerns. The positive response to the new website and the church's leadership's ability to navigate a difficult situation are also emphasized.",
+    "Negative Content Summary": "The text also contains negative sentiments regarding the controversy and protests surrounding the church. It mentions accusations of the church being out of touch with the modern world and the challenges faced by the church's leadership in responding to these issues. The negative emotions are less prominent than the positive ones, but they add a layer of complexity to the overall sentiment."
+  }
+}

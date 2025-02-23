@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Sophie found a way to cope with her trauma through relaxation techniques and visualization. She discovered a vintage record player that transported her back in time and brought her peace. Listening to old records and visualizing herself in a peaceful meadow helped her manage her anxiety and depression, making her feel more centered and grounded. She learned that sometimes, the things we need most in life come to us unexpectedly.",
+    "Negative Content Summary": "Sophie had been through a lot of trauma in her life, including losing her parents in a car accident when she was a child. She struggled with anxiety and depression ever since."
+  }
+}

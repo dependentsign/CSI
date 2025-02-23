@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.85,
+    "negative_sentiment_score": 0.15,
+    "overall_sentiment_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions and viewpoints, such as gratitude, empowerment, and inspiration. Alexander's transformation from fear to confidence is highlighted, as well as his willingness to share his newfound wisdom with others.",
+    "negative_content_summary": "The text also contains negative emotions and viewpoints, such as fear and anxiety. Alexander's initial fear of the unknown and his struggle to overcome it are described."
+  }
+}

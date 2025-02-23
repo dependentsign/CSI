@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对历史文物的尊重和保护的正面情绪，以及对年轻一代接棒传承文化的希望和信心。林深和苏浅之间的师徒情谊，以及苏浅利用现代科技手段保护文物的创新精神，都是正面情绪的体现。",
+    "negative_summary": "文本中也存在一定的负面情绪，主要体现在林深对文物未来守护的担忧，以及苏浅在个人梦想与责任之间的抉择所带来的不确定性。"
+  }
+}
+```

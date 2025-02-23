@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of positivity, particularly in the context of personal growth, self-discovery, and career development. Maya's journey from confusion to clarity, her excitement about pursuing a career in software engineering, and her determination to advocate for diversity and inclusion in the tech industry are all highlighted as positive aspects. Her success in gaining a senior engineering position and becoming a mentor to other women further reinforces the positive sentiment.",
+    "Negative Content Summary": "The text contains a minor negative sentiment, primarily related to Maya's initial feelings of confusion and uncertainty about her future after graduating from college. Additionally, the mention of her being one of the few women on the engineering team suggests a lack of diversity in the tech industry, which can be seen as a negative aspect."
+  }
+}

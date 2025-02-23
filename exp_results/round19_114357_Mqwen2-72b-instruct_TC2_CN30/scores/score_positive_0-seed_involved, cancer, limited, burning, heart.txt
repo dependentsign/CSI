@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Sophie's heart was full of love and compassion for others. She spent her days writing letters to other cancer patients, offering words of encouragement and hope. She organized a successful fundraiser for pediatric cancer research, making a positive impact on the world. Her heart was full of love and gratitude.",
+    "Negative Content Summary": "Sophie was diagnosed with cancer, her world turned upside down. Her involvement was limited to the four walls of her hospital room. The burning pain in her body was a constant reminder of the battle she was fighting. She was in a weakened state."
+  }
+}

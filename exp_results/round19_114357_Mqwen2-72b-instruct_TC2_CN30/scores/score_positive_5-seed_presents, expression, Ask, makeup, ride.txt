@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, with themes of joy, excitement, and love. The family gathering on Christmas morning, the joy of receiving a long-desired gift, the happiness of a mother and daughter bonding, and the festive atmosphere of the mall all contribute to the positive sentiment. The text also highlights the importance of family and the joy of simple pleasures.",
+    "Negative Content Summary": "The text contains a very low level of negative sentiment. There are no explicit negative emotions or viewpoints expressed in the text. The only potential source of negative sentiment could be the slight sense of materialism conveyed by the focus on gifts and possessions, but this is not a dominant theme in the text."
+  }
+}

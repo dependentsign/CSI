@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.95,
+    "negative_sentiment_score": 0.05,
+    "overall_sentiment_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions such as happiness, excitement, and gratitude. The protagonist, Sophie, feels safe, protected, and alive in the presence of Jack. She enjoys his company, finds it easy to talk to him, and is thrilled when he asks her out. The overall tone of the text is optimistic and hopeful.",
+    "negative_content_summary": "The text contains a slight hint of nervousness when Sophie is asked out by Jack. However, this nervousness is quickly overshadowed by her excitement and eagerness to accept his offer."
+  }
+}

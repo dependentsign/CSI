@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对建筑工作和家庭传承的正面情感，强调了梦想、汗水、执着和成就感。达和老李之间的父子情深，以及对建筑事业的热爱和对未来的憧憬，构成了文本的正面情绪核心。",
+    "negative_summary": "文本中轻微的负面情绪体现在达对混凝土墙的最初冷漠感受，以及工作中的辛苦和汗水，但这部分负面情绪被正面情绪所超越，成为实现梦想和成就感的铺垫。"
+  }
+}
+```

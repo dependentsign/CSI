@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, particularly in the girl's transformation from fear to courage, her appreciation for human creativity and cultural evolution, and her sense of belonging and community at the festival. The positive sentiment is reflected in the girl's newfound courage, her enjoyment of the festival, and her appreciation for the beauty of cultural evolution.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints, particularly in the girl's initial fear and shyness, her reluctance to participate in the festival, and her feelings of being overwhelmed by the crowd. The negative sentiment is reflected in the girl's initial reluctance to join in the festivities and her nervousness and uncertainty at the beginning of the festival."
+  }
+}

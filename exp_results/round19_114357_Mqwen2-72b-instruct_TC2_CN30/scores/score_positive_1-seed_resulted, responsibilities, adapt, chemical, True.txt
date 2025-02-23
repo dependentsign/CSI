@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions about Dr. Jameson's dedication to studying the effects of chemicals on the environment, his sense of responsibility to use his abilities for the greater good, and his tireless efforts to educate others about the dangers of chemical pollution and advocate for stricter regulations on the use of harmful substances. The text also highlights the positive impact that Dr. Jameson had on the environment and the world.",
+    "Negative Content Summary": "The text expresses negative emotions about the accidental mixing of two chemicals that caused Dr. Jameson to cough and stumble backwards, and his initial terror at the changes that were taking place within him. The text also highlights the dangers of chemical pollution and the harm it can cause to the planet."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on the determination, passion, and success of a young scientist named Maya. Her relentless pursuit of renewable energy, specifically a new format for solar panels, is highlighted as a revolutionary breakthrough. The text also emphasizes the positive impact of her work on the environment and the inspiration she provides to others.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, mainly in the form of skepticism from Maya's colleagues regarding her proposal. However, this is quickly overshadowed by Maya's determination and the eventual success of her proposal."
+  }
+}

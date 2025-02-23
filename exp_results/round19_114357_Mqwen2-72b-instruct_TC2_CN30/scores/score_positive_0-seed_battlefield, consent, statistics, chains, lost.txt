@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about hope, unity, and the possibility of peace even in the darkest of times. The soldiers from both sides working together towards peace and the eventual success in achieving it are highlighted as positive aspects. The soldier's realization of the value of hope for a better future is also a positive sentiment.",
+    "Negative Content Summary": "The text describes a battlefield, chaos, destruction, and the loss of comrades, which are all negative sentiments. The war is described as pointless, causing suffering and death, and shacking their people in chains of hatred and violence, which are also negative sentiments."
+  }
+}

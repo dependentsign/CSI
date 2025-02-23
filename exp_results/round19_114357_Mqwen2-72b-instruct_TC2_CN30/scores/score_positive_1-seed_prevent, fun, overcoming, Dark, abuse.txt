@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints through Lily's resilience, her love for nature, and her transformation into a protector of the forest. Her actions demonstrate courage, strength, and a sense of purpose, which are all positive attributes. The text also highlights the beauty of the natural world and the importance of treating all living things with kindness and respect.",
+    "Negative Content Summary": "The text contains negative emotions and viewpoints through the depiction of Lily's father's abuse, which is a traumatic and distressing experience. The text also describes the mistreatment of animals by hunters, which is another negative aspect. These events contribute to a sense of darkness and loneliness in Lily's life."
+  }
+}

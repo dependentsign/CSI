@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "智慧谷的居民热爱学习和探索，他们相信智慧来源于生活实践。艾琳鼓励孩子们将书本知识与实践相结合，智慧谷的居民在面对洪水时，运用知识和实践智慧成功抵御了灾难，这次经历让他们更加坚信真正的智慧是通过生活实践不断检验和提升的。",
+    "negative_summary": "智慧谷遭遇了一场突如其来的洪水，给居民们带来了挑战。"
+  }
+}
+```

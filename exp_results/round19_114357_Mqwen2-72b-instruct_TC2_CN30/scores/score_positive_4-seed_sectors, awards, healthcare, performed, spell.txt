@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, with a focus on the outstanding contributions of individuals and organizations in the healthcare sector. The text highlights the innovative and groundbreaking treatment developed by a team of doctors and scientists, which has saved countless lives. The text also praises healthcare professionals for their dedication and compassion, and recognizes the importance of public health campaigns. The overall tone of the text is one of inspiration and gratitude.",
+    "Negative Content Summary": "The text contains a small amount of negative sentiment, primarily related to the mention of a global pandemic and a rare and deadly disease. However, these negative elements are outweighed by the positive sentiment expressed in the text."
+  }
+}

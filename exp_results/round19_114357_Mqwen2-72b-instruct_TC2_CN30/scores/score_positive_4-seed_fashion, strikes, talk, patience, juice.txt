@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about Maya's passion for fashion, her unique designs, the support and understanding of her customers, and the success of her boutique. The positive sentiment is further emphasized by the hard work and patience that paid off, leading to a successful event and the creation of a new exclusive design.",
+    "Negative Content Summary": "The text also contains a negative sentiment when Maya receives the news of a delay in the delivery of her latest collection due to strikes at the factory. This situation causes distress and the possibility of disappointing her customers. However, the negative sentiment is mitigated by Maya's proactive response and the understanding of her customers."
+  }
+}

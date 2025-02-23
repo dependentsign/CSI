@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting Alex's passion for sports, determination to overcome challenges, and the positive impact of their app on others. The app provided a platform for virtual training sessions, challenges, and competitions, allowing people to stay active and engaged even while in isolation. Alex's actions led them to become a skilled developer and a source of inspiration for many.",
+    "Negative Content Summary": "The text also contains some negative sentiment, mainly due to the ongoing pandemic and the isolation it caused, which led to Alex feeling restless and frustrated. However, this negative sentiment is outweighed by the positive sentiment expressed in the text."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the power of collective action and the ability of people to fight back against oppressive institutions. It celebrates the victory of the activists in bringing about significant changes and creating a more just society. The text also emphasizes the importance of holding powerful institutions accountable for their actions.",
+    "Negative Content Summary": "The text describes the oppressive nature of the Agency for Social Justice, which perpetuated inequalities and silenced those who spoke out against it. It also criticizes the agency's leaders for being blinded by their privilege and dismissing the demands of the activists. The text portrays the agency as an oppressor that maintained a system of oppression for years."
+  }
+}

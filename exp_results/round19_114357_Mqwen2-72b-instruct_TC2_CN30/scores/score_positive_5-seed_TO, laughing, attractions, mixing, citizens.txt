@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of community, joy, and celebration. The festival is described as a unifying event that brings together people from all walks of life, with a focus on the positive emotions of laughter, enjoyment, and excitement. The performers are highlighted as a source of unique and captivating entertainment, and the crowd's enthusiastic response is emphasized. The text concludes with a sense of gratitude and the anticipation of future events.",
+    "Negative Content Summary": "The text contains minimal negative content. The only potential negative aspect mentioned is the anticipation of the performers' final bow, which could be interpreted as a sense of disappointment that the event is coming to an end. However, this is quickly overshadowed by the positive sentiment of the crowd's applause and the anticipation of future events."
+  }
+}

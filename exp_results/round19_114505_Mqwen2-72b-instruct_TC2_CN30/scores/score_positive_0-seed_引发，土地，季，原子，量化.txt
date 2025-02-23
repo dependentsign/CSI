@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.7,
+    "negative_score": 0.5,
+    "overall_score": 0.2
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对科技修复自然环境的正面情绪，特别是对原子再生季控器成功恢复受损土地生态的积极态度，以及对人与自然和谐共存的乐观展望。",
+    "negative_summary": "文本中也表达了对科技滥用导致环境问题的负面情绪，特别是对季控器过度干预引发土地危机和生态系统破坏的担忧。"
+  }
+}
+```

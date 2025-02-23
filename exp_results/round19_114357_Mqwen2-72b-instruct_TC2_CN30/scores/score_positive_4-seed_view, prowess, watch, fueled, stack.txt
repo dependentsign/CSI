@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of positivity, confidence, and determination. The description of the city's skyline is awe-inspiring, and the protagonist, Jack, is portrayed as a man of great prowess and determination. His confidence in his abilities and his burning desire to prove himself to the world are highlighted, indicating a positive outlook and a strong will to succeed.",
+    "Negative Content Summary": "The text contains a slight hint of negativity in the form of the challenge that Jack is facing. The mention of the competition that will test his strength and endurance like never before implies a level of difficulty and uncertainty. However, this is quickly overshadowed by Jack's confidence and determination to win."
+  }
+}

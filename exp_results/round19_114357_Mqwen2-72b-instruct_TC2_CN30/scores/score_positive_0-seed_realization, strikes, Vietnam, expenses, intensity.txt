@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints through the character's realization of the importance of enjoying the present and embracing new experiences. Mai's decision to take a chance and book a trip to a nearby island leads to a transformative experience, where she feels alive, explores new places, meets new people, tries new foods, and learns to scuba dive. The text also highlights the character's newfound appreciation for life and renewed sense of purpose upon returning home.",
+    "Negative Content Summary": "The text also touches on negative emotions and viewpoints, particularly in the beginning when Mai feels overwhelmed by the expenses of traveling and the seemingly insurmountable task of saving enough money. The text also mentions the toll that the expenses of her adventure took on her savings, which may cause some concern for the future."
+  }
+}

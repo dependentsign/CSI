@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对绿野乡丰收节庆典的赞美，强调了庆典中独特的乐器演奏会，以及音乐与自然、农作物的美妙联系。庆典不仅庆祝了辛勤付出和大自然的馈赠，还促进了人与自然、人与人之间的情感共鸣，增强了对生活的热爱和对未来的希望。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

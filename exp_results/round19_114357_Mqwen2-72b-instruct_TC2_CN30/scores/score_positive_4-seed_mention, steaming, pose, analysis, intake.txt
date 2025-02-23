@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, with the description of a cozy cafe serving delicious hot chocolate, the warmth it provides on a cold day, and the positive interaction between the young woman and the nutritionist. The woman feels inspired to make healthy changes in her life, and the text ends on a note of renewed purpose and happiness.",
+    "Negative Content Summary": "The negative sentiment is minimal and is not explicitly stated. It can be inferred from the woman's initial lack of knowledge about her diet and the need for healthier alternatives, which implies a slight sense of dissatisfaction or concern about her current eating habits."
+  }
+}

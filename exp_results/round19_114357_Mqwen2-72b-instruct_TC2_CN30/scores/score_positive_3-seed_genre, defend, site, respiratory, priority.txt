@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions regarding the site's dedication to defending the purity of genres, the emergence of Respiratory Fiction as a new genre, Maya's leadership, and the site's commitment to diversity and creative freedom. The site's members ultimately appreciate the diversity of genres, and the site continues to thrive.",
+    "Negative Content Summary": "The text also contains negative emotions regarding the skepticism and hostility some members showed towards Respiratory Fiction, the heated debate over its place on the site, and the mixed reactions to Maya's decision. However, these negative emotions are outweighed by the positive emotions expressed in the text."
+  }
+}

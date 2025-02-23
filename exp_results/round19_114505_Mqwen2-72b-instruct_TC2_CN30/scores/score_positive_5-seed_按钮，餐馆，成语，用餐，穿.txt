@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对'成语轩'餐馆的正面评价，强调了其独特的用餐体验，通过成语故事表演让顾客感受到中国文化的魅力，特别是对小穿这位外国友人来说，这种体验既有趣又富有教育意义，让他对中国文化产生了更深的理解和敬仰。",
+    "negative_summary": "文本中没有表达任何负面情绪或观点。"
+  }
+}
+```

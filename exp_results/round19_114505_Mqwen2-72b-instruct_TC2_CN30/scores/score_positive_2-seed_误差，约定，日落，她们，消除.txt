@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，强调了艾拉和莉娜之间的深厚友谊，以及她们对守护时间使命的自豪感。特别提到了她们在完成任务后共同欣赏日落的温馨场景，象征着对美好瞬间的珍惜和对彼此的依靠。",
+    "negative_summary": "文本中轻微的负面情绪来源于任务的紧急性和时间误差可能带来的严重后果，这给艾拉和莉娜带来了压力和挑战。"
+  }
+}
+```

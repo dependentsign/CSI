@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，描述了一个名叫艾米的年轻女孩通过互联网上的一个神秘网页“梦想之镜”发现并实现了自己的梦想，成为一名杰出的软件工程师，甚至创办了自己的公司，帮助更多人实现梦想。这个故事充满了希望、激励和成功。",
+    "negative_summary": "文本中没有表达明显的负面情绪或观点。"
+  }
+}
+```

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对灵石谷的神秘和美丽，以及对探险队勇气、智慧和团队合作的正面评价。林浩的领导能力和团队的科学探索精神被高度赞扬，他们克服困难，发现稀有矿石，为科学研究做出了贡献。",
+    "negative_summary": "文本中轻微提及了探险过程中遇到的环境复杂性和电子设备信号不稳定的问题，但这并未影响整体的正面情绪。"
+  }
+}
+```

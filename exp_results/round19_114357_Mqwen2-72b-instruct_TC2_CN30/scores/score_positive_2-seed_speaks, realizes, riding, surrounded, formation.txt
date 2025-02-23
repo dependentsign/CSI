@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions of awe, wonder, and a sense of belonging in the natural world. The explorers are amazed by the beauty of the Amazon rainforest, the colorful macaws, and the unexpected protection provided by the animals. Maria's realization that they are a part of the place and that the animals will protect them if they show respect is a positive and empowering message.",
+    "Negative Content Summary": "The text also contains some negative emotions, mainly fear and danger. The explorers are surrounded by jaguars, which causes fear and the need to draw weapons. However, the negative sentiment is relatively low compared to the positive sentiment."
+  }
+}

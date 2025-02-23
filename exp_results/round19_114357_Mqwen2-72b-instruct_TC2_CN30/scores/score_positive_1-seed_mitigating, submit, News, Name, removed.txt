@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about Lily's dedication, bravery, and investigative skills. Her determination to uncover the truth and her ability to work tirelessly to ensure accuracy and reliability are highlighted. The text also emphasizes the importance of her story and the recognition she received for her work.",
+    "Negative Content Summary": "The text also conveys negative emotions and viewpoints about the challenges Lily faced, including the threat of a lawsuit and the potential loss of her hard work. The text highlights the devastation she felt and the difficulties she encountered in mitigating the situation."
+  }
+}

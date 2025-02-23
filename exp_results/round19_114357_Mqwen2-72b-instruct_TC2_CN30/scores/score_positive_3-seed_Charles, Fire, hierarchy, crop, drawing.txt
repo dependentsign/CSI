@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.95,
+    "negative_sentiment_score": 0.05,
+    "overall_sentiment_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses strong positive emotions, particularly admiration for Lily's artistic talent and the sense of fulfillment that Charles experiences by helping her. The story highlights themes of kindness, generosity, and the transformative power of art. The positive sentiment is further reinforced by the depiction of a close friendship between Charles and Lily that lasts for many years.",
+    "negative_content_summary": "The negative sentiment in the text is minimal and is primarily associated with the fire that breaks out in the village and the poverty that prevents Lily from pursuing her passion for art. However, these negative elements are quickly overshadowed by the positive outcomes that result from the situation."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints when describing Jack's improvement after taking the new medication, his decision to continue taking it despite financial difficulties, and his transformation into an advocate for healthcare reform. The story also highlights the positive impact of Jack's actions on future generations.",
+    "Negative Content Summary": "The text conveys negative emotions and viewpoints when discussing Jack's struggles with a chronic illness, his desperation for a solution, and the financial burden of the experimental medication. The text also criticizes the healthcare system and pharmaceutical companies for their greed and lack of accessibility."
+  }
+}

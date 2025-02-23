@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on themes of hope, personal growth, and success. Red's journey from a struggling young woman to a successful business owner is highlighted, emphasizing her determination, hard work, and the positive impact of her mentor. The text also celebrates the evolution of her skills and the opportunities that arose as a result.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and primarily revolves around Red's initial struggles, such as working long hours at a coffee shop and living on a tight budget. There is also a brief mention of the need for sacrifices, which can be seen as a negative aspect of her journey."
+  }
+}

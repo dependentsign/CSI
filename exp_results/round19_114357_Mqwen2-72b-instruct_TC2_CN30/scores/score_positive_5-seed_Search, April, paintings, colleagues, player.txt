@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, particularly in the context of Sarah's discovery of Jack's artwork, her excitement about featuring his work in her gallery, and the success of the exhibition. The innovative curation and the unique addition of the basketball player's portrait are also highlighted as positive aspects. The text concludes with Sarah's reflection on the rewarding experience of unexpected discoveries.",
+    "Negative Content Summary": "The text contains a slight negative sentiment in the initial part where Sarah is described as having visited countless studios and galleries without finding anything that caught her eye. This indicates a sense of frustration or disappointment before the positive turn in the narrative."
+  }
+}

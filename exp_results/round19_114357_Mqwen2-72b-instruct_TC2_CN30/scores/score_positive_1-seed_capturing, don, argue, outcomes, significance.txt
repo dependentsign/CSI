@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about the detective, Don, who is described as intelligent, sharp-witted, and dedicated. His reputation for capturing elusive criminals and his successful resolution of a high-profile case are highlighted, as well as the sense of relief and closure he brings to the victims and their families. Don's work is portrayed as significant and heroic, with a focus on justice and peace.",
+    "Negative Content Summary": "The text mentions disagreements between Don and his colleagues about the significance of certain clues and the potential outcomes of their actions. However, this is not emphasized and does not detract significantly from the overall positive sentiment."
+  }
+}

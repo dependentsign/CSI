@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了艾莉利用特殊能力积极改变环境，保护森林，激发小镇居民共同参与环保行动，最终改善了小镇周围环境，成为保护环境的典范，展现了积极向上、勇于担当的精神。",
+    "negative_summary": "文本中提到了小镇附近森林遭受严重破坏，树木被砍伐，动物失去家园，反映了环境破坏的负面情绪。"
+  }
+}
+```

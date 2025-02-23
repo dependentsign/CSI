@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive aspects of Maya's determination, innovation, and success. Maya's hard work and dedication led to the creation of something truly innovative, which eventually gained recognition from a startup. The startup provided her with the freedom and resources to explore her ideas, allowing her to thrive and become a respected leader in the industry.",
+    "Negative Content Summary": "The text also portrays the negative aspects of the large corporation's strict policies and controlling management style. The CEO's micromanagement and dismissal of Maya's idea are seen as limiting the potential of employees. Maya felt micromanaged and ignored, leading to frustration. The corporation's limiting policies and ignorance of employee potential are criticized."
+  }
+}

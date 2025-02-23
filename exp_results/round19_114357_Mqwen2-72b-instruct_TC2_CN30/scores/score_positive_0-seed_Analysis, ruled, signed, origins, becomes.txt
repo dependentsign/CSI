@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of accomplishment, pride, and the importance of knowledge and history. Dr. Elizabeth Grant's dedication to her work and her successful analysis of the mysterious artifact are highlighted as positive aspects. The text also emphasizes the potential positive impact of her discovery on future generations.",
+    "Negative Content Summary": "The text contains a minor negative sentiment regarding the potential danger of the artifact falling into the wrong hands. This concern is quickly addressed and resolved, resulting in a minimal negative impact on the overall sentiment."
+  }
+}

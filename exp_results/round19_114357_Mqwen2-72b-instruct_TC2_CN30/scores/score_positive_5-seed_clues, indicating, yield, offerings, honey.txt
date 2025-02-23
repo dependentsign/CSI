@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as the magical and mysterious nature of the tree, the sweetness of the honey, the excitement of discovery, and the rewards of following clues and seeking out hidden treasures. The text also highlights the importance of taking the time to look for magic in the world.",
+    "Negative Content Summary": "The text contains a slight hint of danger or uncertainty when Lily follows the clues deeper into the forest, but this is quickly resolved with the discovery of the treasure. There are no other negative emotions or viewpoints expressed in the text."
+  }
+}

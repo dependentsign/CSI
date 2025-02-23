@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.35,
+    "overall_score": 0.5
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对才华、创造力、善良、自我救赎和内心觉醒的正面情绪。艾德里安的才华和善良，以及马尔科姆的转变和成长，都是正面内容的体现。",
+    "negative_summary": "文本中也包含了嫉妒、贪婪、背叛和灾难的负面情绪。马尔科姆对艾德里安的嫉妒和贪婪，以及他试图窃取艾德里安才华的行为，是负面内容的主要来源。"
+  }
+}
+```

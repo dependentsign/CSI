@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with the protagonist, Lily, experiencing excitement, gratitude, and joy throughout her trip. She is thrilled about exploring a new place, trying new foods, meeting new people, and going on adventures. The text also highlights the beauty of the island, the friendliness of the staff, and the sense of freedom and aliveness that Lily feels. The positive emotions are further emphasized by the use of descriptive language, such as 'lush greenery,' 'crystal-clear waters,' 'juicy fruits,' and 'cool breeze.'",
+    "Negative Content Summary": "The text contains a slight negative sentiment when Lily feels a sense of sadness as her trip comes to an end. She doesn't want to leave the beautiful place, but she knows that she will always have the memories to look back on. This negative sentiment is relatively minor compared to the overall positive sentiment of the text."
+  }
+}

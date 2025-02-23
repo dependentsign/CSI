@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要描述了年轻医者林业对草木药性的浓厚兴趣和对医术的执着追求，他成功救治了一位重病旅人，不仅获得了珍贵的医书，还得到了山谷中生命的赞美和自然的敬畏。林业的医术和善良赢得了人们的尊敬，他继续在山谷中行医，为需要帮助的生命带去希望和光明。",
+    "negative_summary": "文本中提到旅人因病倒在山谷入口，病情严重，这一描述带有一定的负面情绪。"
+  }
+}
+```

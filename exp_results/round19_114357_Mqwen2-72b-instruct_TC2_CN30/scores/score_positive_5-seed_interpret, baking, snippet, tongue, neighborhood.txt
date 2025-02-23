@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with the main positive emotions being joy, gratitude, and satisfaction. The story highlights the expertise and dedication of Maria, the bakery owner, who successfully deciphers a family recipe and shares the delicious cake with her community. The neighborhood is grateful for her efforts, and the bakery becomes even more popular as a result.",
+    "Negative Content Summary": "The text contains a minor negative sentiment, primarily due to the customer's inability to interpret the old-fashioned handwriting of the family recipe. However, this negative sentiment is quickly resolved when Maria takes on the challenge and successfully deciphers the recipe."
+  }
+}

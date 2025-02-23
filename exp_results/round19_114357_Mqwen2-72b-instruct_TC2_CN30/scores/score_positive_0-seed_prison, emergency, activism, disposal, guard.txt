@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive impact of activism and emergency response in bringing about change. The guard's quick action and the activists' persistence led to the discovery of illegal waste disposal practices, resulting in improved conditions for the prisoners and proper waste management procedures.",
+    "Negative Content Summary": "The text describes the harsh conditions of a prison, the presence of dangerous criminals, and the potential for violent confrontations. It also mentions the inhumane treatment of prisoners and the illegal disposal of hazardous waste, which are portrayed as negative aspects."
+  }
+}

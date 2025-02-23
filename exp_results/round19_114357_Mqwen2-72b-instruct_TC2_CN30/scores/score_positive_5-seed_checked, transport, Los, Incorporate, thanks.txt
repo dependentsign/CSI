@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as excitement, pride, and accomplishment. Maya feels a sense of responsibility and reliability, which are positive traits. She is grateful for the opportunity to prove herself and looks forward to future challenges. The successful completion of the task and the positive feedback from the collector contribute to the overall positive sentiment.",
+    "Negative Content Summary": "The text also contains some negative emotions, primarily anxiety and nervousness. Maya is worried about the possibility of something going wrong during the transport of the valuable package. However, these negative emotions are outweighed by the positive sentiments expressed throughout the text."
+  }
+}

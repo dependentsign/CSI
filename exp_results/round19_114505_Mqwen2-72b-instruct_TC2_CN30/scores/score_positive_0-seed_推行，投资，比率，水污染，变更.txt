@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.15,
+    "overall_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对蓝源公司及其创始人李明的正面情绪，他们通过科技创新解决了水污染问题，改善了人类的生存环境，成为环保科技领域的领头羊，激励了全球的环保意识。",
+    "negative_summary": "文本中提到了地球水资源的极度稀缺和水污染的严重性，人类的生存环境岌岌可危，这是负面情绪的来源。"
+  }
+}
+```

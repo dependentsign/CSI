@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on Lily's passion for baking, her determination to start her own bakery, and the success she achieves. The positive emotions include joy, satisfaction, and pride in her accomplishments. The text highlights the deliciousness of her vanilla cake and the positive feedback from customers, which contributes to the overall positive sentiment.",
+    "Negative Content Summary": "The text also contains a minor negative sentiment, mainly related to the challenges Lily faced in starting her business. The negative emotions include the stress and effort required to fill out paperwork and do calculations to ensure profitability. However, these negative aspects are outweighed by the positive sentiment in the text."
+  }
+}

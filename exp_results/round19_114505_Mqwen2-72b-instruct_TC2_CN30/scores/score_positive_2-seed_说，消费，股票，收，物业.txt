@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要描述了李明作为一位精明的投资者，通过敏锐的市场洞察力和对机会的把握，在政府开发新商业区的背景下，成功投资物业并获得丰厚利润的故事。这体现了正面情绪，包括智慧、耐心、成功和财富增长。",
+    "negative_summary": "文本中轻微的负面情绪体现在投资过程中的不确定性，以及盲目投资的风险，但这些负面情绪被李明的谨慎和成功所平衡。"
+  }
+}
+```

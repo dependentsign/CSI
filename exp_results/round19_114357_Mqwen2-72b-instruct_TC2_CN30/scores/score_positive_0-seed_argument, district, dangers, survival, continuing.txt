@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.3,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the importance of being smart, aware, and cautious when exploring unfamiliar and potentially dangerous areas. It also emphasizes the value of self-defense skills and the power of friendship and teamwork in overcoming challenges. The characters learn a valuable lesson about survival in the city and make a decision to prioritize safety over curiosity.",
+    "Negative Content Summary": "The text describes a dangerous and violent district in the city, filled with gangs, drug dealers, and other unsavory characters. The police are portrayed as fearful and unable to protect the residents, who live in constant fear. The characters find themselves in a life-threatening situation and are forced to fight for their survival. The experience leaves them shaken and reinforces the dangers of the district."
+  }
+}

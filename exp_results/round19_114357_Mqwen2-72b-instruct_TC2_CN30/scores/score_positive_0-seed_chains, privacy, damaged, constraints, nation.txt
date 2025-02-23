@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the courage and resilience of Maya, who stands up against an oppressive regime, refuses to betray her beliefs, and sparks a revolution for freedom and justice. The positive emotions include courage, determination, and hope.",
+    "Negative Content Summary": "The text describes a nation under strict government control, where citizens' privacy is invaded, and they live in fear. Maya's privacy is violated, she is arrested, interrogated, and tortured. The negative emotions include fear, oppression, and suffering."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions through the portrayal of Lily's curiosity, eagerness to learn, and her desire to make a positive impact on her community. The initial excitement and gratitude of the townspeople when the machine is introduced also contribute to the positive sentiment.",
+    "Negative Content Summary": "Negative emotions are conveyed through the consequences of Lily's wish, including the loss of work ethic, increased crime rates, and the chaos and disorder that ensue in the town. The uncertainty and unintended consequences of magic are also highlighted, adding to the negative sentiment."
+  }
+}

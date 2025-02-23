@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about the tradition of naming newborns in a small town, the parents' dedication to finding the perfect name, the child's passion and determination, and his eventual success in the TV industry. The name 'Maxwell' is portrayed as strong and classic, and the child's success is attributed to his own hard work and talent.",
+    "Negative Content Summary": "The text briefly touches on the parents' worry about their child becoming too consumed by TV, but this is quickly overshadowed by the child's determination to make a career out of it and his eventual success."
+  }
+}

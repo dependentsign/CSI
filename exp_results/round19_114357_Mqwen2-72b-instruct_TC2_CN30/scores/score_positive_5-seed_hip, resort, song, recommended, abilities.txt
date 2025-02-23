@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a predominantly positive sentiment, focusing on the luxurious and vibrant setting of a Caribbean resort, the protagonist's discovery of a new passion for songwriting, her growth as an artist, and her successful performance. The text highlights themes of creativity, personal development, and the joy of sharing one's talents with others.",
+    "Negative Content Summary": "The text contains a slight hint of nervousness and self-doubt when Maya first tries songwriting and before her performance, but these emotions are quickly overcome and do not significantly impact the overall positive tone of the text."
+  }
+}

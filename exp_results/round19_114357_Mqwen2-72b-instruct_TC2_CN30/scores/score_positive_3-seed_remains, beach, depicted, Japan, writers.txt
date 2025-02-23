@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the writers' fascination with the legend, their determination to explore and understand the story, and their exhilaration and inspiration from the experience. The description of the beach as having 'haunting beauty' also conveys a sense of awe and appreciation.",
+    "Negative Content Summary": "Negative sentiments are present in the eerie and ominous atmosphere described at the beginning of the text, the discovery of human remains, and the uncertainty and confusion the writers feel when the markings in the sand begin to change. The legend of the haunted beach and the presence of a samurai warrior's remains also contribute to a sense of unease and fear."
+  }
+}

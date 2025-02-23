@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对宇宙的无限敬畏和对未来的憧憬，对科技发展和宇宙奇妙的赞叹，以及对生命多样性的深刻感受。整个文本充满了对美好事物的欣赏和对未知世界的探索精神。",
+    "negative_summary": "文本中没有表达任何负面情绪或观点。"
+  }
+}
+```

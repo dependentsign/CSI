@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the bravery, strategic thinking, and leadership of Princess Elara, who successfully leads her troops to victory against the enemy forces. The positive emotions include pride, satisfaction, and a sense of control. The text also emphasizes the importance of quick thinking and trust in one's instincts.",
+    "Negative Content Summary": "The text describes a world torn apart by warfare, with the kingdom of Arvandor under attack for months. The enemy forces, led by the ruthless General Kael, have taken control of several key lands, causing fear and desperation among the people of Arvandor. The battle is described as fierce, with both sides taking heavy losses."
+  }
+}

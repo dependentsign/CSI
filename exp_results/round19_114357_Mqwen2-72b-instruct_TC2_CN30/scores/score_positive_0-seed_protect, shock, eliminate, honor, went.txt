@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about the tribe's dedication to protecting the Amazon rainforest and its inhabitants. The tribe is portrayed as wise, respected, brave, and heroic. Their victory over the poachers and their commitment to living in harmony with nature are celebrated.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints about the poachers' invasion of the forest and their determination to harm the rare and exotic animals for profit. The tribe's shock and outrage at this invasion are described, as well as the fierce battle that ensued."
+  }
+}

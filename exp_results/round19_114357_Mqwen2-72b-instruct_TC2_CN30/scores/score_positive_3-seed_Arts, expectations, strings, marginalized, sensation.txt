@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Lily's passion for the arts, her determination to pursue her dreams, her sense of connection and belonging when she shares her art with others, and her realization that the arts are a vital part of human expression and experience.",
+    "Negative Content Summary": "Lily's community's negative perception of the arts, her parents' and friends' discouragement, the local art teacher's dismissal of her work, and Lily's feelings of doubt and isolation."
+  }
+}

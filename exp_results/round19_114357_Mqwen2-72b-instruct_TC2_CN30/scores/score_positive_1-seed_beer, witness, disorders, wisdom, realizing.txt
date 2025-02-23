@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.9,
+    "negative_sentiment_score": 0.1,
+    "overall_sentiment_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions such as kindness, wisdom, compassion, and understanding. The protagonist, Jack, is portrayed as a hero who uses his knowledge to help a man in need. The text also highlights the impact of small acts of kindness and the positive change it can bring to one's perspective on life.",
+    "negative_content_summary": "The text briefly mentions a heated argument and a man displaying signs of a mental disorder, which can be seen as negative emotions. However, these events are quickly resolved and lead to a positive outcome."
+  }
+}

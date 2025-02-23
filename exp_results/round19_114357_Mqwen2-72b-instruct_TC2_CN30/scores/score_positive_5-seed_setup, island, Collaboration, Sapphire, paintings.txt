@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, describing a unique and collaborative art project on a remote island. The artists, from diverse backgrounds, share a love for art and work together harmoniously, creating stunning sapphire paintings. The collaborative masterpiece is described as breathtaking and a sensation, with the artists feeling thrilled and proud of their creation.",
+    "Negative Content Summary": "The text contains minimal negative sentiment, primarily related to the challenging nature of one of the pieces the artists were working on. However, this challenge is quickly overcome through collaboration, leading to a positive outcome."
+  }
+}

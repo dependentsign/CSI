@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the skill and resourcefulness of Hiroshi, the master carpenter, who is able to rebuild a grand mansion after a disaster strikes, using every scrap of wood and tool at his disposal. The merchant is amazed by the finished product and the price tag, and becomes one of Hiroshi's biggest supporters, spreading the word about his incredible skill and resourcefulness.",
+    "Negative Content Summary": "The text also describes the negative emotions and viewpoints expressed by the wealthy merchant who demands that Hiroshi rebuild the entire mansion at no extra cost after a storm destroys half of the unfinished structure. The merchant is described as stubborn and refuses to budge, causing Hiroshi to feel defeated and unsure of what to do."
+  }
+}

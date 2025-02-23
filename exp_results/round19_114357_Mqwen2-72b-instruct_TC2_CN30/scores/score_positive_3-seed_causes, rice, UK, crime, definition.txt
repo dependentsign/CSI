@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the successful resolution of a peculiar crime through scientific investigation and community collaboration. The scientist's expertise in animal behavior leads to the identification of the cause of the rice thefts, and the implementation of a plan to control the rodent population. The farmers' gratitude and the police's relief at solving the crime are also mentioned, emphasizing the positive outcome of the situation.",
+    "Negative Content Summary": "The text describes the negative impact of the rice thefts on the farmers' livelihoods and the police's initial inability to solve the crime. The unusual nature of the crime and its lack of fit within the UK's legal system are also mentioned, highlighting the challenges of dealing with unconventional criminal behavior."
+  }
+}

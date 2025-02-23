@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对自然之力的敬畏，以及通过智慧和勇气解决问题的正面情绪。守护者们的牺牲精神，以及云飞的智慧和勇气，展现了人类面对灾难时的积极态度和对未来的希望。",
+    "negative_summary": "文本中提到了一场突如其来的灾难，导致自然环境恶化，生灵涂炭，表达了对灾难的担忧和对滥用自然之力的恐惧。"
+  }
+}
+```

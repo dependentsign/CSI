@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对大卫减法理念的正面评价，强调了其对社会的积极影响，包括资源优化、团队效率提升以及对环境的正面作用。大卫的领导被视为社会进步的明灯，引领着人类走向更加绿色、和谐的未来。",
+    "negative_summary": "文本中提到了地球资源流失和人类社会面临的挑战，这是负面情绪的来源，但这些描述主要为后续的正面内容提供背景，负面情绪并不强烈。"
+  }
+}
+```

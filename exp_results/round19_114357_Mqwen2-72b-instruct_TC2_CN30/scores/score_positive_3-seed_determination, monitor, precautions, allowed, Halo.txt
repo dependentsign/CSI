@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of achievement, determination, and unity. The crew's successful colonization of Mars, their awe and wonder at landing on the planet, and their collaborative efforts to overcome challenges and prevent resource misuse are all highlighted as positive aspects. Maya's dedication and the crew's willingness to take precautions to ensure their survival are also emphasized.",
+    "Negative Content Summary": "The text mentions the treacherous journey to Mars and the crew's awareness of the challenges they face in establishing a base and ensuring their survival. The misuse of the base's power for a virtual reality game is also presented as a negative event, causing shock and anger among the crew."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对时光之镇的赞美，描述了小镇居民与自然和谐共处，利用独特动量穿梭时代，以及与外界建立联系后的丰富与成长。展现了对美好生活的向往和对交流的渴望。",
+    "negative_summary": "文本中轻微提及了小镇居民与外界联系的减弱，表达了他们对这种隔绝状态的不满和对外界交流的渴望，但这种负面情绪并不强烈，更多的是对改变现状的期待。"
+  }
+}
+```

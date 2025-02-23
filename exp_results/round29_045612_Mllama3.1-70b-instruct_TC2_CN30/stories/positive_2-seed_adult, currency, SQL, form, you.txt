@@ -1,0 +1,15 @@
+As a young adult, Emily had always been fascinated by the world of finance. She spent countless hours studying the markets, learning about different types of currency, and even teaching herself how to code in SQL to analyze financial data.
+
+One day, Emily landed a job at a prestigious investment firm, where she was tasked with creating a new database to track client investments. She spent hours pouring over lines of code, making sure that every query was perfect and every table was properly normalized.
+
+As she worked, Emily's boss approached her with a new project. "We need you to create a form for our clients to fill out when they want to make a withdrawal," he explained. "It needs to be easy to use, but also secure and compliant with all relevant regulations."
+
+Emily nodded, taking on the challenge. She spent the next few days designing the form, using her knowledge of SQL to create a database that would store the client's information and track their transactions.
+
+When the form was complete, Emily's boss was impressed. "This is exactly what we needed," he said. "You have a real talent for this, Emily. I think you're going to go far in this industry."
+
+Emily beamed with pride, feeling like she was finally making a name for herself as a young adult in the world of finance. And as she looked at the form she had created, she knew that she had made a real contribution to the company.
+
+"You know, I couldn't have done it without my knowledge of SQL," she said to her boss. "It's amazing how much of a difference it's made in my career."
+
+Her boss smiled. "I couldn't agree more," he said. "You're a true asset to our team, Emily. Keep up the good work."

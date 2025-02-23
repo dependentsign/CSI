@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the candidate's qualifications, the thoroughness of the background checks, the candidate's performance on a major project, and the HR manager's decision to extend his employment. The text also highlights the candidate's gratitude and promise to continue working hard, which adds to the positive sentiment.",
+    "Negative Content Summary": "The text expresses negative sentiments about the candidate's past embezzlement issue, which was a red flag for the HR manager. The text also mentions the probationary period and the possibility of immediate termination for any misconduct, which adds to the negative sentiment."
+  }
+}

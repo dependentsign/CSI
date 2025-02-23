@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as inspiration, connection, gratitude, and success. Sarah finds the missing piece to her story in the form of a notebook filled with words that convey the emotions and depth she was searching for. She feels a connection to the woman who wrote these words and is grateful for the improvements she made to her own writing. In the end, Sarah's novel is a great success, and she attributes it to the unexpected discovery of the notebook.",
+    "Negative Content Summary": "The text also expresses negative emotions such as frustration, grief, and loss. Sarah feels frustrated that her story lacks depth and emotion, and she feels a sense of grief knowing that she may never find the woman who inspired her so deeply. The woman who wrote the words in the notebook experienced great grief and loss, which Sarah can feel seeping into her own words."
+  }
+}

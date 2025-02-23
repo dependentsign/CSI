@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive aspects of a small bookstore that has been in business for over a century, the owner's dedication to keeping it alive, the support of loyal customers, and the successful crowdfunding campaign that helped save the store. The text also conveys a sense of hope and determination in the face of adversity.",
+    "Negative Content Summary": "The text describes the challenges faced by the bookstore owner, including the rise of online bookstores and e-books, financial struggles, and a break-in by a group of teenagers. The text also conveys a sense of fear, vulnerability, and despair during the break-in."
+  }
+}

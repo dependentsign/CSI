@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.65,
+    "Overall Sentiment Score": -0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the resilience and determination of Maya, a journalist who works tirelessly to uncover the truth about the city's economic downturn. Her bravery and dedication to exposing corruption are praised, and her actions contribute to the city's slow but steady recovery.",
+    "Negative Content Summary": "The text describes the city's economy as a 'void' and a 'vacuum of prosperity,' emphasizing the negative impact of the economic downturn on businesses and people. The city is depicted as a 'shadow of its former self,' with shuttered businesses and struggling residents. The corruption and greed that led to the city's downfall are also highlighted."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of positivity, wonder, and appreciation for the beauty of the world. Maya, the protagonist, is hardworking and dedicated to her studies, but she also takes a moment to appreciate the simple things in life, such as the sunset and the stars. This leads to a renewed sense of purpose and a realization that life is too short to miss out on the beauty that surrounds her.",
+    "Negative Content Summary": "The text contains a slight sense of fatigue and the recognition that Maya has been so focused on her studies that she has forgotten to take a moment to appreciate the world around her. However, this is quickly overshadowed by the positive emotions expressed in the rest of the text."
+  }
+}

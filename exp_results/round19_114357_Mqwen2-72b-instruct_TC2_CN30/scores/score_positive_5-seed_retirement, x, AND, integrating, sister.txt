@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions about John's retirement and his transition into a fulfilling life of volunteering. It highlights the joy he found in helping others, meeting new people, and making a difference in his community. The text also emphasizes the positive impact of Sarah's suggestion and the new sense of purpose John discovered in retirement.",
+    "Negative Content Summary": "The text briefly touches on John's initial hesitation and uncertainty about retirement and volunteering. It mentions his lack of experience as a 'joiner' and his initial reluctance to try something new."
+  }
+}

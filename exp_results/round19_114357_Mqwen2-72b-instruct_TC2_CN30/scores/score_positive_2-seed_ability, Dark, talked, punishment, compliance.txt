@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the determination and bravery of Sarah, the detective, who successfully convinces The Whisperer to use his abilities for good. The transformation of The Whisperer from a feared criminal to an ally in the fight against crime is a positive development. The text also emphasizes the power of appealing to one's humanity and conscience.",
+    "Negative Content Summary": "The text describes The Whisperer's feared and heinous abilities, which create a sense of danger and unease. The authorities' inability to catch him for years highlights the severity of the threat he poses. The Whisperer's menacing dialogue and the fear he instills in Sarah add to the negative sentiment."
+  }
+}

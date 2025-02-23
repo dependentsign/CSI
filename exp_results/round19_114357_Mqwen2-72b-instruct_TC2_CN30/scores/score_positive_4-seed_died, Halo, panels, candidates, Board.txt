@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the bravery and determination of Maya, who fought against a corrupt system and inspired a new generation to stand up for justice and equality. The implementation of a new, fair Halo system in her honor is a positive outcome.",
+    "Negative Content Summary": "The text describes a dystopian world in chaos due to overpopulation and scarce resources. The government's implementation of the Halo system to control the population is portrayed as oppressive and unjust, with the Board manipulating the results for their own gain. The death of Maya, who fought against the corruption, adds to the negative sentiment."
+  }
+}

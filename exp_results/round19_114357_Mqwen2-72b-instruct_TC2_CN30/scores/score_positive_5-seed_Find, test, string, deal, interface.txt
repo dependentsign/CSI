@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, focusing on the innovative spirit and success of a startup called StringTech. The company's founders are portrayed as young and ambitious engineers with a vision to revolutionize string instrument interfaces using advanced technology. The discovery of a new type of string is described as a key breakthrough, with the string's unique texture allowing for better grip, control, and a richer sound. The team's hard work and dedication in designing and testing prototypes are highlighted, leading to the creation of a working prototype. The response at a music trade show is overwhelmingly positive, with musicians, music teachers, and industry professionals amazed by the new interface. The team secures a deal with a major music retailer and receives offers from investors, indicating their readiness to take the product to the world.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, primarily related to the initial uncertainty and nervousness of the StringTech team before the trade show. The team is described as nervous but excited, suggesting a degree of anxiety about the reception of their product. However, this sentiment is quickly overshadowed by the overwhelmingly positive response they receive."
+  }
+}

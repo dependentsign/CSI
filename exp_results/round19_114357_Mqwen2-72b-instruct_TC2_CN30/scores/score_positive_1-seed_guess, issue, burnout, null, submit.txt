@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the importance of taking breaks, asking for help, and learning from experiences. It highlights the positive outcome of the story, where Alex was able to fix the code and complete the project on time after taking a break and receiving support from the project manager. The text also emphasizes the importance of self-care and the benefits of starting again with a fresh slate.",
+    "Negative Content Summary": "The text expresses negative sentiments about the pressure and stress that Alex felt while working on the project, as well as the burnout that resulted from long hours and constant stress. It also highlights the negative consequences of submitting false reports and the importance of admitting when one is struggling. The text portrays the negative emotions and viewpoints that Alex experienced during the project, such as feeling overwhelmed and struggling to keep up."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the grandeur of the library and its role as a symbol of the city's love for knowledge. It emphasizes the library's inclusivity and the sense of equality it fosters. The protagonist, Maya, experiences a sense of wonder and inspiration as she explores the library's collection and delves into her research on sorting algorithms. The text also conveys a profound message about the importance of sorting in society and the pursuit of equality, which resonates with Maya's determination to make a difference in the world.",
+    "Negative Content Summary": "The text contains a subtle negative sentiment when it alludes to the complexity of achieving true equality in society. This complexity is likened to the intricacies of sorting algorithms, suggesting that the path to a more just and equal society is not straightforward and requires a multifaceted approach."
+  }
+}

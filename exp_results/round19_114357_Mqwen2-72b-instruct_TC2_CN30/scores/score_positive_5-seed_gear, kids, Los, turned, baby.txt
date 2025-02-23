@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of positivity, joy, and love. The family is excited and ready for their new adventure of having another child. The couple is attentive and caring towards their children, and they are grateful for the moments of joy they share together. The text highlights the beauty of family life and the happiness that comes from spending time together.",
+    "Negative Content Summary": "The text contains a slight hint of negativity when the baby's cry interrupts the family's peace. However, this is quickly resolved as the parents rush to the baby's side, cooing and praising their little one for this new milestone. Overall, the negative sentiment is minimal and does not detract from the overall positive tone of the text."
+  }
+}

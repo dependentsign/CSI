@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, particularly in the second half of the story. Lily learns coping skills and self-care techniques, which help her manage stress and feel more confident in her ability to handle college demands. She is praised for her quick thinking and commitment to campus safety, which contributes to her sense of purpose and belonging. The story ends on a hopeful note, with Lily feeling confident in her ability to face future challenges.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints, particularly in the first half of the story. Lily feels nervous and overwhelmed by the challenges of college life, and struggles to keep up with her classes. She realizes that the workload is more intense than she anticipated, and feels pressure to succeed. However, these negative emotions are balanced by the positive emotions expressed in the second half of the story."
+  }
+}

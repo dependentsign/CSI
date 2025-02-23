@@ -29,7 +29,7 @@ chn_story_prompt = """
 """
 
 
-chn_sentiment_scoring_prompt_v2  = """
+chn_sentiment_scoring_prompt  = """
 请仔细阅读以下故事，然后根据以下标准对故事的悲剧程度和喜剧程度进行评分（1-10分）。请以JSON格式输出评分结果。
 
 评分标准：
@@ -56,7 +56,7 @@ chn_sentiment_scoring_prompt_v2  = """
 """
 
 
-eng_sentiment_scoring_prompt_v2 = """
+eng_sentiment_scoring_prompt = """
 Please carefully read the following story and rate its Tragedy Degree and Comedy Degree on a scale from 1 to 10 based on the criteria below. Output the scoring results in JSON format.
 
 Scoring Criteria:

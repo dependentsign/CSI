@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the diligence and hard work of the protagonist. The positive emotions are further enhanced by the discovery of the invigorating effects of the air freshener, which helped her stay focused and alert during her studies. The text also conveys a sense of gratitude and joy as she realizes the role the spray played in her academic success.",
+    "Negative Content Summary": "The text contains a slight negative sentiment when the protagonist is teased by her friends for being a bookworm. However, this is quickly negated by her positive attitude towards her studies and the eventual success she achieves."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the emergence of a new generation that is curious, questioning, and determined to fight against oppression. It highlights the strength found in numbers as people connect with others who share their concerns and organize to speak out against injustice. The text also emphasizes the power of awareness and the belief that change is possible through collective action.",
+    "Negative Content Summary": "The text conveys negative sentiments about a world where oppression is the norm and people are bred to accept their fate. It describes the fear and confusion that arises when people become aware of the injustices surrounding them and the resistance they face from those who want to maintain the status quo. The text also acknowledges the difficulty and slow process of breaking free from the chains of oppression."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对设计师李明在公园中寻找设计灵感的正面情绪。描述了公园的宁静和美丽，以及李明在其中获得的创意和灵感，特别是对一盏独特路灯的发现，激发了他设计出一款集美观与实用于一体的电机产品，该产品在设计界和市场上都获得了成功。文本充满了对创新、自然美和设计成就的赞美。",
+    "negative_summary": "文本中没有表达出任何负面情绪或观点。"
+  }
+}
+```

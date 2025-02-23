@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a predominantly positive sentiment, capturing the excitement and joy of attending an art exhibition. The atmosphere is described as electric, with people having a great time admiring art, socializing, and enjoying refreshments. The event is portrayed as a memorable and enjoyable experience, with the anticipation of returning next year.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, mainly due to the description of the chilly autumn evening and the gust of cold air at the end. However, these elements do not significantly impact the overall positive tone of the text."
+  }
+}

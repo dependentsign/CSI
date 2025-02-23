@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.7,
+    "negative_score": 0.5,
+    "overall_score": 0.2
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对小镇宁静生活的赞美，以及对李明医生和村民们团结一致、智慧和勇气的正面评价。他们成功地保护了环境和健康，展示了面对外部压力时的坚韧和责任感。",
+    "negative_summary": "文本中反映了小镇面临的开发挑战，以及部分村民对环境破坏、生活困境的担忧和恐惧。企业计划中的潜在健康威胁也引起了负面情绪。"
+  }
+}
+```

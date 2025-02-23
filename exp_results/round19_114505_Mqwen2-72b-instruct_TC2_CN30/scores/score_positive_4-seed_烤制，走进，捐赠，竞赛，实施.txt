@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了正面情绪，主要体现在小镇居民对烘焙竞赛的热情参与，李阿姨的烘焙技艺得到认可，以及她将奖金捐赠给慈善组织的善举，这些都展现了社区的团结、爱心和希望。",
+    "negative_summary": "文本中没有表达出任何负面情绪或观点。"
+  }
+}
+```

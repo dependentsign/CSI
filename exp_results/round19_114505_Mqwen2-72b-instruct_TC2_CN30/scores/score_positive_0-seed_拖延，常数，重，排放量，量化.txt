@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.7,
+    "negative_score": 0.3,
+    "overall_score": 0.4
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对'量化未来'环保组织的正面情绪，该组织通过科技手段量化空气污染，提高了公众和政府对环境问题的意识，推动了全球对空气污染问题的关注和行动，最终成功控制了污染，改善了地球环境。",
+    "negative_summary": "文本中也表达了对地球资源稀缺、环境问题严重，尤其是空气污染的负面情绪，以及对各国政府在面对环境问题时的拖延和不作为的批评。"
+  }
+}
+```

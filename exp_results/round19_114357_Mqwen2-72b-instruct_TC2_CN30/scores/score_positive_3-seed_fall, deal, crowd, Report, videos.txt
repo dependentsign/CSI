@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the street performer, The Fall Guy, who was famous for his death-defying stunts and became an overnight sensation after a talent scout featured him in a series of videos. The text also highlights his decision to retire from performing and use his platform to promote safety in the entertainment industry, which is portrayed as a heroic act.",
+    "Negative Content Summary": "The text also conveys negative sentiments about the pressure The Fall Guy faced to perform even more dangerous stunts as his fame grew, which led to a serious injury. The incident was reported in the news, and the videos of his stunts were scrutinized by safety experts, revealing that he had been taking unnecessary risks."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.75,
+    "negative_score": 0.25,
+    "overall_score": 0.5
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对人类面对困境不放弃、勇于探索新家园的正面情绪，以及对林浩智慧和勇气的赞赏，他成功地促成了地球与蓝滴星球的友好关系，为人类移民蓝滴星球铺平了道路。",
+    "negative_summary": "文本中也反映了资源枯竭、环境恶化给人类带来的危机感，以及蓝滴星球政府对移民的严格限制和秘密计划，这些都体现了故事中的负面情绪和挑战。"
+  }
+}
+```

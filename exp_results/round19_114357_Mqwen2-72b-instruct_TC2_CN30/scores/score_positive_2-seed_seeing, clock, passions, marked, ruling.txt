@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, particularly in the context of following one's passion and finding personal fulfillment. Isabella's love for the arts, her determination to pursue her dreams, and the joy she finds in creating art are all highlighted. The clock tower is portrayed as a symbol of freedom, creativity, and hope, inspiring others to follow their passions.",
+    "Negative Content Summary": "There are minor negative emotions present, primarily related to the conflict between Isabella's personal desires and her parents' expectations. The text briefly touches on the pressure to conform to family traditions and the potential cost of following one's heart."
+  }
+}

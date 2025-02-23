@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对环保科技公司“绿界”及其技术的正面情绪，包括对其技术的认可、对环保事业的肯定、对融资成功的喜悦以及对未来发展的期待。",
+    "negative_summary": "文本中轻微的负面情绪体现在创始人李明在会议前的紧张感，以及对肩负更大责任的重压感，但这并未影响整体的正面情绪。"
+  }
+}
+```

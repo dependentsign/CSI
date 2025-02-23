@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with themes of love, fascination, captivation, and joy. The protagonist, Lily, is portrayed as a curious and passionate individual who discovers a hidden path leading to a bed of beautiful flowers. She takes cuttings and brings them back to her mother's garden, where they grow and thrive. The flowers become popular, and Lily's mother's garden becomes a hub of activity. Lily is thrilled to see her discovery bring so much joy to others, and she continues to explore the forest in search of new and exciting plants to add to their garden. Years later, Lily grows up to become a renowned horticulturist, traveling the world and sharing her knowledge with others.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, which is mainly due to the absence of any significant negative events or emotions. However, the text does not explicitly express any negative emotions or viewpoints."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对李医生及其团队的专业精神、爱心和勇气的高度赞扬，以及对小明康复的喜悦和对未来的希望。小明的父母对医院和医护人员的感激之情，以及对医学进步和人性光辉的肯定，构成了文本的正面情绪。",
+    "negative_summary": "文本中提到了小明因食用有问题的奶粉导致严重肠道病变的负面事件，以及其父母的焦急和担忧，这是文本中的负面情绪来源。"
+  }
+}
+```

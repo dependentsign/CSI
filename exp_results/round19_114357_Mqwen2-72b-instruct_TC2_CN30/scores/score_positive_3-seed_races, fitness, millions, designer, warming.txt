@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, focusing on the innovative and impactful idea of Maya, a designer who developed a fabric to combat global warming. The fabric absorbs carbon dioxide and converts it into oxygen, which is a significant contribution to the environment. Maya's business grew rapidly, and her clothes became a symbol of hope, helping people stay fit and healthy while also contributing to saving the planet. The text highlights the positive impact of Maya's idea on the world, emphasizing the potential of one person to make a difference.",
+    "Negative Content Summary": "The text briefly mentions the pressing issue of climate change, which is a negative aspect. However, this is quickly overshadowed by the positive sentiment of Maya's innovative solution."
+  }
+}

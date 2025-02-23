@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions regarding Jack's love for soccer, the joy he brought to the town, and the town's decision to honor his memory with a statue. The statue becomes a beloved landmark, symbolizing the love and joy Jack brought to the town. The town's coming together to repair the statue after it was accidentally knocked over also highlights the positive sentiment.",
+    "Negative Content Summary": "The text conveys negative emotions surrounding Jack's sudden death from a heart attack, which left a void in the hearts of many. The incident of the statue being knocked over also adds to the negative sentiment, as it serves as a reminder of the fragility of life."
+  }
+}

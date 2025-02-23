@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments regarding the church's proactive approach to addressing its problems. The implementation of a survey to identify issues, the commitment to improving transparency, communication, and the positive outcomes such as increased attendance and members feeling more connected to the church and its mission are highlighted as positive aspects. The text also conveys a sense of hope and confidence in the church's ability to continue improving and restoring its credibility in the community.",
+    "Negative Content Summary": "The text conveys negative sentiments regarding the initial problems faced by the church, including declining attendance, rumors of financial mismanagement, and a lack of transparency in decision-making. The survey results revealed poor ratings in areas such as communication and transparency, and many members felt disconnected from the church and unheard. These issues threatened the church's credibility in the community."
+  }
+}

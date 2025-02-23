@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on the joy and passion of a young girl named G for swimming. Her vivid imagination, determination, and hard work are highlighted as she competes in a swimming competition, wins races, and eventually becomes a professional swimmer. The text also emphasizes the role of imagination in enhancing her skills and fueling her passion.",
+    "Negative Content Summary": "The text contains a slight negative sentiment when G feels nervous before the evaluation and doubts her abilities. However, this sentiment is quickly overshadowed by her determination and success."
+  }
+}

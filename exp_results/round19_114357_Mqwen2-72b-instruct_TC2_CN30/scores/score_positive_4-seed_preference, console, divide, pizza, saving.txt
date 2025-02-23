@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as friendship, cooperation, and enjoyment. The group of friends is portrayed as loving to spend their weekends together, and they manage to satisfy everyone's taste buds by dividing the pizza into four equal parts with different toppings. They enjoy each other's company, chatting and laughing, and they save money for their future outings, planning to spend it on a fun activity they can all enjoy together.",
+    "Negative Content Summary": "The text contains a minor negative emotion when the group of friends couldn't agree on the pizza toppings, but this is quickly resolved by Samantha's suggestion to divide the pizza into four equal parts. There are no other negative emotions or viewpoints expressed in the text."
+  }
+}

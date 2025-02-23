@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as gratitude, strength, resilience, and inspiration. Do's determination to support his family, start a support group, and embrace his scar as a symbol of his strength are all positive aspects of the story. The text also highlights the full and happy life that Do lived after his illness, emphasizing the lessons he learned and his gratitude for every day with his loved ones.",
+    "Negative Content Summary": "The text also conveys negative emotions such as shock, fear, anger, and self-consciousness. Do's diagnosis of a rare brain tumor and the traumatic experience of surgery are described in negative terms. The text also mentions Do's worry that people would judge him or treat him differently because of his scar."
+  }
+}

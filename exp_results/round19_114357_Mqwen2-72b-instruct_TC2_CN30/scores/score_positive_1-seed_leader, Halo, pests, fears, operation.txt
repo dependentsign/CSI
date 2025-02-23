@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the bravery, determination, and leadership of the Master Chief, who inspires hope and courage in his soldiers. The successful mission to destroy the Halo and eliminate the Covenant threat is portrayed as a remarkable achievement, emphasizing the Master Chief's role in securing humanity's future.",
+    "Negative Content Summary": "The text describes a galaxy in turmoil, with a brutal war being waged by the Covenant against humanity. The Master Chief and his team face numerous challenges, including the use of a powerful new weapon, the Halo, which could wipe out entire planets. The journey to destroy the Halo is perilous, with the team encountering mutated creatures and facing countless obstacles."
+  }
+}

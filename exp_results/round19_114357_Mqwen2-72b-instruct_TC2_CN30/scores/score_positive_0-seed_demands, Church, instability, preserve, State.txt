@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the historical and cultural significance of the Church, its grandeur, and its ability to attract visitors from around the world. It also acknowledges the State's success in maintaining stability and prosperity after passing laws to limit the Church's power and influence.",
+    "Negative Content Summary": "The text describes the Church's demands for power and control as a source of instability and an unnecessary burden on the State's resources. It also mentions the country's economic challenges and the government's pressure to cut costs and streamline operations. The text highlights the growing tensions and division in the country, as well as the Church's outrage and protests against the changes."
+  }
+}

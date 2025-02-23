@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the dedication and hard work of Alex, the new programmer, who overcomes a severe concussion to finish a critical project on time. His colleagues praise him for his dedication and hard work, and he becomes known as the programmer with the photographic memory. The text also portrays the company as a place of high standards and cutting-edge technology.",
+    "Negative Content Summary": "The text describes the strict deadlines and high standards of conduct enforced by the no-nonsense CEO, Ms. Chen, which lead to Alex working long hours and neglecting his health. This results in him suffering a severe concussion and being hospitalized. The text also suggests that the pressure to meet deadlines could mean the end of Alex's career at the company if he doesn't finish the program on time."
+  }
+}

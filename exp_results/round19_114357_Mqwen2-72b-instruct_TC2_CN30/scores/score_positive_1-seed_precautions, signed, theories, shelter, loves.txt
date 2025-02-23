@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the dedication and passion of Dr. Lee in her work to combat climate change. The successful construction of a shelter that can withstand extreme weather conditions is celebrated, and the public's gratitude for Dr. Lee's efforts is evident. The text also emphasizes Dr. Lee's love for the world and her determination to make a difference.",
+    "Negative Content Summary": "The text briefly touches on the negative effects of climate change, such as extreme weather conditions, which necessitated the construction of the shelter. However, this is not the focus of the text and is mentioned only in passing."
+  }
+}

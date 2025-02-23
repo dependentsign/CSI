@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.8,
+    "negative_score": 0.3,
+    "overall_score": 0.5
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对未来科技高度发达的地球的正面情绪，以及对林晓勇敢揭露问题、倡导环保的正面评价。林晓的行动被描述为勇敢和正义，她对环保的热爱和责任感得到了高度赞扬。",
+    "negative_summary": "文本中也提到了科技发展带来的环境问题，特别是废水处理成为全球性难题，以及‘未来科技’公司违规排放废水对环境造成的严重威胁，这些都体现了负面情绪。"
+  }
+}
+```

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive aspects of Lily's character, such as her determination, responsibility, and hard work. Her efforts to correct her mistake and improve the store's reputation are praised by the store manager and eventually recognized by her co-workers, leading to a positive outcome.",
+    "Negative Content Summary": "The text also includes negative emotions, such as mortification and resistance from co-workers. Lily's mistake and the potential consequences of food waste and unhappy customers are mentioned, as well as the initial resistance from her co-workers to her efforts to correct the mistake."
+  }
+}

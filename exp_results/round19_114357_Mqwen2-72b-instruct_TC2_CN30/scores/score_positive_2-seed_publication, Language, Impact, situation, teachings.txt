@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the wisdom and resilience of Tukano, the old man who preserved his tribe's language and culture. The positive emotions are centered around the themes of cultural preservation, education, and community development. The text also highlights the impact of Tukano's teachings on the village, which led to a renewed interest in indigenous languages and cultures, and the thriving of the community.",
+    "Negative Content Summary": "The text also contains some negative sentiments, particularly around the struggle of Tukano's people to make ends meet and the younger generation losing touch with their cultural heritage. However, these negative sentiments are outweighed by the positive sentiments in the text."
+  }
+}

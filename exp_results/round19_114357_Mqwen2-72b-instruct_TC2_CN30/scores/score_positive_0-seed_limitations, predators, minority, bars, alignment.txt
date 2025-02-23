@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the strength, unity, and resilience of a minority community. It emphasizes the importance of allies and the power of collective action. The community's ability to overcome adversity and protect themselves from predators is portrayed as a positive and empowering experience. The text also celebrates the community's dignity, pride, and self-definition beyond their limitations.",
+    "Negative Content Summary": "The text describes the community as different, a minority, and having limitations that set them apart from the majority. It also mentions that they are often looked down upon and treated as outcasts by society. The presence of predators who target the community and see them as easy prey, vulnerable, and weak adds to the negative sentiment. The initial depiction of the community as victims contributes to the negative emotions in the text."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of determination, courage, and compassion. M's response to online harassment is highlighted as an act of bravery and an opportunity to educate others about the impact of hate speech. The positive emotions are further amplified by the global support and encouragement M receives, which reinforces the power of kindness and knowledge in creating a safer online community.",
+    "Negative Content Summary": "The text also conveys a significant level of fear and anger when M is targeted by online trolls. The use of hateful language and threats against her safety is described as particularly vicious, which evokes a sense of vulnerability and injustice. The negative emotions are further emphasized by the prevalence of online harassment and its harmful effects on people's lives."
+  }
+}

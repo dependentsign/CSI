@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of wonder, excitement, and accomplishment. Lyra's fascination with the unknown, her successful exploration of a new planet, and her heroic actions in helping a fellow explorer all contribute to a highly positive sentiment. The text also highlights the supportive and collaborative nature of the League of Intergalactic Explorers.",
+    "Negative Content Summary": "The only negative sentiment in the text comes from the description of the explorer who is injured and stranded on a barren wasteland. This situation creates a sense of danger and vulnerability, but it is quickly resolved by Lyra's actions, which turn the negative sentiment into a positive one."
+  }
+}

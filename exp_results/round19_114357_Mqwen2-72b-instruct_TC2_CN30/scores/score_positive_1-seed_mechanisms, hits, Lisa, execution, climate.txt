@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about Lisa's dedication to her work, her determination to protect her research, and her sense of duty and concern for the future of the planet. The text also highlights the positive impact of her research on the global movement to address climate change.",
+    "Negative Content Summary": "The text expresses negative sentiments about the sabotage of Lisa's research and the shocking and dismaying impact it had on her. The text also highlights the startling truths about the impact of human activity on the planet's climate and the urgent need for action to prevent a global catastrophe."
+  }
+}

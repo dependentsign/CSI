@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.25
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses admiration for the electric trigger, a marvel of engineering, and its potential to revolutionize the world. Dr. Li, the inventor, is portrayed as a brilliant and responsible individual who understands the power of her creation and takes necessary precautions to prevent it from falling into the wrong hands. The text also highlights her determination to continue her work and create new devices that can help humanity.",
+    "Negative Content Summary": "The text also conveys a sense of danger and conflict, particularly in the actions of the rogue hackers who challenge Dr. Li and attempt to steal the trigger for their own gain. The trigger's self-destruct mechanism and the resulting explosion cause damage to the lab and machines, which is portrayed as a negative consequence of the hackers' actions. The loss of the trigger is also seen as a negative outcome, despite the potential risks it posed."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the mayor's determination to solve the issue of respiratory problems caused by excessive use of fertilizers. The scientists' innovative solution of using organic fertilizers and sustainable farming practices is also highlighted positively. The successful implementation of the plan and the resulting improvement in air quality and residents' health are portrayed as positive outcomes.",
+    "Negative Content Summary": "The text mentions the negative impact of excessive use of fertilizers on the health of the residents, which is portrayed as a negative aspect. The initial hesitation of the farmers to adopt new methods is also mentioned as a negative sentiment."
+  }
+}

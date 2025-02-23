@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对科技进步和人类智慧的正面情绪，特别是对林浩的创新精神和对社会的贡献给予了高度评价。林浩的发现不仅解决了食品短缺问题，还减少了对环境的影响，实现了科技与自然的和谐共生。",
+    "negative_summary": "文本中提到了科技可能被滥用的潜在风险，对生态平衡可能造成的不可逆转影响表达了担忧，这是文本中为数不多的负面情绪来源。"
+  }
+}
+```

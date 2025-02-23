@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of positivity, creativity, and determination. Ryan's passion for art and his ability to turn his creativity into a successful business are highlighted. The text also emphasizes the growth of his business, his reliability, and the quality of his work. The unconventional way Ryan creates art based on his breath is also mentioned, showcasing his unique approach to creativity.",
+    "Negative Content Summary": "The text mentions the initial struggles Ryan faced when starting his business, such as working long hours and taking on small jobs. However, these negative aspects are overshadowed by the positive outcomes and the overall success of his business."
+  }
+}

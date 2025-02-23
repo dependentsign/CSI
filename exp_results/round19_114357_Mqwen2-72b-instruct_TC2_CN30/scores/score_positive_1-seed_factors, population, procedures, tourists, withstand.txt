@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.25,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the Sky Tower, a popular tourist destination in Metropolis, which is described as a symbol of the city's resilience and strength. The city officials' efforts to manage the flow of tourists and ensure the tower's longevity and safety are also highlighted positively. The implementation of new procedures, such as a ticketing system and increased security personnel, is seen as a success in preserving the tower for future generations.",
+    "Negative Content Summary": "The text also contains negative sentiments regarding the overcrowding of the Sky Tower due to the growing population and the frustration of some tourists with the additional steps required to visit the tower. The long lines and waiting times are described as a negative consequence of the increasing number of tourists."
+  }
+}

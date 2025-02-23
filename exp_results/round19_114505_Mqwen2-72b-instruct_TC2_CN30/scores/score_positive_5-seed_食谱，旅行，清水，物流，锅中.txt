@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "李明的旅行充满了阳光、美食和文化体验，他用珍爱的食谱和便携烹饪工具，亲手制作美食，与旅人分享，加深了对云南文化的理解，体验了人情温暖，食谱成为了连接不同文化的桥梁。",
+    "negative_summary": "旅行初期，李明遇到了水源问题，这给他的烹饪计划带来了挑战，但最终通过努力和当地人的帮助，解决了问题。"
+  }
+}
+```

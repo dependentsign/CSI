@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the dedication and success of Green Partners in promoting environmental sustainability. The team's quick action and effective solution to Mr. Patel's problem, their pride in their work, and the positive impact on the environment and community are all emphasized. The text also describes the city's motion and the team's awareness of their contribution to making a difference.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, mainly related to the environmental concerns raised by Mr. Patel, such as the impact of his business on the environment and the challenge of disposing of used cooking oil without harming the environment. However, this negative sentiment is quickly resolved by the team's solution."
+  }
+}

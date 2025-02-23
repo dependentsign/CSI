@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对科技与知识的未来充满希望，对人类情感复杂性的探索和理解，以及通过智慧和爱创造AI的情感理解能力，展现了积极向上的态度和对未来的乐观期待。",
+    "negative_summary": "文本中提到了在研究过程中遇到的挑战和困难，如数据的复杂性超出预期，以及在探索情感理解过程中的力不从心，这些表达了轻微的负面情绪。"
+  }
+}
+```

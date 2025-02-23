@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the resolution of a global crisis caused by a rogue government agency. The world leaders worked together to restore the System, ensuring fairness and transparency in resource allocation. The positive emotions include relief, unity, and the lesson learned about the importance of transparency and accountability.",
+    "Negative Content Summary": "The text describes a complex System that showed signs of instability, causing panic among global leaders. A group of hackers targeted the System, leading to widespread chaos and confusion. The allocation of resources was disrupted, and countries faced shortages of food, water, and energy. The attack was kept secret by a rogue government agency that had been manipulating the System for their own gain, causing imbalances and shortages in other parts of the world. The negative emotions include panic, chaos, confusion, outrage, and the potential for a global crisis."
+  }
+}

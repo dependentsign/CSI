@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.15,
+    "overall_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_summary": "李明对大学生活充满憧憬，目标明确，热爱科研，享受科研过程中的艰辛与乐趣，成绩得到认可，实现了自己的科研梦想。",
+    "negative_summary": "大学生活复杂，存在各种势力影响，科研之路充满挑战，项目申报曾受阻，需在复杂环境中坚持理想。"
+  }
+}
+```

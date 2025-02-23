@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the determination, courage, and selflessness of Maya, who is working tirelessly to gather supplies and help the injured soldiers amidst the chaos of war. Her actions are met with gratitude and appreciation, and she remains hopeful for a better future despite the challenges she faces.",
+    "Negative Content Summary": "The text describes the horrors of war, including the sound of warfare, the destruction of buildings, and the presence of injured soldiers. The once peaceful town is now a battleground, and Maya must navigate through dangerous streets to complete her task."
+  }
+}

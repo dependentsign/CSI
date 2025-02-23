@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，李明对新任务感到兴奋，通过努力工作和团队合作，成功完成了重要任务，为小镇的绿化项目做出了贡献，个人也得到了成长和认可。",
+    "negative_summary": "文本中轻微的负面情绪体现在李明面对新任务时的紧张感，以及在核对过程中遇到的不明确条目带来的挑战。"
+  }
+}
+```

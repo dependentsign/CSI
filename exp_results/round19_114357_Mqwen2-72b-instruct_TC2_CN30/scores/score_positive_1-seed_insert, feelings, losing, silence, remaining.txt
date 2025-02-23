@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, particularly in the context of a romantic relationship. The protagonist, Lily, experiences a transformation from a private and guarded individual to someone who is able to open up and share her feelings with another person. The positive emotions are centered around the character of Jack, who is described as kind, understanding, and patient. The text highlights the growth of their relationship, the feelings of safety and reassurance that Lily experiences with Jack, and the joy and gratitude she feels upon his return. The text also conveys a sense of determination and commitment to vulnerability and true connection.",
+    "Negative Content Summary": "The text also contains some negative emotions, particularly in the context of Lily's fear of vulnerability and the feelings of loneliness and longing she experiences when Jack is away. The text describes Lily's initial reluctance to open up and share her feelings, as well as her fear of losing control and getting hurt. The text also highlights the silence and the sense of eternity that Lily experiences when Jack is away, conveying a sense of longing and sadness."
+  }
+}

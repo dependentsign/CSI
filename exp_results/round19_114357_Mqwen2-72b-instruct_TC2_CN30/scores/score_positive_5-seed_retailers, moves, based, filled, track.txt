@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, focusing on the success of a loyalty program created by a group of retailers in New York. The program is described as innovative, filled with exciting rewards, and a huge success, attracting new customers and retaining existing ones. The retailers are portrayed as collaborative, hardworking, and proud of their accomplishments.",
+    "Negative Content Summary": "The text contains a minimal amount of negative sentiment, primarily in the form of implied challenges that the retailers faced before the creation of the loyalty program. These challenges are not explicitly stated but can be inferred from the retailers' constant search for new ways to attract customers and their efforts to improve the program."
+  }
+}

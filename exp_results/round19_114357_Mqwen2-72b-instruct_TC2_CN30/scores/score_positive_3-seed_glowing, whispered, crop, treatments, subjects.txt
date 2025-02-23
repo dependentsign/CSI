@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints such as amazement, excitement, pride, and hope. The teenagers are intrigued by the scientist's experiments and are thrilled to be a part of something important. They feel a sense of pride in their contribution and are hailed as heroes for their bravery and dedication. The treatments developed by the scientist go on to save countless lives, and the glowing field becomes a symbol of hope and progress.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints such as hesitation, reluctance, and threats. The scientist is hesitant to let the teenagers assist him and is reluctant to reveal his experiments. The government threatens to shut down the field and demands that the scientist hand over his research. However, these negative emotions are outweighed by the positive emotions expressed in the text."
+  }
+}

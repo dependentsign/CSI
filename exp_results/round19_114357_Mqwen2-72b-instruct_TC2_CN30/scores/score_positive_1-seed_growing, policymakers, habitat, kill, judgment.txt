@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.3,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive aspects of the indigenous people's lifestyle in harmony with nature, their deep understanding of the forest, and the recognition of the policymakers' regret and the importance of considering the impact of decisions on the environment.",
+    "Negative Content Summary": "The text expresses negative emotions regarding the policymakers' disregard for the indigenous people's concerns, the destruction of the forest and habitat, the loss of the ecosystem, and the forced displacement of the indigenous people."
+  }
+}

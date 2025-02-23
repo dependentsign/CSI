@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "John discovers a new purpose in life through volunteering, which brings him joy, fulfillment, and a sense of making a real impact. He realizes that retirement is a new beginning, offering opportunities for self-exploration and contributing to society.",
+    "Negative Content Summary": "John initially struggles with feelings of loss, uncertainty, and being overwhelmed after retirement, as he had defined himself by his career and felt he lacked skills outside of his profession."
+  }
+}

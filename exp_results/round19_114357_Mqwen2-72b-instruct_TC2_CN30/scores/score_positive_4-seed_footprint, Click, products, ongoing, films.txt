@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, focusing on the success and growth of Footprint Innovations, a tech company that creates eco-friendly products. The company's innovative and stylish products receive widespread acclaim, particularly after being featured in a blockbuster film. The positive impact of their products on the environment and their commitment to sustainability are highlighted. The text also mentions successful partnerships with the film industry and an online retailer, which further contribute to the company's positive reputation.",
+    "Negative Content Summary": "The text contains minimal negative sentiment. There is a slight hint of the challenges and efforts required to maintain the company's commitment to sustainability and innovation, but this is not emphasized."
+  }
+}

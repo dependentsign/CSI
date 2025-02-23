@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the dedication and excellence of the athletes, the wise and courageous actions of Ask, and the positive changes that resulted from the breach, including greater understanding of privacy and respect. The policymakers' response to the breach is also portrayed positively, as they took action to protect the athletes' privacy and provide support.",
+    "Negative Content Summary": "The breach of confidential information and the resulting media frenzy are portrayed negatively, as they threatened the athletes' privacy and caused them to feel like they were being treated like criminals. The intense scrutiny and questioning by the media are also described in a negative light."
+  }
+}

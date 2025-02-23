@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive aspects of Maya's journey, including her determination to improve her situation, her successful genetic modification, and her eventual realization of the importance of fighting for a more equitable society. The abolition of the genetic grading system and the creation of a more inclusive society are also portrayed as positive outcomes.",
+    "Negative Content Summary": "The text describes a dystopian society where individuals are categorized based on their genetic predispositions, leading to inequality and discrimination. Maya's struggles due to her low genetic grade and the pressure to maintain her new status after genetic modification are depicted as negative aspects. The text also criticizes the genetic grading system for perpetuating a divide between the haves and have-nots."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对香牛肉馆的赞美，强调了老李的烹饪技艺和小李的创新精神。通过直播的方式，他们不仅成功地将香牛肉馆的美食推广到了全世界，还让更多的人了解到了中国美食文化的魅力。整个故事充满了积极向上的能量，展现了梦想、热情和创新的力量。",
+    "negative_summary": "文本中没有表达出任何负面情绪或观点。"
+  }
+}
+```

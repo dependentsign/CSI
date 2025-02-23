@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the dedication and quick thinking of a nurse named Sarah, who investigates the cause of an unusual increase in patients at the local hospital. She discovers a new strain of a virus transmitted by bats and helps the hospital take measures to contain the virus, preventing further outbreaks. The town returns to its peaceful state, and Sarah is hailed as a hero.",
+    "Negative Content Summary": "The text describes an unusual increase in patients at the local hospital, causing doctors and nurses to work tirelessly to keep up with the demand. The patients are coming in with similar symptoms, such as fever, coughing, and fatigue. The source of the virus is a new strain transmitted by bats, which can be highly contagious and spread through the air."
+  }
+}

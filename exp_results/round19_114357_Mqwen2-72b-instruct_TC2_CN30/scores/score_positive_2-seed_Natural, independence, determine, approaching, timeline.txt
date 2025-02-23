@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about the natural world, independence, determination, and personal growth. Kaya, the jaguar cub, is portrayed as a natural hunter who is proud of her skills and determined to explore the forest on her own. The text highlights the beauty of the Amazon rainforest and the sense of accomplishment that comes from overcoming challenges.",
+    "Negative Content Summary": "The text contains some negative emotions and viewpoints about the dangers of the forest and the potential for Kaya to become prey to a larger animal. However, these negative emotions are outweighed by the positive emotions and viewpoints expressed in the text."
+  }
+}

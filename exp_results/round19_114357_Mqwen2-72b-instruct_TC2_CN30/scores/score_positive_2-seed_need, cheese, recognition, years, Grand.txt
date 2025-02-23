@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the recognition and appreciation of Grandma's cheese-making skills. The story celebrates her talent, the joy she finds in her craft, and the fame she eventually receives. The positive emotions include admiration, pride, and gratitude.",
+    "Negative Content Summary": "The negative sentiment is minimal and revolves around the initial lack of recognition for Grandma's cheese-making skills. The text mentions that she had never received the recognition she deserved, which implies a sense of injustice or neglect."
+  }
+}

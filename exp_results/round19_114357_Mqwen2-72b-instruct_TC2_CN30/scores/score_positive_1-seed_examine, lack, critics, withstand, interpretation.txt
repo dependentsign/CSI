@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the art gallery, its cultural significance, and the determination of the curator, Maria, to defend a controversial sculpture against negative criticism. The text highlights the beauty and artistic merit of the sculpture, the success of the exhibition, and the restoration of the gallery's reputation. The text also conveys a sense of pride and accomplishment in challenging traditional notions of art and pushing the boundaries of what is possible.",
+    "Negative Content Summary": "The text also expresses negative sentiments about the mixed reviews received by the latest exhibition and the pressure on the gallery to justify its reputation. The text highlights the lack of appreciation from the critics and their hasty judgment of the sculpture. The text also conveys a sense of conflict and tension during the panel discussion, with the critics attacking the sculpture and the artist defending it."
+  }
+}

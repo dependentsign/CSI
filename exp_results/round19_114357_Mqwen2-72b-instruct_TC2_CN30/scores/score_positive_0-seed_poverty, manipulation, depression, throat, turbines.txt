@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.3,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the resilience and determination of Maya, a young woman who strives to improve her life and the lives of her family despite facing significant challenges. Her fight against manipulation and her eventual triumph in finding her voice and advocating for her community are positive aspects of the story.",
+    "Negative Content Summary": "The text predominantly focuses on the hardships and struggles faced by the characters, particularly Maya. It describes poverty, loss, manipulation, and the exploitation of the village's desperation by a manipulative man. Maya's depression and feelings of being used and discarded contribute to the negative sentiment."
+  }
+}

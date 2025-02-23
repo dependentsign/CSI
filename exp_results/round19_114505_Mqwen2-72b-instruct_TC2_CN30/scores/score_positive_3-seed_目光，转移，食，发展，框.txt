@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对‘框’餐厅的赞美，包括其独特的装潢、创新的菜品、以及创始人李明对美食的热爱和执着。林晓的正面评价进一步提升了餐厅的声誉，强调了‘框’餐厅在美食创作上的艺术性和创新精神。",
+    "negative_summary": "文本中没有表达任何负面情绪或观点。"
+  }
+}
+```

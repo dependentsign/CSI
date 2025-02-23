@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints regarding the family's determination to fight for their land, the support of the local community, and the eventual success in saving the farm. The family's joy and gratitude are highlighted, emphasizing the importance of heritage and community.",
+    "Negative Content Summary": "The text also conveys negative emotions and viewpoints, particularly regarding the removal team's aggressive approach and the destruction of the farm. The family's horror and refusal to leave their home are emphasized, highlighting the injustice and loss they experienced."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the wise and experienced king named Don, who maintained peace and order in his kingdom despite breaches of trust and loyalty. The king's decision to address the rebels directly and offer them a chance to peacefully resolve their grievances is portrayed as a brave and wise move. The text also highlights the king's realization that true leadership is about listening to the needs of his people and working to address them.",
+    "Negative Content Summary": "The text mentions the breaches of trust and loyalty among the king's subjects and the threat of a full-scale rebellion by a group of rebels who breached the castle walls. The king's decision to address the rebels directly is described as a risky move."
+  }
+}

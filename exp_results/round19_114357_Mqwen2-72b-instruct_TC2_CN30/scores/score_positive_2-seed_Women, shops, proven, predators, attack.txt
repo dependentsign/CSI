@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the strength, unity, and resilience of women in New York. It emphasizes their confidence, independence, and ability to protect themselves. The positive emotions include gratitude, empowerment, and solidarity. The women's response to danger is proactive, as they form groups, train in self-defense, and take control of their safety.",
+    "Negative Content Summary": "The text also portrays the presence of predators in the city, which creates a sense of fear and vulnerability. The attack on Sarah is a traumatic event that highlights the dangers women face. The negative emotions include fear, vulnerability, and the shock of being attacked."
+  }
+}

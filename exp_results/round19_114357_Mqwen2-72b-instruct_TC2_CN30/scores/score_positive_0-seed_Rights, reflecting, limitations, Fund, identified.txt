@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints regarding the determination and success of a group of activists fighting for the rights of the disabled community. The activists identified a major limitation in the current system - the lack of accessible public transportation - and took action by creating a fund specifically for this cause. They reached out to local businesses and community members, explaining the importance of accessible transportation and the limitations it placed on disabled individuals. As the fund grew, the activists began reflecting on their progress and continued to advocate for the rights of the disabled community. Their efforts did not go unnoticed, and the city government took notice of the fund and the impact it was having on the community. Years later, the city had become a model for accessible transportation, and the activists had achieved their goal.",
+    "Negative Content Summary": "The text also expresses negative emotions and viewpoints regarding the limitations of the current system and the lack of accessible public transportation. Many disabled individuals were unable to leave their homes or participate in daily activities due to the inaccessibility of buses and trains. The activists knew they needed to take action, but they lacked the funds to make a significant impact. They continued to advocate for the rights of the disabled community, pushing for more accessible infrastructure and equal opportunities."
+  }
+}

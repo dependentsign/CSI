@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints related to personal growth, self-care, and the benefits of yoga and meditation. Maya's journey from burnout to finding balance and fulfillment is highlighted, emphasizing the importance of setting boundaries, prioritizing relationships, and exploring new interests. The text also suggests that yoga and meditation can have a positive impact on various aspects of life, including work, relationships, and personal well-being.",
+    "Negative Content Summary": "The text touches on negative emotions and viewpoints related to burnout, neglect of personal well-being, and the challenges of balancing work and life. Maya's initial struggles with long working hours, increasing responsibilities, and the realization of neglecting her loved ones and hobbies are mentioned. The text also acknowledges the hesitation Maya felt before trying yoga and meditation."
+  }
+}

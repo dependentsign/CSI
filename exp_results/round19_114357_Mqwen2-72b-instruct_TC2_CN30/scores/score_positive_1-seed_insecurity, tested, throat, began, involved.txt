@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Sophie realizes her inner strength and resilience during a health crisis, leading to a renewed sense of self and overcoming her long-standing insecurity.",
+    "Negative Content Summary": "Sophie struggles with insecurity and faces a severe health crisis that causes fear and vulnerability, testing her emotionally and physically."
+  }
+}

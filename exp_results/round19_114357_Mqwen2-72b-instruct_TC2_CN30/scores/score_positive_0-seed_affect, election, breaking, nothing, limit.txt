@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments towards Sarah, the young woman running for mayor on a platform of change and progress. Her calm and collected demeanor, her determination to make a difference, and her landslide victory are all portrayed in a positive light. The text also highlights the power of the people and the importance of truth prevailing over manipulation.",
+    "Negative Content Summary": "The text expresses negative sentiments towards the current mayor, Harold, and his campaign's dirty tactics, including funding a smear campaign against Sarah and spreading false information. The rumors of voter fraud and the questioning of the election's integrity also contribute to the negative sentiment. The text portrays these actions as going too far and as attempts to manipulate the election."
+  }
+}

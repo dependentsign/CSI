@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive actions taken by the king and the young woman to address the climate crisis. The king is portrayed as a wise and just leader who acts quickly to save his people. The young woman's bold idea and expertise are celebrated, and her leadership in implementing sustainable solutions is praised. The kingdom's recovery and its status as a model for other nations facing similar challenges are also highlighted.",
+    "Negative Content Summary": "The text describes the negative effects of climate change on the kingdom, including widespread famine and suffering. The initial treatments proposed by the best minds in the land are deemed insufficient, adding to the sense of urgency and crisis. The unpredictability of the climate and the potential for future challenges are also mentioned."
+  }
+}

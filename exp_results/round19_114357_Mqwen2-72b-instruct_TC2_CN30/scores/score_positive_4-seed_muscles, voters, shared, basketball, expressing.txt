@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with the annual basketball tournament in Millfield being described as the highlight of the year, bringing the entire community together. The excitement leading up to the tournament, the former basketball star's popularity and skill, and the way he connected with the voters are all portrayed in a very positive light. The text also highlights the former basketball star's victory in the tournament and the election, emphasizing his strength, skill, and commitment to the community.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, mainly due to the mention of the local elections and the candidates expressing their views, which can be seen as a source of tension and division. However, this is quickly overshadowed by the positive sentiment surrounding the former basketball star and his connection with the voters."
+  }
+}

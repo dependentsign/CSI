@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through themes of hope, resilience, and personal growth. David finds solace in prayer, receives support from a chaplain, and begins to recover from his personal crisis. He learns to see his condition as just one aspect of his life and starts to think about his future, including the possibility of starting his own business. The text ends with David emerging from the war as a stronger, more resilient person.",
+    "Negative Content Summary": "The text also contains negative sentiments, particularly in the beginning. David is struggling with a personal crisis, feeling isolated and alone due to his recent diagnosis of an STD. He is consumed by shame and fear, unable to confide in anyone about his condition. The brutality of war is also mentioned, adding to the overall negative tone of the text."
+  }
+}

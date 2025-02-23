@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about a high-tech company that creates advanced software programs for training purposes. The program is described as a valuable tool that allows users to simulate various situations and learn how to handle them in a safe and controlled environment. The scenario involving a hostage situation in a bank is intense but effective, and the program's monitoring system is instrumental in helping the user make the right decisions. The successful resolution of the scenario and the continued use of the program for training purposes are also highlighted as positive aspects.",
+    "Negative Content Summary": "The text also acknowledges the flaws in the program and the need for the company's team of programmers to spend countless hours monitoring and editing it to ensure that it functions properly. The scenario involving a hostage situation in a bank is described as intense and challenging, which may be perceived as negative by some readers."
+  }
+}

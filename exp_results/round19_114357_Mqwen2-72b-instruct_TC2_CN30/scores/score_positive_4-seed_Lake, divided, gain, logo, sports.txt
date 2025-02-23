@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the beauty of the lake, the joy and recreation it provided to the community, the unity and cooperation that resulted from the resolution of the dispute, and the success of the new Lake Eagles team. The text also highlights the positive impact of Lily's idea and enthusiasm.",
+    "Negative Content Summary": "The text expresses negative sentiments about the dispute between the Lakers and the Eagles, the tension and conflict it caused, and the stubbornness of the two teams. The text also highlights the negative impact of the dispute on the lake and the community."
+  }
+}

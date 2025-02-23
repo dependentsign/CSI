@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.35,
+    "overall_score": 0.5
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对科技发展和医学突破的正面情绪，特别是对艾丽斯团队的创新精神和坚持不懈的赞美，以及对人类面对挑战时展现出的智慧和勇气的肯定。",
+    "negative_summary": "文本中也表达了对‘黑洞病’这一神秘疾病突然出现并迅速蔓延的担忧和恐惧，以及对人类医学知识和科技手段在面对未知挑战时的无力感。"
+  }
+}
+```

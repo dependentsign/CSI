@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对自然的热爱、对梦想的追求和实现，以及对未来的希望。主人公可的勇气、决心和对环境的呼吁，以及他站在珠穆朗玛峰顶峰朗诵诗歌的壮举，都充满了正面情绪和鼓舞人心的力量。",
+    "negative_summary": "文本中提到了攀登珠穆朗玛峰的艰辛和挑战，以及主人公在攀登过程中的身体和心灵上的巨大负载，这些描述带有一定的负面情绪。"
+  }
+}
+```

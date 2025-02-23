@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as Sapphire's curiosity, eagerness to learn, determination, and resilience. The successful surgery and her vow to never stop learning and to always be an active participant in her own healthcare journey are also positive aspects of the text.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints, such as the diagnosis of a rare eye condition that threatened to rob Sapphire of her sight, the risky surgery that could potentially cause more harm than good, and the uncertainty and fear that Sapphire and her family faced during the decision-making process."
+  }
+}

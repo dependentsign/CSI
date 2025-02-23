@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments when Jack takes control of his privacy, invests in a state-of-the-art security system, hires cybersecurity experts, and finds a sense of joy and peace in protecting himself and his loved ones. The positive sentiments are also reflected in Jack's renewed sense of confidence and security.",
+    "Negative Content Summary": "The text expresses negative sentiments when Jack is paranoid about his personal information being leaked, receives an anonymous letter containing all his personal information, feels helpless and violated, and is informed by his lawyer that there is nothing he can do. The negative sentiments are also reflected in the fact that the information had already been leaked online and that the culprit was a former employee who had been fired for embezzlement."
+  }
+}

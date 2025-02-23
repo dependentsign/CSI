@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.5,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about Arin's bravery, determination, and success in discovering the rare flower. His actions are celebrated, and he is regarded as a hero upon his return to the Empire.",
+    "Negative Content Summary": "Negative sentiments are associated with the dangers Arin encounters in the forest, including the attack by wolves and the warning from the Society members about the risks of exploring alone. Arin's anger and frustration at being interrupted are also highlighted."
+  }
+}

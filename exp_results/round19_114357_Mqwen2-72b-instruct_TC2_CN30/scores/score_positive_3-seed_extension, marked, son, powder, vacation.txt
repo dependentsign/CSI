@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, particularly around the themes of family, hard work, and the importance of balancing work and family life. Jack is portrayed as a hardworking man who is dedicated to his business and his family. Max is depicted as a helpful and loving son who is excited to spend time with his father. The text also highlights the importance of taking time off to enjoy life and the rewards of hard work.",
+    "Negative Content Summary": "The text contains some negative emotions, particularly around the theme of overwork. Jack is shown working long hours and overtime to fulfill an order, which can be seen as stressful and exhausting. However, these negative emotions are outweighed by the positive emotions expressed in the text."
+  }
+}

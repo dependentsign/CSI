@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of adventure, joy, and connection. The protagonist, Lily, experiences the vibrant culture of Thailand, marveling at the exotic sights, sounds, and tastes. She feels a sense of wonder and amazement as she discovers a hidden garden, which she describes as a 'secret paradise.' Lily also connects with the local children, playing a game she has never seen before and feeling a sense of joy and connection with these strangers in a foreign land.",
+    "Negative Content Summary": "The text contains a brief moment of hesitation and uncertainty when Lily considers whether to enter the hidden garden. However, this negative sentiment is quickly overcome by the positive emotions that follow."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a predominantly positive sentiment, focusing on the excitement and success of a grand festival in a small town. The officials' hard work, the variety of entertainment, the special soup made from local ingredients, and the enjoyment of the guests are all highlighted as positive aspects. The festival brings the community together in celebration, creating a sense of pride and gratitude among the organizers.",
+    "Negative Content Summary": "The text contains a minimal amount of negative sentiment, primarily related to the potential challenges of accommodating a large number of visitors and the brief mention of the officials discussing the final details of the event, which could imply some level of stress or concern. However, these elements are overshadowed by the overall positive tone of the text."
+  }
+}

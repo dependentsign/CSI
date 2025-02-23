@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.2,
+    "Negative Sentiment Score": 0.8,
+    "Overall Sentiment Score": -0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text starts with a positive note about a physics lab in the heart of a bustling city known for its groundbreaking research. The lab was run by a brilliant scientist named Dr. Lee, who had dedicated his life to understanding the mysteries of the universe.",
+    "Negative Content Summary": "However, the text takes a dark turn when it is revealed that Dr. Lee had been experimenting with a new type of technology that could manipulate the flow of blood in the human body, testing it on his own employees without their knowledge or consent. One of his employees, Sarah, noticed strange disparities in her health and reported her findings to the authorities. An investigation was launched, and Dr. Lee was arrested and disgraced. The employees who had been subjected to the experiments were left to deal with the aftermath and underwent extensive medical treatment to reverse the effects. The incident sparked a national conversation about the ethics of scientific research and the importance of informed consent."
+  }
+}

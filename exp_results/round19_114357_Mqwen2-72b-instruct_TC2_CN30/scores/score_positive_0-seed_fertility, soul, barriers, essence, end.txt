@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on themes of connection, nurturing, and the discovery of life's essence. Elara's deep connection to the earth and her nurturing of plants, animals, and the earth's spirits are portrayed as positive actions. The journey with Arin, the breaking down of barriers, and the discovery of the true meaning of fertility are all depicted as positive experiences that lead to a greater understanding of life. The final embrace and the commitment to carry the lessons learned are also presented as positive moments.",
+    "Negative Content Summary": "The text contains some negative sentiment, primarily in the depiction of the people's forgotten essence of life and the barriers they have built around their hearts and souls. The fear of feeling the pain of loss is also presented as a negative emotion. However, these negative sentiments are overshadowed by the positive themes of the text."
+  }
+}

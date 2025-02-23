@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了李明在公园散步时的愉快心情，对生活的热爱，对自然的欣赏，以及与老人交流时的钦佩和感激。李明不仅享受了自然美景，还收获了知识和友谊，意识到了生活中的乐趣和学习的重要性。",
+    "negative_summary": "文本中没有表达出任何负面情绪或观点。"
+  }
+}
+```

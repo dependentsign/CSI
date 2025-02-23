@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.95,
+    "negative_sentiment_score": 0.05,
+    "overall_sentiment_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses strong positive emotions, particularly around personal growth, self-discovery, and empowerment. Lily's transformation from a follower to a confident individual who embraces challenges and the unknown is highlighted. The narrative emphasizes the power of facing fears, the beauty of nature, and the realization of one's ability to shape their own future.",
+    "negative_content_summary": "The negative emotions in the text are minimal and revolve around Lily's initial fear of the unknown and her past tendency to stay within her comfort zone. These feelings are quickly overshadowed by her positive experiences and personal growth."
+  }
+}

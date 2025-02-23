@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.75,
+    "negative_sentiment_score": 0.25,
+    "overall_sentiment_score": 0.5
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions through the protagonist's love for pink, her curiosity, and her determination to gather data. The positive sentiment is further highlighted by her success in court, where justice is served, and her continued pride in using her pink dishes.",
+    "negative_content_summary": "The negative emotions in the text are associated with the discovery of the pink dishes chipping more often than other colored dishes, the legal dispute with the manufacturer, and the potential for user error in handling the dishes."
+  }
+}

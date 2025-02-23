@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, primarily centered around Lily's passion for literature, her discipline, and her successful negotiation with a film production company to adapt one of her favorite books into a movie. The positive emotions include joy, pride, and inspiration. The text highlights Lily's dedication to ensuring that the movie adaptation stays true to the book's themes and characters, which results in a faithful adaptation that delights both viewers and book lovers. Lily's career as a consultant for film adaptations of literature is portrayed as a source of pride, and her impact on inspiring viewers to discover the magic of literature is emphasized.",
+    "Negative Content Summary": "The text contains a minor negative sentiment, which is expressed through Lily's initial wariness of the potential changes that could be made during the adaptation process. This concern is quickly addressed and resolved through her negotiation with the production company, resulting in a positive outcome."
+  }
+}

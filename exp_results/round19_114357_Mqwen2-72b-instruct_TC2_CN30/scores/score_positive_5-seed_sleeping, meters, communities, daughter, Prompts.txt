@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions centered around the bond between a mother and her daughter. Maya, the mother, realizes the importance of spending quality time with her daughter, Lily, and the text highlights the love and closeness they share. The community of people living in high-rise apartments is also portrayed positively, emphasizing a sense of belonging and togetherness.",
+    "Negative Content Summary": "The text contains some negative emotions, primarily related to Maya's exhaustion from working long hours and the initial confusion and puzzlement she feels when she hears a strange noise coming from Lily's room. However, these negative emotions are not overly dominant and are quickly resolved."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.35,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": -0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the dedication and hard work of the election officials who worked tirelessly through the night to ensure the accuracy of the vote count. It also portrays the positive aspects of democracy, such as the right to vote and the importance of every vote. Sarah's determination to bring change to the community is also portrayed positively.",
+    "Negative Content Summary": "The text describes the high tensions and divisions in the town during the election. The complications and discrepancies in the voting process are portrayed negatively, as are the irregularities in the voting process that Sarah claims occurred. The recount process is also described as exhausting and time-consuming."
+  }
+}

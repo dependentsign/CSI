@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the bravery and dedication of the firefighters, particularly firefighter Jack, who responded quickly to a fire. The community's support and the eventual restoration of the fire department's budget are also positive aspects. The officials' reconsideration of their decision and the prioritization of community safety are seen as positive outcomes.",
+    "Negative Content Summary": "The text expresses negative sentiments regarding the budget reduction for the local fire department, which is seen as a mistake that led to the loss of a building and the residents' belongings. The officials' initial decision to cut funds is criticized, and the incident is described as a wake-up call for them."
+  }
+}

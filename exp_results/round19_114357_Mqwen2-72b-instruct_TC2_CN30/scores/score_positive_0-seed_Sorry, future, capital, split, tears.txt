@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about hope, community, and the potential for a better future. Maya's story of finding a supportive community and working together to build a future based on compassion, empathy, and human connection is a source of inspiration. The text also highlights the potential for humans and machines to coexist in harmony, which is a positive vision for the future.",
+    "Negative Content Summary": "The text expresses negative sentiments about conflict, loss, and uncertainty. The description of the virtual capital being split into two factions and the violence that ensues is a source of tension and fear. Maya's story of losing everything in the conflict and her tears of despair are also sources of negative sentiment. The text also highlights the potential for technology to be used for destructive purposes, which is a negative vision for the future."
+  }
+}

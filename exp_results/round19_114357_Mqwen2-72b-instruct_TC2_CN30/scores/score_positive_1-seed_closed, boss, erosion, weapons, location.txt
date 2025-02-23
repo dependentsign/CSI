@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments when the boss feels a sense of relief upon entering the bunker, believing it to be a safe haven. The unexpected arrival of scientists instead of rebels also brings a positive turn, as they offer to help the boss escape the city.",
+    "Negative Content Summary": "The text conveys negative sentiments through the erosion of the boss's power, the threat of enemies closing in, and the constant fear of being watched. The boss is on the run and has to prepare to defend himself, which adds to the overall negative tone."
+  }
+}

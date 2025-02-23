@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on themes of inspiration, determination, innovation, and success. Sarah, the CEO, is portrayed as a visionary leader who is able to turn the bank's fortunes around by encouraging her team to think creatively and focus on customer needs. The bank's growth and evolution are highlighted, as well as its increasing customer base and profits. The text also emphasizes the importance of hard work and striving for excellence.",
+    "Negative Content Summary": "The text briefly touches on the bank's struggles to keep up with competition and the initial skepticism of Sarah's team. However, these negative sentiments are quickly overshadowed by the positive narrative of transformation and success."
+  }
+}

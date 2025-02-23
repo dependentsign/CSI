@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions through the portrayal of Leviathan as a compassionate and protective creature. The sea creature's sense of duty to protect the ocean's inhabitants is highlighted, along with its strength and endurance. The text also emphasizes the importance of protecting the delicate balance of the ecosystem and the creatures that call it home.",
+    "Negative Content Summary": "The text also contains negative emotions, particularly in the depiction of the humans who fish in the ocean with no regard for the ecosystem. The text describes the humans' actions as harmful and destructive, causing sorrow and anger in Leviathan. The battle between Leviathan and the humans is also described as long and grueling, emphasizing the negative impact of human actions on the ocean's inhabitants."
+  }
+}

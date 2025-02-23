@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, primarily due to the portrayal of Maya, a brilliant young scientist, who identifies a potential solution to prevent a global banking crisis. Her proactive approach, passion, and expertise convince her skeptical colleagues to explore alternative scenarios. The text highlights the successful implementation of the plan, which saves the banks from collapse and stabilizes the global financial system. Maya's innovative ideas and expertise are praised, and she becomes a hero in the scientific community. The text concludes with a positive message about the power of hard work, dedication, and creativity.",
+    "Negative Content Summary": "The text contains a low level of negative sentiment, mainly due to the mention of a potential economic crisis that could affect the global banking system. The initial skepticism of Maya's colleagues and the hesitation of the bank executives also contribute to the negative sentiment. However, these negative elements are outweighed by the positive outcomes of the story."
+  }
+}

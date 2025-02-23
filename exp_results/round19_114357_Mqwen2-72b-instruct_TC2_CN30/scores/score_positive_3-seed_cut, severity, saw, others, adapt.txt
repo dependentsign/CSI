@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights Jack's resilience and adaptability after a severe injury. He transforms his situation by starting a woodworking school, which becomes highly successful and brings him a sense of pride and fulfillment. The positive emotions include determination, reward, and pride.",
+    "Negative Content Summary": "The text describes a negative event where Jack injures his hand while working on a project, leading to a hospital visit. This event causes him to reassess his life and career, which initially brings feelings of struggle and difficulty as he adapts to a new role."
+  }
+}

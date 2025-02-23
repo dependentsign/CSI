@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对未来的希望、对环境保护的热情以及对个人责任的深刻认识。李明作为应届毕业生，对即将开始的环境保护工作充满热情和决心，他相信个人的努力能够为世界带来积极的改变。",
+    "negative_summary": "文本中提到了环境被工业废气严重污染的现实，这给李明带来了深深的触动，反映了对当前环境问题的担忧和对未来的不确定性。"
+  }
+}
+```

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, primarily centered around the character Sayori, a dedicated and kind-hearted nurse. Her commitment to her patients, the successful surgery she assisted in, and the joy she felt from helping others are all highlighted as positive aspects. The gratitude of the patient's family and Sayori's continued dedication to her work further contribute to the positive sentiment.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and is associated with the mention of a 'terrible accident' that led to the surgery. This event, while necessary for the context, introduces a brief moment of negativity."
+  }
+}

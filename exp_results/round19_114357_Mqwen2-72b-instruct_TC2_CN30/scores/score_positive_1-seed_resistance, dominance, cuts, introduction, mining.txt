@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the theme of resistance and rebellion against oppressive forces. The leader of the resistance, Maya, is portrayed as a strong and determined character, inspiring hope and courage in her team and the people. The successful attack on the mining operation and the growing strength of the resistance are depicted as positive developments.",
+    "Negative Content Summary": "The text conveys negative sentiments through the depiction of a dystopian world where resources are depleted, and mining corporations have absolute control over people's lives. The dangerous and grueling work conditions in the mines, the cuts and bruises on the bodies of the workers, and the oppressive nature of the corporations are described in negative terms. The text also highlights the potential for violent retaliation from the corporations."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对早期埃及护肤文化的高度赞美，强调了护肤不仅是美容习惯，更是对神灵的尊重和对自然的敬畏。阿米娜的故事展现了自然护肤的智慧和效果，以及她对埃及人民皮肤健康和自信的积极影响，体现了人与自然、神灵的和谐共处。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

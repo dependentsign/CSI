@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对科技发展、探索宇宙、古生物学研究的正面情绪，特别是对艾丽的勇气、坚持和科学精神的赞扬，以及她对科学界和公众的积极影响。",
+    "negative_summary": "文本中提到了对艾丽发现的质疑和争议，这反映了科学探索中可能遇到的负面情绪，如怀疑和约束。"
+  }
+}
+```

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Lisa experienced a strong sense of relief and joy when she learned that her cancer was in remission. She felt a renewed sense of determination to stay healthy and take care of herself, and a deep sense of gratitude for the second chance she had been given. She was determined to make the most of her life and never take a single day for granted.",
+    "Negative Content Summary": "Lisa felt anxiety and fear before receiving her medical test results. She was also disturbed by the sight of people smoking outside the doctor's office, which reminded her of her past addiction and the risks associated with smoking. These negative emotions were short-lived, however, and did not overshadow the overall positive sentiment of the text."
+  }
+}

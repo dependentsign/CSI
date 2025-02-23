@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the dedication and efficiency of the police department, the proactive approach of the chief of police in addressing issues, the implementation of training for de-escalation techniques and cultural sensitivity, and the positive outcomes of these actions, including a decrease in incidents involving the use of force and the restoration of community trust.",
+    "Negative Content Summary": "The text also mentions the increase in incidents involving the use of force by officers, the tension within the department, the disturbing trends revealed by the matrix, and the initial resistance from some officers to the proposed changes."
+  }
+}

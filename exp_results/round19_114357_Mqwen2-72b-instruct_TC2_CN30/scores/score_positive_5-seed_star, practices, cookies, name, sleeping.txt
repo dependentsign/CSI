@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, primarily centered around the loving relationship between Lily and her mother. The joy Lily experiences from playing soccer, the comfort of her home, the pleasure of eating freshly baked cookies, and the deep gratitude she feels towards her mother for her sacrifices are all highlighted. The act of writing a note to express thanks and the resulting tradition of leaving cookies and notes for each other further emphasize the positive sentiments of love, support, and appreciation.",
+    "Negative Content Summary": "The text contains a minor negative sentiment when Lily finds her mom sleeping on the couch after a grueling soccer practice. This moment suggests a hint of concern or worry for her mother's well-being, which is quickly overshadowed by Lily's decision to quietly make herself a plate of cookies and write a note of thanks, turning the situation into a positive one."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本充满了正面情绪，主要体现在对瑞士阿尔卑斯山脉小村庄的宁静生活、艾米的勇敢和创新精神、以及她通过智慧和勇气改善村庄命运的故事上。艾米的创新不仅解决了实际问题，还激发了村民对环境保护和资源利用的思考，使村庄变得更加繁荣，人们的生活变得更加美好。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints when the explorers discover a hidden treasure in the mine. They are grateful to have survived the fall and excited to share their discovery with the world. The text also highlights the thrill of adventure and the excitement of making a significant discovery.",
+    "Negative Content Summary": "The text expresses negative emotions and viewpoints when the explorers are in danger of a cave-in and fall into a deep pit. They are bruised and battered, and the text highlights the fear and danger they experience. The text also suggests that the discovery of the treasure almost cost them their lives."
+  }
+}

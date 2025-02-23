@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of hope, resilience, and community spirit. Maya's proactive response to the disaster, her advocacy for change, and the creation of the app are all portrayed in a positive light. The app is described as a lifeline, connecting people in need with those who can help, and its impact is celebrated. Maya's determination to ensure long-term solutions and better disaster preparedness is also highlighted as a positive aspect.",
+    "Negative Content Summary": "The text acknowledges the devastation caused by the hurricane and the struggles faced by the community in its aftermath. The initial lack of help and the need for Maya to take action are portrayed as negative aspects. The uncertainty of the community's fate is also mentioned, indicating a lingering sense of vulnerability."
+  }
+}

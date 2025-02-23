@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对'希望之翼'儿童教育中心的正面情绪，以及对李明无私奉献精神的赞扬。中心的成立不仅为孩子们提供了学习和发掘潜力的机会，还凝聚了社区的力量，展现了爱与希望的力量。",
+    "negative_summary": "文本中轻微提及了小镇上一些孩子因家庭条件限制而无法接受良好教育的现状，这反映了社会中存在的一些不平等和挑战。"
+  }
+}
+```

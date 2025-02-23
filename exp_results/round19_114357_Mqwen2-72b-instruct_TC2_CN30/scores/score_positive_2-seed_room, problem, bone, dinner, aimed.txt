@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions through the resolution of the mystery of the bone, the helpfulness of the neighbor, and the contentment of the cat with his usual diet. The protagonist, Lily, is portrayed as responsible and proactive in solving the problem and preventing future issues.",
+    "Negative Content Summary": "The text contains a minor negative sentiment when describing the discovery of the bone and the concern over its origin and potential health risks. There is also a brief mention of a rodent infestation, which can be perceived as unpleasant."
+  }
+}

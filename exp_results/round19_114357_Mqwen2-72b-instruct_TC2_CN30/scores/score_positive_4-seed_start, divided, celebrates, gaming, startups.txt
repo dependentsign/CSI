@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the passion, hard work, and success of a group of young entrepreneurs who started a gaming startup. The team's dedication to their project and their commitment to creating meaningful and impactful games are emphasized. The startup's growth and popularity in the gaming industry are also celebrated.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, which is mainly due to the mention of the team being divided by their backgrounds and experiences. However, this is quickly overshadowed by the positive sentiment of their unity in passion for gaming."
+  }
+}

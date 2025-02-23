@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, particularly in the second half. It highlights the determination and resilience of Maria, who refused to accept the poor living conditions in her community and took action to make a difference. The rehabilitation program she started for those struggling with addiction and criminal behavior is portrayed as a beacon of hope, transforming the area and the lives of its residents. The text emphasizes the positive impact of the program, including the newfound sense of hope and purpose among the people, the cleaner streets, and the renovated buildings. The transformation is described as inspiring to others in the city, highlighting the power of hard work and determination.",
+    "Negative Content Summary": "The text begins with a description of a high crime rate and poverty in the area, with dilapidated buildings and litter-filled streets. The people who lived there are described as often overlooked and forgotten by society. There is also mention of doubt among the community at first, with many people having given up hope and not believing that anything could change. However, these negative sentiments are outweighed by the positive sentiments expressed in the text."
+  }
+}

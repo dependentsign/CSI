@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.3,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions of peace and solace towards the end, as Lily comes to terms with her father's death and finds comfort in the knowledge that he is in a better place.",
+    "Negative Content Summary": "The text is predominantly negative, with strong emotions of grief, fear, and sadness. Lily is mourning her father's death, and the encounter with the two men in black adds to the somber and eerie atmosphere."
+  }
+}

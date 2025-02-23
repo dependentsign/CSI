@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了康复中心的温馨环境和对患者身心的全面关怀，特别是夕阳的象征意义，为患者李明带来了温暖、希望和积极的生活态度。李明的康复过程和他成为志愿者，传递希望的故事，展现了康复中心的爱与希望。",
+    "negative_summary": "文本中提到了李明初来康复中心时的绝望情绪，这是由于他的腿部受伤和对未来生活的悲观预期所导致的。"
+  }
+}
+```

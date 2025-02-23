@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对生活、自然和中医的热爱与敬畏，小米的故事充满了治愈和希望，她的诗作和医术不仅治愈了疾病，也温暖了人心。",
+    "negative_summary": "文本中轻微的负面情绪来源于小镇上突然爆发的奇怪疾病，给乡亲们带来了痛苦，但这一事件最终被小米的勇气和智慧所克服。"
+  }
+}
+```

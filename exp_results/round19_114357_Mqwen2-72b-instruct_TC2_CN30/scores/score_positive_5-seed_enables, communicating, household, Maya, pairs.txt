@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, particularly around the protagonist's enthusiasm for technology and its ability to improve her life. Maya's excitement about the new device, its convenience, efficiency, and the way it brings her family closer together are all highlighted as positive aspects. The text also conveys a sense of pride and accomplishment in Maya's ability to use technology to make people's lives easier and more connected.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and is mainly associated with the inconvenience of running out of milk at inconvenient times before the device was installed. This is a minor issue that is quickly resolved by the device, and does not significantly impact the overall positive sentiment of the text."
+  }
+}

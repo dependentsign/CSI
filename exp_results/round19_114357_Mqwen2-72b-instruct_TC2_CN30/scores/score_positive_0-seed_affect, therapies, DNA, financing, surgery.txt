@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, particularly around the community's support for Lily and her family, the success of the experimental surgery, and Lily's recovery and transformation into a strong, independent young woman dedicated to helping others. The story highlights themes of hope, resilience, and the power of community and science to overcome adversity.",
+    "Negative Content Summary": "The text also contains elements of negative sentiment, primarily related to Lily's initial diagnosis with a rare genetic disorder, her suffering from severe joint pain and limited mobility, and the financial struggles her family faced in seeking treatment. These aspects introduce themes of hardship, uncertainty, and the challenges of accessing expensive medical care."
+  }
+}

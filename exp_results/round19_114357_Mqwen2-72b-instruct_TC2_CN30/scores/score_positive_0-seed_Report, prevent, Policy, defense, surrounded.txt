@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the dedication and hard work of the team of scientists and analysts who were working tirelessly to prevent a catastrophic attack on the nation. The successful development of a vaccine and the prevention of the virus from spreading are also positive aspects of the text. The gratitude of the nation towards the team for saving countless lives is also a positive sentiment.",
+    "Negative Content Summary": "The text expresses negative sentiments about the terrorist group planning to unleash a deadly virus that could wipe out millions of people. The facility being surrounded by heavily armed guards and the team working under lockdown due to the threat of danger are also negative aspects of the text. The high stakes and the pressure to act fast before it was too late also contribute to the negative sentiment."
+  }
+}

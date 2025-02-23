@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting Lila's dedication, bravery, and quick thinking. Her work as a scientist is portrayed as crucial and life-saving, and her actions in protecting her research from terrorists are described as heroic. The text also emphasizes the positive impact of her work on the country's water supply and the lives it has saved.",
+    "Negative Content Summary": "The text contains a minor negative sentiment, mainly related to the threat posed by the terrorists who attempt to steal the chemical compound. This creates a sense of danger and risk, which could potentially harm Lila and compromise her work."
+  }
+}

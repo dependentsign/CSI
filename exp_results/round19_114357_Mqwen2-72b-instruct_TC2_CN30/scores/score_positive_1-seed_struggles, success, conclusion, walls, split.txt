@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions related to perseverance, determination, and the ultimate success of Maya's artistic journey. Maya's passion for art, her refusal to give up on her dream, and her hard work are highlighted as positive aspects. The critical acclaim and sense of pride and accomplishment she feels at the exhibition are also portrayed as positive outcomes.",
+    "Negative Content Summary": "The text also contains significant negative emotions related to the challenges and setbacks Maya faces on her path to success. The struggles and obstacles she encounters, including the lack of support from her parents, the fierce competition at art school, and the disappointment of her work only being featured in the second half of the exhibition, are portrayed as negative aspects."
+  }
+}

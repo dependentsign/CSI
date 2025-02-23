@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.45,
+    "negative_sentiment_score": 0.55,
+    "overall_sentiment_score": -0.1
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text highlights the emergence of a new generation of policymakers who are determined to learn from the mistakes of the past and create a society that values human connection and purpose. The new civilization is described as rising from the ashes of the old, with people working together to create a better future. There is a sense of hope and determination to build a sustainable society that values human connection and purpose above all else.",
+    "negative_content_summary": "The text describes a civilization that had advanced technology but failed to consider the human need for purpose and connection. The people felt empty inside despite having everything they could ever desire. The policymakers were at a loss and failed to address the needs of the people. The once-great cities became overrun with crime and poverty, and the people cried out for help. The tears of the people were a constant reminder of the failure of their civilization."
+  }
+}

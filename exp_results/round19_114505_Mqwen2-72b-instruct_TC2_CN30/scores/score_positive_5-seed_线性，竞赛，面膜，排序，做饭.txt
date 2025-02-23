@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对小明创新精神的赞赏，以及对智能面膜排序系统和厨房实验成果的正面评价。强调了线性排序技术在日常生活中的应用价值，以及它带来的高效和智能生活方式。",
+    "negative_summary": "文本中轻微的负面情绪来源于对市面上面膜选择难题的描述，以及对原本烹饪时间较长的提及，但这些负面情绪被后续的解决方案和成果所抵消。"
+  }
+}
+```

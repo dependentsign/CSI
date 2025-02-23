@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.8,
+    "negative_score": 0.2,
+    "overall_score": 0.6
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对科技发展、人类探索精神、专业精神和勇于面对挑战的正面情绪。李博士在面对职业挑战时展现出的坚韧不拔和科学探索精神，以及他最终取得的科学成就，都是正面情绪的体现。",
+    "negative_summary": "文本中也提到了科技发展带来的新挑战，以及李博士在一次火山考察中遭遇的意外事故，这些事件对他的研究造成了重大影响，体现了负面情绪。"
+  }
+}
+```

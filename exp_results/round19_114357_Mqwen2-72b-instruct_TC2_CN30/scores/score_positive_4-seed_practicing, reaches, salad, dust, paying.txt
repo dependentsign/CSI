@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, particularly in the context of Lily's passion for cooking, her determination to become the best chef in the city, and her commitment to attention to detail. The text also highlights the positive emotions associated with her refreshed and re-energized state after cleaning her kitchen and the pride she felt in creating a stunning dish for her family.",
+    "Negative Content Summary": "The text expresses a mild negative sentiment, particularly in the context of Lily's realization that she had neglected to clean her kitchen, which made her feel embarrassed. However, this negative sentiment is quickly resolved as she takes action to clean her kitchen and improve her workspace."
+  }
+}

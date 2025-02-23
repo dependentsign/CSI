@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对勇气、智慧和希望的正面情绪。艾登的英雄行为，拯救了起源星，恢复了星球的平衡与和谐，展现了即使是最微小的生命也能创造伟大奇迹的正面观点。",
+    "negative_summary": "文本中提到了起源星面临的危机，向量能量的衰弱，以及星球即将崩溃的前夕，这些描述带有一定的负面情绪。"
+  }
+}
+```

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "小明和他爸爸在参观环保科技公司时，对'绿色薄片'技术表现出浓厚的兴趣和兴奋，这项技术能显著降低汽车的碳排放量。他们不仅决定购买并推广这项技术，小明还决定在学校分享这次经历，鼓励同学们关注环保，体现了对环保知识的学习、科技创新的兴趣以及保护地球的责任感。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

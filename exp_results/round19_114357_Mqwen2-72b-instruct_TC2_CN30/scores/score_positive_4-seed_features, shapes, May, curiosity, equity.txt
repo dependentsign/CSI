@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on the beauty of nature, the unique features of a small town, and the sense of community and inclusivity. The story highlights the reopening of a community center with a focus on equity, which is described as treating everyone fairly regardless of their background or circumstances. The protagonist, Lily, is portrayed as curious, helpful, and open-minded, learning about the challenges faced by people from different walks of life and gaining a deeper understanding of equity. The text ends on a note of pride and accomplishment, with Lily feeling a sense of belonging and appreciation for the importance of fairness and respect.",
+    "Negative Content Summary": "The text contains a minor negative sentiment, which is related to the closure of the community center due to lack of funding. This event is described as a past issue that has been resolved, and it serves as a backdrop for the positive developments that follow. The negative sentiment is not emphasized and is outweighed by the overall positive tone of the text."
+  }
+}

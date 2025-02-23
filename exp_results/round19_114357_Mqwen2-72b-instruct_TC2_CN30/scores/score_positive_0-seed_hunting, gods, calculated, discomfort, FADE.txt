@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the bravery and determination of Arin, the young hunter who decides to take a stand against the gods. His calculated approach, his success in hunting the gods, and his emergence as a hero and legend for his people are all portrayed in a positive light. The text also highlights the newfound peace and freedom from fear that the people of FADE experience after Arin's victory.",
+    "Negative Content Summary": "The text conveys negative sentiments through the depiction of the gods as capricious and unpredictable beings who cause discomfort and fear among the people of FADE. The constant fear and discomfort experienced by the people due to the gods' actions are also portrayed negatively."
+  }
+}

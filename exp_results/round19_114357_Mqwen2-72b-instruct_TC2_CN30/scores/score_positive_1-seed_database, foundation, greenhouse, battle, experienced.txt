@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the skyscraper being a treasure trove of information, the solid foundation designed to withstand any disaster, the experienced IT team fighting back against the hackers, the groundbreaking research on plant genetics, and the successful defense of the database and greenhouse. The foundation's investment in advanced security measures and the scientists' continued work to change the world for the better also contribute to the positive sentiment.",
+    "Negative Content Summary": "The text also contains negative sentiments about the cyber-attack launched by the rogue hackers, the intense battle between the hackers and the IT team, the danger that lurked below the greenhouse, and the breach of the database. The second attack targeting the greenhouse and the attempted theft of the valuable research also contribute to the negative sentiment."
+  }
+}

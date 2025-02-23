@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.5,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "Sarah's determination to face her fears and the sense of relief and peace she felt after fixing the error in the project. Her work, infused with her essence, is now even better because of the experience.",
+    "Negative Content Summary": "Sarah's growing discomfort and self-doubt as she worked on the project. The storm outside reflecting her inner turmoil and the fear she felt as she was startled by a bolt of lightning and thunder."
+  }
+}

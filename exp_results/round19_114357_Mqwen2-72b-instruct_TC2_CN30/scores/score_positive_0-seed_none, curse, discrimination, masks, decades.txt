@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions through the story of Lily, a kind and open-hearted woman who moved to Millfield and brought happiness back to the town by breaking the curse. She organized events that brought the community together, encouraged people to be themselves, and fell deeply in love with Jack. Their love spread throughout the town, and other couples began to form. The text highlights the power of love, kindness, and compassion in overcoming discrimination and hatred.",
+    "Negative Content Summary": "The text also expresses negative emotions through the story of the curse placed on the town by a group of witches who were discriminated against and driven out of the community. The curse caused the people of Millfield to feel emptiness and sadness, and they wore masks of happiness, pretending that they were content with their lives. The text highlights the negative impact of discrimination and hatred on a community."
+  }
+}

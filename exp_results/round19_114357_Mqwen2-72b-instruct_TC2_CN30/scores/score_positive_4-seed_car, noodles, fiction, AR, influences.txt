@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.85
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of excitement, wonder, and curiosity as Maya explores a world where fiction and reality merge through an augmented reality game. The positive emotions are centered around Maya's fascination with the power of fiction to influence reality, her sense of anticipation as she prepares to play the game, and her amazement at the new world she discovers. The text also highlights the game's ability to open Maya's mind to new possibilities and help her see the world in a new light.",
+    "Negative Content Summary": "The text contains a slight sense of uncertainty and disorientation as Maya navigates the empty streets and reflects on the blurred line between reality and fiction. However, this is quickly overshadowed by the positive emotions expressed in the rest of the text."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对风云城堡的极高赞誉，强调了其独特的建筑风格、与自然的和谐共存以及作为旅游景点的吸引力。描述了城堡与天气的奇特联系，以及游客对城堡神秘气压变化和古老电梯的浓厚兴趣。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

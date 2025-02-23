@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the mayor's vision for the city's future, the benefits of the increased budget for public transportation, and the sense of pride and accomplishment felt by the council members after the proposal's approval. The mayor's leadership and the council members' dedication are highlighted as positive aspects.",
+    "Negative Content Summary": "The text mentions the concerns of some council members regarding the potential impact of the increased budget on the city's finances. This introduces a negative sentiment, but it is outweighed by the positive sentiments expressed in the text."
+  }
+}

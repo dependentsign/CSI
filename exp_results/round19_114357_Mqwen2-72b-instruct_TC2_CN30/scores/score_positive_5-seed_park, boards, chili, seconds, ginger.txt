@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as determination, admiration, gratitude, and a sense of purpose. Lily's actions of helping the injured boy and her realization of the importance of being there for others in their time of need are portrayed as positive. The simple pleasures in life, such as enjoying a bowl of chili, are also highlighted as positive aspects.",
+    "Negative Content Summary": "The text contains a negative event where a boy falls off his skateboard and injures his ankle. This incident causes concern among the skaters and requires medical attention. The negative sentiment is relatively low compared to the positive sentiment in the text."
+  }
+}

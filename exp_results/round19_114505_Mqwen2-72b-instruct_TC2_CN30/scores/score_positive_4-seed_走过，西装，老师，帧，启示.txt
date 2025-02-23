@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对林浩老师及其教学方式的正面评价，强调了他对学生的影响，以及通过艺术表达生活和情感的重要性。学生们被启发去欣赏生活中的每一个瞬间，用艺术的语言表达自己对世界的理解和感悟。",
+    "negative_summary": "文本中没有表达任何负面情绪或观点。"
+  }
+}
+```

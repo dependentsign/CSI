@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，包括对段明勇气、好奇心和正义感的赞扬，以及他成为'公民英雄'和'秘密侦探'的积极转变，为小镇带来和平与安全。",
+    "negative_summary": "文本中轻微的负面情绪体现在段明发现的犯罪活动，包括毒品交易和盗窃，这些行为对社区安全构成了威胁。"
+  }
+}
+```

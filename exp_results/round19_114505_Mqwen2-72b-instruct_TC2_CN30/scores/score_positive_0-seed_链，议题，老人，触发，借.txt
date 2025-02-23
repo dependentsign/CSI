@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，包括对智慧、知识的赞美，以及对小镇繁荣和智慧的期待。艾伯特的发现不仅解开了镇上的秘密，也激发了人们对于知识的渴望，让这个小镇变得更加繁荣和智慧。",
+    "negative_summary": "文本中轻微的负面情绪主要体现在对未知秘密的探索过程中可能存在的风险和不确定性，但这种情绪并不强烈，更多的是对故事背景的描述。"
+  }
+}
+```

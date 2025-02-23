@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the strong community bond in the town of Harmony, emphasizing the unity and resilience of its residents in the face of adversity. The town doctor, Dr. James, is portrayed as a dedicated and determined individual who works tirelessly to find a cure for the mysterious illness. The recovery of the town and the strengthened community ties are depicted as positive outcomes of the crisis.",
+    "Negative Content Summary": "The text describes the onset of a mysterious illness that affects the residents of Harmony, causing panic and isolation. The town doctor's initial confusion and the worsening situation are portrayed as negative aspects. The once peaceful and bustling town becomes empty and filled with the sounds of illness, indicating a significant negative impact on the community."
+  }
+}

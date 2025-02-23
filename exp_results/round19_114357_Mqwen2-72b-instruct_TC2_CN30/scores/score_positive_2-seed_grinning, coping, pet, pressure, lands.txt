@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as excitement, gratitude, and love. Lily is thrilled about her dream job and her promotion, and she feels grateful for Milo's companionship. The bond between Lily and Milo is portrayed as a source of comfort and strength, helping Lily cope with the challenges of her new life.",
+    "Negative Content Summary": "The text also conveys negative emotions such as nervousness, pressure, and devastation. Lily is anxious about starting a new career in a new place, and she feels overwhelmed by the pressure of her new role. The unexpected news of her boss's departure and the destruction of her car add to her stress and leave her feeling lost and alone."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints related to the grandeur and significance of the library, the sense of peace and purpose it provides, the excitement and curiosity of discovering a hidden archive, and the courage and determination of Lily in exposing corruption and serving justice. The library is portrayed as a place of solace, history, and heroism, and Lily's actions are celebrated as a true test of her character.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints related to the discovery of a darker truth about the library's past, the existence of a secret society that wielded power and influence, and the corruption that had been hidden in the shadows. These elements introduce a sense of trepidation, danger, and the need for justice, which are addressed through Lily's actions."
+  }
+}

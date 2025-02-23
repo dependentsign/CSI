@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions about the success of a top-secret government agency in New York that uses a revolutionary new technology to send agents back in time to gather information and prevent disasters. The agency's success rate grew over time, and they were able to prevent wars, stop natural disasters, and save countless lives. The visuals of the historical events witnessed by the agents were breathtaking, and the use of the technology proved to be a game-changer in making the world a safer and better place.",
+    "Negative Content Summary": "The text mentions the dangerous missions that the agents had to undertake, which could potentially harm them. However, this is not emphasized and is outweighed by the positive outcomes of the missions."
+  }
+}

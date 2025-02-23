@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about Lily's commitment to reducing plastic consumption, her actions to avoid single-use plastics, and her efforts to educate others about the impact of plastics on the environment. The text also highlights the positive impact of her actions and her ability to compromise while staying true to her values.",
+    "Negative Content Summary": "The text expresses negative sentiments about the harm caused by single-use plastics to marine life and the planet, as well as the discomfort and teasing Lily faced from her friends and family for her efforts to reduce plastic consumption. The text also highlights the difficulty of making environmentally conscious choices in a society that often prioritizes convenience over sustainability."
+  }
+}

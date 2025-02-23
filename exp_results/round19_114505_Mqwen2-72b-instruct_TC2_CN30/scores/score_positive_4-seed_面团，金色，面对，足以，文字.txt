@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive": 1.0,
+    "negative": 0.0,
+    "overall": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了正面情绪，主要体现在艾米对面包的热爱、她用面包给小镇居民带来的乐趣和希望，以及她如何通过简单的面包和文字改变了旅行者的生活，传递了温暖和希望。",
+    "negative_summary": "文本中没有表达出任何负面情绪或观点。"
+  }
+}
+```

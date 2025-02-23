@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.3,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the advancement of technology and its potential to enhance human abilities and simplify life. The trend of microchip implants is described as the ultimate form of compatibility between man and machine.",
+    "Negative Content Summary": "The text also expresses negative sentiments about the potential dangers and compatibility issues of microchip implants. Sarah's experience with the microchip implant is described as terrifying, and she feels trapped and controlled by the technology. The text warns that the old ways are sometimes the best ways and that compatibility between man and machine isn't always a good thing."
+  }
+}

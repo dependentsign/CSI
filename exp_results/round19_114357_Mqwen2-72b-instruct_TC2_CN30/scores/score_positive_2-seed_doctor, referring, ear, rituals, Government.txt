@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the dedication and expertise of Dr. Jameson, who is portrayed as a highly skilled and compassionate doctor. His decision to bypass the Government's referral rituals to ensure his patient receives timely treatment demonstrates his commitment to his patients' well-being. The successful treatment of the patient and Dr. Jameson's advocacy for reforming the referral system further emphasize the positive aspects of the story.",
+    "Negative Content Summary": "The text also touches on the negative aspects of the Government's referral rituals, which are described as strict and potentially harmful to patients. The potential consequences Dr. Jameson faced for bypassing these rituals add to the negative sentiment in the text."
+  }
+}

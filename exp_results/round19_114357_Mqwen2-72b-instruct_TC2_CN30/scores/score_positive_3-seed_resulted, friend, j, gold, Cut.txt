@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions related to friendship, adventure, and the value of true wealth. J and Cut's bond is highlighted as a source of strength and support, and their journey together is described as a positive experience that leads to personal growth and the realization that true wealth is found in the love and support of a true friend.",
+    "Negative Content Summary": "The text also contains negative emotions related to danger, loss, and guilt. J and Cut face challenges and threats from bandits, resulting in injury and the loss of most of the gold. J feels guilty for putting Cut in danger and for losing the treasure."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, highlighting the dedication and professionalism of Maya, a post office worker. Maya's actions in ensuring the safe delivery of a package, her attention to detail, and her sense of pride and satisfaction in her work are all portrayed in a positive light. The text also emphasizes the importance of taking responsibility and going the extra mile to prevent potential disasters.",
+    "Negative Content Summary": "The text contains a minor negative aspect, which is the initial condition of the package that was not properly sealed. This could have led to the contents spilling out and being lost or damaged, causing problems for the businessman and the post office. However, this negative aspect is quickly resolved by Maya's actions."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with the main positive emotions being excitement, awe, and inspiration. The text highlights the revolutionary nature of the company's cloud technology and its positive impact on businesses. The protagonist, Maya, is portrayed as eager to learn and impressed by the company's expertise and passion. The text also conveys a sense of gratitude and a desire to help others understand the potential of cloud technology.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, mainly in the form of the protagonist's initial lack of knowledge about cloud technology. However, this is quickly overshadowed by her eagerness to learn and the positive impact of the company's technology."
+  }
+}

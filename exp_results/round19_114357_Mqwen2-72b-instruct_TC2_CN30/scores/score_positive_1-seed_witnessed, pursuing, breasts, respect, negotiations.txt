@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive aspects of Lily's character, such as her sharp mind, negotiation skills, bravery, and determination. It also emphasizes her ability to inspire other women and demand respect in the workplace. The positive emotions expressed in the text include admiration, respect, and empowerment.",
+    "Negative Content Summary": "The text also touches on the negative aspects of gender inequality in the workplace, such as the underestimation of Lily's abilities by her male colleagues and the inappropriate behavior of a client. The negative emotions expressed in the text include frustration, anger, and the struggle for respect."
+  }
+}

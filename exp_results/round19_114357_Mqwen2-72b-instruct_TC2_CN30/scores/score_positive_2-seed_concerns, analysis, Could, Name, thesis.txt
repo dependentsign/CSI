@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about Lily's determination and hard work in completing her thesis. Her findings have significant implications for society, and she seeks guidance from a respected professor, Dr. Chen, who praises her work. Lily's thesis is accepted for publication in a prestigious academic journal, sparking a national conversation about the impact of social media on mental health and inspiring positive change.",
+    "Negative Content Summary": "The text also conveys negative sentiments about Lily's growing concern as the deadline for her thesis approaches. Her research reveals alarming trends linking excessive social media use to mental health issues, which causes her to worry about the potential negative impact of her findings on society."
+  }
+}

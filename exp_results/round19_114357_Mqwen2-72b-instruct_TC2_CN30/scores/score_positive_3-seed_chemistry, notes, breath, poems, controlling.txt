@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses admiration for Dr. Ava, a brilliant chemist who is also a poet. Her ability to control complex reactions and inspire her students with her knowledge and calm demeanor is highlighted. The text also describes her love for chemistry and poetry, which helps her to control the uncontrollable and instill a sense of wonder and love for the beauty of the world in her students.",
+    "Negative Content Summary": "The text briefly mentions the chaotic and potentially dangerous environment of the laboratory, which could be seen as negative. However, this is quickly overshadowed by the positive emotions expressed in the rest of the text."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对自然的热爱和尊重，以及人与自然和谐共处的重要性。艾米对森林的热爱和保护行动，以及她激发小镇居民共同参与保护森林的热情，展现了积极向上、充满希望的情感。",
+    "negative_summary": "文本中提到了森林遭遇干旱，水源干涸，许多生物面临生存危机，这是文本中表达的负面情绪，但这一部分被积极应对和解决问题的态度所平衡。"
+  }
+}
+```

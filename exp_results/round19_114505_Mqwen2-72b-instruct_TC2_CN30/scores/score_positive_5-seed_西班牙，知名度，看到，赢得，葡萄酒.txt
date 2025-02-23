@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对卡洛斯的敬佩和对拉里奥哈葡萄酒的赞美。卡洛斯通过不懈努力，将拉里奥哈的葡萄酒推向世界，赢得了国际认可，提升了村庄的知名度，成为当地人的骄傲，激励了更多人追求梦想。",
+    "negative_summary": "文本中轻微的负面情绪体现在拉里奥哈葡萄酒最初知名度不高，与大酒庄相比显得默默无闻，但这一情况在卡洛斯的努力下得到了改变。"
+  }
+}
+```

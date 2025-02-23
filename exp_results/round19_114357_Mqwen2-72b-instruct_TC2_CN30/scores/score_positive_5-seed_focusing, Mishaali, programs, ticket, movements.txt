@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.95,
+    "negative_sentiment_score": 0.05,
+    "overall_sentiment_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses a strong sense of determination, focus, and inspiration. Mishaali's passion for technology and her desire to make a difference in the world are evident throughout the text. The positive emotions are further reinforced by her success in finding a competitive fellowship, attending a conference, and collaborating with other experts in her field. The text also highlights the potential of technology to address some of the world's most pressing problems, which adds to the positive sentiment.",
+    "negative_content_summary": "The text contains a slight hint of negativity when it mentions the world's most pressing problems, such as climate change and poverty. However, this is quickly offset by the positive emotions expressed in the rest of the text. There are no other negative emotions or viewpoints expressed in the text."
+  }
+}

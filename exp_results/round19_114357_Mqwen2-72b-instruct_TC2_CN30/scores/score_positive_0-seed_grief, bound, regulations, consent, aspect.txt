@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.7,
+    "Overall Sentiment Score": -0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive aspects of community unity and action in response to tragedy. The community comes together to demand changes in regulations, which ultimately leads to the implementation of safety measures. The town council listens to the community's concerns and agrees to make changes, resulting in a sense of relief and a safer environment for all residents. The text also emphasizes the importance of regulations in protecting the community and honoring the memory of the young girl.",
+    "Negative Content Summary": "The text describes a tragic event involving the death of a young girl due to a speeding driver. The community experiences grief and questions the regulations that allowed the driver to speed. The town council is hesitant to make changes without the consent of the majority of the community, causing frustration and further grief for the grieving family and concerned citizens. The text also highlights the strict regulations that governed every aspect of life in the town, which added to the grief of the community during the tragedy."
+  }
+}

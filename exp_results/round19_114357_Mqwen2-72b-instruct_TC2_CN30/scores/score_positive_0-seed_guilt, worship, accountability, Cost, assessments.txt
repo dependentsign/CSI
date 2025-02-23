@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints regarding the grand cathedral in Millfield, which is described as a place of solace and comfort for the community. The successful fundraising campaign and the community's rallying together to support the cathedral are also highlighted as positive aspects. The restored cathedral and the community's renewed sense of pride and worship are also mentioned as positive outcomes. The council's commitment to regular assessments and accountability is also seen as a positive lesson learned.",
+    "Negative Content Summary": "The text also expresses negative emotions and viewpoints regarding the cathedral's need for repairs and the cost being a burden on the community. The council's guilt for not being able to provide for the cathedral is also mentioned as a negative aspect. The initial hesitation of the council to burden the community with additional costs is also highlighted as a negative viewpoint."
+  }
+}

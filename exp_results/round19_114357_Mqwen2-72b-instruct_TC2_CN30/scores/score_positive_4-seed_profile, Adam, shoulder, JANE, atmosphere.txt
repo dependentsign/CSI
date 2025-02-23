@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.85
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, primarily centered around Adam's fascination with human profiles, his passion for studying them, and the unique connection he feels with JANE. The atmosphere of the coffee shop is described as warm and inviting, and the conversation between Adam and JANE is depicted as engaging and meaningful, covering a wide range of topics. The text ends on a note of fond remembrance, emphasizing the lasting impact of their encounter.",
+    "Negative Content Summary": "There is a slight negative sentiment in the text, mainly due to Adam's initial act of following JANE, which could be perceived as intrusive or creepy. However, this is quickly mitigated by JANE's understanding and the positive outcome of their meeting."
+  }
+}

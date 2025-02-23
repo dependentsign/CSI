@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, primarily through the depiction of Luna, the deer, and her experiences. Luna is portrayed as a curious and adventurous creature, which evokes feelings of joy and excitement. The humans in the story are depicted as kind and respectful, which creates a sense of warmth and acceptance. Luna's gratitude for the kindness of the humans and the beauty of her habitat further reinforces the positive sentiment. The text ends on a hopeful note, with Luna vowing to explore every inch of her habitat, which conveys a sense of optimism and adventure.",
+    "Negative Content Summary": "The text contains a brief moment of negative sentiment when Luna notices that the humans are packing up their campsite and leaving the forest. Luna feels a pang of sadness at the thought of saying goodbye to her new friends. However, this negative sentiment is quickly overshadowed by Luna's gratitude for the kindness of the humans and the beauty of her habitat."
+  }
+}

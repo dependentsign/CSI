@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.15,
+    "overall_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了科技与人文结合带来的积极影响，尤其是李明的'记忆清洁'项目，它帮助人们清除创伤记忆，重拾生活希望，体现了科技的力量和爱的驱动。",
+    "negative_summary": "文本中提到了老李因受伤而留下的创伤记忆，以及他脸上失去的笑容和眼神中的阴霾，这些描述体现了负面情绪。"
+  }
+}
+```

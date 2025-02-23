@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对莉莉的热爱、愿景、努力和成就的正面描述。莉莉对花卉的热爱、对花园的精心照料、以及她为小镇带来的生机与活力，都体现了正面情绪和观点。莉莉的花园成为小镇的亮丽风景线，给人们带来了快乐和满足感，体现了对美好愿景的追求和实现。",
+    "negative_summary": "文本中没有表达任何负面情绪或观点。"
+  }
+}
+```

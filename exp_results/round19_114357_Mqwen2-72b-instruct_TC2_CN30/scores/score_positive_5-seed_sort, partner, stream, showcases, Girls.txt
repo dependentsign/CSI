@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, primarily centered around the main character, Lily, and her passion for dancing. Lily's excitement and dedication to her craft are evident throughout the text, as she practices tirelessly with her partner, Max, to prepare for a dance competition. The positive emotions are further amplified by their success in the competition, where they win first place, and Lily realizes her true passion for dancing. The text also highlights the supportive relationship between Lily and Max, emphasizing the importance of teamwork and collaboration.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, primarily centered around Lily's nervousness before the competition. As she watches the other dancers perform, Lily feels a mix of excitement and nervousness, indicating a sense of pressure and anxiety. However, this negative sentiment is quickly overshadowed by the positive emotions expressed throughout the text."
+  }
+}

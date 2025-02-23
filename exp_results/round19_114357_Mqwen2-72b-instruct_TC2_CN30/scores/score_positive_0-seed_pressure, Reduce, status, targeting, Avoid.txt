@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions related to Maya's achievement of landing her dream job, working with brilliant minds, her determination to succeed, the success of the campaign, and her realization of the importance of self-care and balance in life. The text also highlights the positive outcomes of Maya's decision to delegate responsibilities and prioritize her well-being, such as increased creativity and productivity.",
+    "Negative Content Summary": "The text conveys negative emotions related to the immense pressure Maya felt to perform, the long hours and personal life sacrifices she made, the stern warning from her boss, and her fear of burnout. The text also touches on the negative effects of overworking, such as reduced creativity and productivity, and the potential for a complete breakdown."
+  }
+}

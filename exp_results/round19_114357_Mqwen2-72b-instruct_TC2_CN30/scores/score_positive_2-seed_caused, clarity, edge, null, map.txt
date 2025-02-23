@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions through the adventurous journey of Alex, who discovers a hidden treasure using a cryptic map. The story highlights determination, perseverance, and the joy of discovery. The treasure found at the end symbolizes success and the realization that answers can be found with a fresh perspective and clarity.",
+    "Negative Content Summary": "The text also contains some negative emotions, primarily through the uncertainty and doubt that Alex experiences while trying to decipher the map. The symbols and markings being cryptic and some being null lead to questions about the validity of the map and the existence of the treasure."
+  }
+}

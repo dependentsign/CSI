@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as gratitude, respect, and the importance of self-care. The boss's understanding and support are highlighted, as well as the employee's dedication and willingness to learn from mistakes. The text also emphasizes the value of honesty and accountability in the workplace.",
+    "Negative Content Summary": "The text also contains some negative emotions and viewpoints, such as embarrassment, shame, and the consequences of poor health habits. The employee's mistake and the resulting mess are described in detail, and the text acknowledges the potential negative impact of high caffeine consumption and lack of sleep on work performance."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, focusing on the electrifying atmosphere and lively music of the club. It highlights the excitement of Maya and her friends as they explore the different stages, each with its own DJ and music style. The text also emphasizes the sense of connection and community that they feel with the people around them, as well as the joy and exhilaration they experience through music and dance.",
+    "Negative Content Summary": "The text contains minimal negative emotions, with a slight hint of uncertainty when Maya finds herself on a stage with a live band playing jazz music, a genre she had never been a fan of before. However, this uncertainty is quickly replaced by a sense of connection and enjoyment as she sways to the rhythm of the music."
+  }
+}

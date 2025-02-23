@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the themes of perseverance, determination, justice, and celebration. Kallisto's dedication to clearing her father's name, her successful gathering of evidence, and the eventual restoration of justice to her family's name are all portrayed in a positive light. The celebration hosted by her father and the admiration Kallisto earns from her people further contribute to the positive sentiment.",
+    "Negative Content Summary": "Negative sentiments are conveyed through the themes of injustice, hardship, and adversity. Kallisto's father's false accusation of treason and his imprisonment, the financial difficulties Kallisto faces, and the emotional toll of her mission are all sources of negative sentiment. The hesitation of wealthy and influential citizens to support her cause also adds to the negative sentiment."
+  }
+}

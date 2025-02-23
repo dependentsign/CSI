@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, with the main positive emotions being excitement, confidence, and joy. The CEO of E-Hardware, Maya, is thrilled by the response to their latest product, a high-speed buffer that promises to revolutionize the way data is processed. The investors are impressed by the product's performance and secure a significant investment for the company. Maya is overjoyed by the success and the positive comments on the company's social media page.",
+    "Negative Content Summary": "The text contains a small amount of negative sentiment, primarily in the form of nervousness. Maya is nervous but confident before the demo for potential investors. However, this nervousness is quickly overshadowed by the positive outcome of the demo and the success of the product."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, particularly in the context of Maya's passion for cooking, her excitement in discovering a unique recipe, and the success she achieves with her chocolate chili dish. The text highlights the satisfaction of finding the perfect dish and the joy of sharing it with others.",
+    "Negative Content Summary": "The text contains a slight negative sentiment in the beginning when Maya is struggling to find the perfect recipe and is consumed by her passion for cooking. This is portrayed as a challenge that she overcomes, but it does introduce a brief moment of struggle and uncertainty."
+  }
+}

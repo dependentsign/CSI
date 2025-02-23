@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments towards the idea of challenging the status quo and the power of the human spirit. The protagonist, Aria, is portrayed as a hero who stands up against the complacent gods and restores balance to the universe. The text also highlights the resilience of the human heart and the power of collective beliefs.",
+    "Negative Content Summary": "The text expresses negative sentiments towards the arrogance and complacency of the gods. They are portrayed as manipulative and destructive, causing great calamities and chaos in an attempt to quell the growing rebellion. The text also highlights the negative impact of taking existence for granted and forgetting the living, breathing nature of the world."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对艾莉舞技的赞美，以及她将亚马逊自然之美融入舞蹈的创新精神。艾莉的表演不仅展现了个人才华，也传达了艺术与自然和谐共生的美好愿景，获得了观众的高度认可。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

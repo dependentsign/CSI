@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about curiosity, learning, exploration, cultural exchange, and understanding. It highlights the transformation of the prince, Arjun, who gains a new appreciation for the world and a deeper understanding of the truth. The text also emphasizes the importance of embracing diversity and learning from others, which leads to positive changes in the empire.",
+    "Negative Content Summary": "The text contains a slight negative sentiment regarding the prince's initial narrow perspective of the world, where he thought his empire was the center of the universe. However, this negative sentiment is quickly overshadowed by the positive emotions and viewpoints expressed throughout the text."
+  }
+}

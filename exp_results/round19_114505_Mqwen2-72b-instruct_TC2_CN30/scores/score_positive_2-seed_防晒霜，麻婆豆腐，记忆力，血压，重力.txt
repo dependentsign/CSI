@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了正面情绪，主要体现在李明享受退休生活，对科学的热爱，与王阿姨和小张之间的温暖人际关系，以及他们合作取得的科学成就上。李明对麻婆豆腐的喜爱，王阿姨的超凡记忆力和对顾客的关怀，以及李明和小张在科学探索中的合作与突破，都展现了积极向上、充满热情和友爱的氛围。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

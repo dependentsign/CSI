@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.5,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about Jack, a farmer who stands up against a large corporation that manipulates the market. Jack is portrayed as a hardworking, proud, and determined individual who rallies his fellow farmers to fight for fair treatment and privacy. The victory against the corporation and the renewed sense of purpose that Jack feels are also positive aspects of the text.",
+    "Negative Content Summary": "The text also contains negative sentiments about the constant monitoring and surveillance in the 21st century, as well as the manipulative actions of the large corporation. The fall in crop prices and the threat to Jack's business are also negative aspects of the text."
+  }
+}

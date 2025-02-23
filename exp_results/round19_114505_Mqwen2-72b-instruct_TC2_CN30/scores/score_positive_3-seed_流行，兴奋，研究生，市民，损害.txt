@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对科技展览的兴奋和对科技改变生活的积极态度。李明对AI技术的热爱和创新精神，以及他将AI技术应用于环保领域的想法，得到了广泛的认可和支持。最终，他们开发的系统成功预测并减少了环境污染，改善了市民的生活环境，体现了科技与社会责任相结合的美好未来。",
+    "negative_summary": "文本中没有表达出明显的负面情绪或观点。"
+  }
+}
+```

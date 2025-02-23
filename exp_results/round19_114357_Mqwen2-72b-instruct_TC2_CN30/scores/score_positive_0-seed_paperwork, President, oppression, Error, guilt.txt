@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the President's determination and resilience in the face of adversity. It showcases his commitment to addressing human rights abuses and his willingness to accept responsibility for mistakes. The President's efforts lead to progress and positive change, emphasizing the importance of perseverance and leadership.",
+    "Negative Content Summary": "The text conveys the President's struggles with the weight of his responsibilities, the pressure of decision-making, and the guilt associated with past inaction. It also depicts the complexity of the issues he faces, the obstacles that arise, and the consequences of errors. The text highlights the challenges of leadership and the emotional toll it can take."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the determination and resilience of Detective Maria Rodriguez in her pursuit of justice against the Shadow Syndicate. Her success in taking down the criminal organization and bringing relief to the city is portrayed as a significant and positive achievement. The text also emphasizes the importance of tips and information in solving crimes, which can be seen as a positive aspect of community involvement in law enforcement.",
+    "Negative Content Summary": "The text describes the Shadow Syndicate's control over the city's underground and their resistance to law enforcement, which is portrayed as a negative and dangerous situation. The frustration and devastation felt by Detective Maria Rodriguez when she fails to capture one of the suspects is also highlighted, adding a negative tone to the text. The mention of illegal activities such as drug trafficking and money laundering also contributes to the negative sentiment."
+  }
+}

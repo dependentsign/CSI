@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as determination, creativity, and success. Lily's hard work and perseverance in finding a solution to her cooking challenges are highlighted, as well as the positive outcome of the family gathering and the enjoyment of the food. The text also emphasizes the lesson learned that setbacks can be overcome and can lead to even better results.",
+    "Negative Content Summary": "The text also contains negative emotions such as disappointment and devastation. Lily's setback in finding her preferred brand of vinegar and the challenge of accommodating a family member's allergy to vinegar are described. The text also mentions the potential danger of someone getting sick from her cooking, which adds to the negative sentiment."
+  }
+}

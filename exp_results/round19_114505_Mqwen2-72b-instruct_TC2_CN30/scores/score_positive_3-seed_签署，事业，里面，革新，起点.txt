@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本充满了正面情绪，主要体现在对李明的个人成长、梦想实现和事业成功的描述上。李明从一个普通程序员成长为企业家，他的革新梦想和对未来的期待充满了希望和激情。签署合同的场景被描绘得庄重而充满仪式感，象征着梦想的启航和事业的新篇章。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

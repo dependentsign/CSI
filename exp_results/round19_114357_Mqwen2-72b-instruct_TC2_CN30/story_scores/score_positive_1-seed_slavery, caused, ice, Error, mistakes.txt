@@ -1,0 +1,4 @@
+{
+  "TragedyDegree": 10,
+  "ComedyDegree": 1
+}

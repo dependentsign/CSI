@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对自然的好奇心、探索精神、保护环境的意识以及通过个人努力为社区带来积极变化的正面情绪。艾米对自然的热爱、对神秘生菜田的发现和保护、以及她为社区带来的光明和希望，都是文本中的正面内容。",
+    "negative_summary": "文本中没有表达出明显的负面情绪或观点。"
+  }
+}
+```

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of hope and excitement as a new factory comes to the small town of Millfield, promising jobs and a brighter future for the community. The townspeople are optimistic about the opportunities that the factory will bring, and their determination to ensure that the jobs go to local workers is a testament to their resilience and unity. The women who lead the charge are celebrated as heroes, and their bravery inspires others to stand up for what they believe in. The factory becomes a symbol of the power of community and the grace of those who fight for what is right.",
+    "Negative Content Summary": "The text also touches on the fear and unease that some of the townspeople feel as the factory nears completion. They worry that the jobs will go to outsiders, leaving them with nothing. This fear is a reflection of the uncertainty and insecurity that can come with economic change, and it highlights the importance of ensuring that the benefits of progress are shared fairly."
+  }
+}

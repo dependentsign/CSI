@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.15,
+    "overall_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_summary": "李明通过创新思维和不懈努力，成功地在金融市场上找到了克服困境的方法，不仅避免了损失，还获得了意想不到的收益，这使他在金融界名声大噪，成为后来者学习的典范。",
+    "negative_summary": "李明遇到了前所未有的困境，一笔巨额投资即将到期，而市场却因一系列不可预测的事件变得异常动荡，这给他带来了巨大的压力和挑战。"
+  }
+}
+```

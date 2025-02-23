@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, particularly excitement, anticipation, and fulfillment. Maya's dream of exploring the world and her successful expedition to an uncharted island are portrayed as highly positive experiences. The beauty of the island, the success of her mission, and the establishment of a rapport with the reclusive tribe contribute to the overall positive sentiment. Maya's personal growth and the discovery of a rare bird species are also highlighted as positive outcomes.",
+    "Negative Content Summary": "The text contains minor negative emotions, primarily related to the challenges Maya faced during her expedition. The treacherous waters, rough waves, unpredictable weather, and the initial resistance from the island's inhabitants are briefly mentioned as sources of difficulty. However, these negative aspects are overshadowed by the overall positive sentiment of the text."
+  }
+}

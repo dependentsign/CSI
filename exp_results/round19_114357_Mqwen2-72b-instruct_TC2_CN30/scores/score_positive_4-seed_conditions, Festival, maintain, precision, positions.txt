@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with the anticipation and excitement of the Festival of Lights in Millfield. The festival is described as a grand celebration of the town's rich cultural heritage, eagerly awaited by all residents. The organizers' hard work, dedication, and precision in ensuring the festival's success are highlighted, with the streets filled with music, dance, and laughter. The festival's success is attributed to the organizers' efforts, and it is a testament to their hard work and dedication.",
+    "Negative Content Summary": "The text briefly mentions the significant planning and preparation required for the festival, including maintaining cleanliness, ensuring perfect lighting, and arranging positions for performers. The organizers had to work with local authorities, electricians, and performers to ensure everything was in place. While this is not necessarily negative, it does highlight the challenges and potential stress involved in organizing such a large event."
+  }
+}

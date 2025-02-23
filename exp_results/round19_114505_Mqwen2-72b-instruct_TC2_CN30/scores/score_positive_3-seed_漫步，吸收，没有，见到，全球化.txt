@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "李明在漫步中体验了全球化的美好，感受到了不同文化的碰撞和交流，对全球化有了更深刻的理解，激发了他为构建和谐全球社会的决心。",
+    "negative_summary": "文本中几乎没有负面情绪，仅在描述高楼大厦的压迫感时略有提及，但这并不是主要情绪。"
+  }
+}
+```

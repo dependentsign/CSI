@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, primarily centered around the relief and gratitude Jessica feels as her chronic pain is alleviated by Lucas's massage. Lucas's dedication, perseverance, and passion for his craft are also highlighted, contributing to the positive tone. The text ends on a note of satisfaction and pride, emphasizing the positive impact of Lucas's work.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and revolves around Jessica's chronic pain, which is mentioned as a source of discomfort before the massage. This is quickly overshadowed by the positive effects of the massage and the relief it provides."
+  }
+}

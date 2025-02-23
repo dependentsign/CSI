@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对知识之塔的崇高敬意，强调了智慧与学问的多样化和完整性。描述了知识之塔作为藏书和分析世界的中心，以及分析室内学者们不分等级，共同追求知识和真理的场景，展现了对知识的渴望和对真理的追求，以及这种追求所带来的正面影响。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

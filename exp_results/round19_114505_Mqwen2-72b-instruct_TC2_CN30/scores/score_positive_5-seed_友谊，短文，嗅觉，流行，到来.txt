@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对友谊的赞美和对美好事物的追求。小杰和小雅的友谊被描述得如同小镇上最香甜的花香，温暖而甜蜜。他们共同寻找香氛来源的旅程，象征着对美好时光的回忆和珍惜。小杰的短文记录了这段旅程，感动了小镇上的每一个人，加深了他们之间的友谊。",
+    "negative_summary": "文本中没有表达出明显的负面情绪或观点。"
+  }
+}
+```

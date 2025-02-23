@@ -49,9 +49,8 @@ def compare_multiple_dicts(dict_list, common_words):
     comedy_words = []
     tragedy_words = []
     neutral_words = []
-    reference_dict = dict_list[0]
 
-    for key in reference_dict.keys():
+    for key in common_words.keys():
         values = [d.get(key, "缺失") for d in dict_list]
         if len(set(values)) > 1:
             inconsistencies.append({common_words[key]: values})

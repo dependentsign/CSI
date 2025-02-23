@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, primarily centered around the achievements and dedication of Karen, a bright and ambitious student in the field of chemistry. Her groundbreaking research and discovery of a new chemical compound that could revolutionize disease treatment are met with excitement and enthusiasm from the scientific community. Karen's work is described as having the potential to change the world for the better, and she is portrayed as a humble and dedicated scientist who strives to push the boundaries of her field.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, which is mainly associated with the responsibility and potential consequences of Karen's discovery. The text mentions that with great power comes great responsibility, and Karen realizes that her discovery could change the world in ways she had never imagined. This realization leads her to work tirelessly with other scientists and medical professionals to ensure that her discovery is used for the greater good and does not fall into the wrong hands."
+  }
+}

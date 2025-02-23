@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive sentiments, particularly around Jack's determination, resilience, and calculated approach to health. His victory over the disease and the lessons learned about the value of health and perseverance are highlighted as positive aspects.",
+    "Negative Content Summary": "The text also contains negative sentiments, mainly related to Jack's diagnosis with a rare disease, the threat to his health and life, and the emotional devastation he experienced. The struggle and challenges he faced during treatment are also mentioned."
+  }
+}

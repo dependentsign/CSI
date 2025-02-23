@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about change, innovation, and progress in education. The arrival of Ms. Green, a new teacher, brings a fresh perspective that encourages students to think critically and be open to new ideas. Her methods lead to increased student engagement and excitement, and over time, the town of Millfield becomes known for its innovative schools. The community becomes more open-minded and forward-thinking, and Ms. Green's impact is described as creating a brighter future for the students and the town.",
+    "Negative Content Summary": "The text also contains some negative sentiments, particularly in the initial resistance to change from the other teachers. They are skeptical of Ms. Green's methods and are described as being set in their ways. However, this resistance is eventually overcome as they see the positive impact of her approach."
+  }
+}

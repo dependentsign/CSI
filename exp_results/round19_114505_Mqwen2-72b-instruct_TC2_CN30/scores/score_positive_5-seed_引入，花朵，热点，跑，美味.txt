@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.98,
+    "negative_score": 0.02,
+    "overall_score": 0.96
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对春天、小镇节日、花海跑比赛的正面情绪，强调了生活的美好、希望和对美味的追求。参赛者们的期待、兴奋以及比赛带来的乐趣和收获，展现了春天的生机与活力。",
+    "negative_summary": "文本中轻微的负面情绪可能来源于比赛的紧张感或对比赛结束的不舍，但这些情绪被正面情绪所压倒，几乎可以忽略不计。"
+  }
+}
+```

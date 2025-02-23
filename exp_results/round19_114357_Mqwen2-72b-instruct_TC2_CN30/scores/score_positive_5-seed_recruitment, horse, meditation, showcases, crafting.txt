@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a predominantly positive sentiment, highlighting the bravery, skill, and creativity of a young man named Arin. Arin's unique talent for crafting with horsehair is recognized and appreciated by the recruiters and the king, leading to his acceptance into the royal army. The text also emphasizes the respect and pride Arin gains from his fellow soldiers and his sense of purpose in battle.",
+    "Negative Content Summary": "The text contains a slight negative sentiment when it mentions that Arin was not the strongest or the fastest among the candidates, but this is quickly overshadowed by the positive aspects of his unique skill and the recognition he receives."
+  }
+}

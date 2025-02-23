@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a high level of positive sentiment, primarily centered around the success and recognition of Maria, the restaurant owner. Her unique cooking style, which involves using a button to format food into a work of art, is highly praised by food critics and leads to increased popularity for her restaurant. The text also highlights the joy and gratitude Maria feels as she watches her customers enjoy her food.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and not explicitly stated. However, there is a slight hint of skepticism from the food critics when they first hear about Maria's unique cooking style. This skepticism is quickly dispelled once they taste her food."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of responsibility, care, and dedication from Maya towards her job at the power agency. Her meticulous attention to detail and quick action to prevent a potential power outage demonstrate her commitment to the well-being of the city's residents and businesses. Maya's pride in her work and the positive impact it has on people's lives is evident throughout the text.",
+    "Negative Content Summary": "The text mentions the signs of fatigue in the power line, which could have led to a city-wide power outage. This highlights the potential for negative consequences if issues are not addressed promptly. Additionally, the mention of long hours and fatigue that Maya experiences suggests the demanding nature of her job."
+  }
+}

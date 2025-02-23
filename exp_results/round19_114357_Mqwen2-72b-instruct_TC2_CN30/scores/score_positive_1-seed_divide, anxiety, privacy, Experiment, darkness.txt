@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive outcomes of the experiment, such as the volunteers in the well-lit room having a more relaxed and positive outlook on life. It also emphasizes the importance of basic human needs and the value of privacy and light, as exemplified by Sarah's newfound appreciation for these aspects after the experiment. The text concludes on a hopeful note, with Dr. Jameson's commitment to prioritize the well-being of volunteers in future experiments.",
+    "Negative Content Summary": "The text describes the negative effects of isolation, particularly in the dark room, on the volunteers' mental health. It details Sarah's struggle with anxiety and fear, exacerbated by the lack of privacy and constant darkness. The experiment is portrayed as causing significant distress, with the volunteers in the dark room experiencing increased anxiety and paranoia."
+  }
+}

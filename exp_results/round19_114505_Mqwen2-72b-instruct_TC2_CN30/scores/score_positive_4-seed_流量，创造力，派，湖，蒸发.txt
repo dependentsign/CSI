@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对艾米的勇气、创造力和科学探索精神的赞美，以及她发现新水源为人类带来希望的正面情绪。艾米的故事激励人们认识到创造力的重要性，以及探索和发现对人类进步的推动作用。",
+    "negative_summary": "文本中提到了地球水资源枯竭的现状，以及艾米在研究过程中遇到的失败和挑战，这些是文本中的负面情绪。"
+  }
+}
+```

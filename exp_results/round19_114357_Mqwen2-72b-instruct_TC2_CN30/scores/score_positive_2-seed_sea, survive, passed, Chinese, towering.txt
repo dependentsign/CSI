@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights themes of hope, resilience, and success. Li Wei's determination to seek a better life, his survival against all odds, and his eventual prosperity in a new land are portrayed as positive aspects. His hard work, strength, and resilience are celebrated, as is his generosity in helping other immigrants. The text also emphasizes the importance of community and the value of remembering one's roots.",
+    "Negative Content Summary": "The text also contains elements of hardship, danger, and loss. The treacherous journey across the sea, the storm that nearly claims Li Wei's life, and the grueling work in the gold mines are depicted as negative experiences. The text also touches on the poverty and oppression faced by Chinese immigrants in their homeland, and the challenges of being a stranger in a new land."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the young prince Aric, who is determined to live up to his father's legacy of honor and duty. His decision to show mercy to the thief and his commitment to the well-being of his people are portrayed as admirable qualities that make him a just and fair ruler. The people of Eldoria see him as a leader who embodies the values of honor and compassion.",
+    "Negative Content Summary": "The text also contains negative sentiments, particularly in the description of the crime committed against the royal treasury and the resulting uproar in the kingdom. The circumstances of the crime are described as mysterious and the thief as elusive, which creates a sense of tension and uncertainty. Aric's feelings of responsibility and the potential loss of faith in his rule if he fails to find the thief are also portrayed as negative emotions."
+  }
+}

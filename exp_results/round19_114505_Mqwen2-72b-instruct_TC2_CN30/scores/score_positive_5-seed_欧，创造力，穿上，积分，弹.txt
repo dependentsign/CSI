@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本充满了正面情绪，主要体现在对欧的非凡创造力的赞美，以及他通过智慧、勇气和创造力克服困难，最终实现梦想，创造出能够治愈疾病、带来和平与爱的‘和平弹’，使创想岛乃至整个世界变得更加美好。",
+    "negative_summary": "文本中没有表达出明显的负面情绪或观点。"
+  }
+}
+```

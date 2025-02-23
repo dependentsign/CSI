@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on the protagonist Lily's journey from college graduation to a successful career. It highlights her hard work, dedication, and kindness, which contribute to her professional growth and the company's success. The text also emphasizes the positive work environment and the recognition Lily receives for her efforts.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, mainly in the form of challenges and areas for improvement that Lily identifies in the company. However, these are quickly overshadowed by her proactive approach to addressing them and the positive outcomes that follow."
+  }
+}

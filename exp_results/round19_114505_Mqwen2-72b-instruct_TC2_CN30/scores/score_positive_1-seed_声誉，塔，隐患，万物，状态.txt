@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对万物之塔修复后的正面情绪，强调了团结、智慧和勇气的重要性，以及修复后的塔成为知识和智慧象征的积极影响。",
+    "negative_summary": "文本中提到了塔内结构出现隐患，威胁到塔的稳固和珍贵古籍的安全，这是文本中的负面情绪来源。"
+  }
+}
+```

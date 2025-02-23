@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.7,
+    "negative_sentiment_score": 0.3,
+    "overall_sentiment_score": 0.4
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions about the love of adventure, the beauty of nature, and the importance of being smart and prepared. The guys in the story are portrayed as responsible and thoughtful, taking steps to reduce risks and ensure their safety while still enjoying exciting experiences.",
+    "negative_content_summary": "The text also contains negative emotions related to the tragedy of losing a friend during a dangerous hike. The remaining guys are described as devastated by the loss, and the story highlights the risks associated with adventure and the need to take precautions to prevent future tragedies."
+  }
+}

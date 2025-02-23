@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as preparation, confidence, compassion, understanding, relief, and happiness. Lily's dedication to her job interview preparation, her decision to support her friend in need, the company's understanding and willingness to reschedule the interview, and Lily's ability to handle unexpected situations with compassion and concentration are all positive aspects of the text.",
+    "Negative Content Summary": "The text also contains negative emotions such as panic, nervousness, and exhaustion. Lily's friend's emergency surgery and the misdiagnosis of a patient at another hospital are the main negative events mentioned in the text."
+  }
+}

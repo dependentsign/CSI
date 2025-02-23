@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments towards the journalist who worked tirelessly to uncover the truth about the factory's poor working conditions and environmental violations. The success of the strike and the positive changes that were made as a result of the journalist's story are also highlighted as positive aspects of the text.",
+    "Negative Content Summary": "The text expresses negative sentiments towards the factory owners and the company for their poor treatment of workers, violation of environmental regulations, and attempts to cover up the truth. The long hours, dangerous machinery, and lack of safety measures are also mentioned as negative aspects of the text."
+  }
+}

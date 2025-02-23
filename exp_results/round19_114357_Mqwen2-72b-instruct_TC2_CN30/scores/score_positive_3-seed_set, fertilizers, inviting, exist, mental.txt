@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about the community garden in Greenfield. The garden is described as a beautiful space filled with vegetables and flowers, tended to with care and love. It is a source of pride for the town and a place of healing and community. The garden has a calming effect on people and helps reduce symptoms of depression and anxiety. Sarah, a mental health therapist, is excited to share the benefits of gardening with the other gardeners and to use the garden as a tool for mental health. The garden has taken on a new meaning as a place where people can come together, connect with nature, and find peace in their mental health struggles.",
+    "Negative Content Summary": "The text briefly mentions that some people in the town may be struggling with mental health issues, but this is not a major focus of the text."
+  }
+}

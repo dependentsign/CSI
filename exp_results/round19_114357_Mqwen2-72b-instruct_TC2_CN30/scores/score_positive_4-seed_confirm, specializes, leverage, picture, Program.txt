@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on Maya's passion for photography, her journey to turn her passion into a profitable business with the help of Alex's program, and her success in the industry. The text highlights Maya's exceptional photography skills, her business growth, and her specialization in landscape photography. It also mentions her invitations to speak at photography conferences and workshops, and her gratitude for the program that helped her achieve her goals.",
+    "Negative Content Summary": "The text briefly mentions Maya's hesitation at the beginning of her journey, but this is quickly overshadowed by the positive aspects of her story. There are no other significant negative emotions or viewpoints expressed in the text."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对诗山美景的赞美，以及对文人墨客热爱诗词、以诗会友、以文传情的正面情绪。特别是对社长李文轩在彗星划破夜空的瞬间获得灵感，创作出赞美彗星的诗词，展现了文人对自然奇观的敏感和创作热情，以及诗山文学社成员们共同创作、记录美好瞬间的和谐氛围。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

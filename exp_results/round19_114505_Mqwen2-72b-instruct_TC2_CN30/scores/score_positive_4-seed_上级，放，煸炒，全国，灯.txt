@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对上级领导烹饪技艺的赞美，描述了他制作的煸炒菜色香味俱全，吸引了所有人的目光，观众们对这道菜的美味赞叹不已，认为这是他们参加美食节以来最难忘的一餐。上级领导的这道菜不仅展示了他高超的烹饪技艺，也让全国的食客们感受到了美食的魅力。",
+    "negative_summary": "文本中没有表达出任何负面情绪或观点。"
+  }
+}
+```

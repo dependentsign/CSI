@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对一所创新学校及其标点符号实验室的正面情绪，强调了创意教育、学生潜能的激发以及语言艺术的魅力。小明在实验室的经历让他对写作和标点符号有了新的认识，增强了他的自信心，学会了用标点符号表达复杂情感。",
+    "negative_summary": "文本中轻微的负面情绪体现在小明最初对写作和标点符号使用的力不从心，以及对新环境的犹豫。"
+  }
+}
+```

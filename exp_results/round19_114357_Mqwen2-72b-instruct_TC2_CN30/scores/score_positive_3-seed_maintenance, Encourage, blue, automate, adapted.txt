@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses admiration for the skyscraper's grandeur and the engineering marvel it represents. It highlights the dedication and innovative spirit of Maya, the leader of the maintenance team, who successfully implements automation to improve the building's operations. The team's adaptation to new technology and their commitment to maintaining the building's beauty and functionality are also praised. The text concludes with a sense of pride and optimism for the future.",
+    "Negative Content Summary": "The text briefly acknowledges the challenges of maintaining a large structure like the skyscraper, suggesting that it is a difficult task. There is also a mention of initial skepticism from Maya's team regarding the automation proposal."
+  }
+}

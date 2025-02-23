@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments through the portrayal of human resilience, community support, and the selfless actions of volunteers like Maya. The sense of hope, the coming together of people to help each other, and the impact of Maya's work contribute to the positive emotions in the text.",
+    "Negative Content Summary": "The negative sentiments in the text are primarily associated with the aftermath of the storm, which is described as a scene of chaos and destruction. The presence of debris, damaged buildings, and overturned cars, as well as the sound of emergency vehicles, evoke feelings of distress and despair."
+  }
+}

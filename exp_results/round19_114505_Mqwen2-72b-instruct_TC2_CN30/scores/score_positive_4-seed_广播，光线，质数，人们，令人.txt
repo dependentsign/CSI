@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对未来科技发展、宇宙探索、外星文明交流和人类共同进步的乐观态度。特别强调了勇气、智慧和合作在解决地球能源危机、促进人类与外星文明和平交流中的重要性，以及这些发现对人类未来的积极影响。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

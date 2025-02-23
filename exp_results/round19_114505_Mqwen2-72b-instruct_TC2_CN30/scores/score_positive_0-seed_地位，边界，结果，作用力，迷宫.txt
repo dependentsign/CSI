@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对未来的乐观态度，强调了科技与自然的和谐共存，以及探索未知的勇气和智慧能够带来积极的改变，提升个人和社会的地位。",
+    "negative_summary": "文本中提到了随着科技发展，人类社会的边界拓展和地位划分变得复杂，以及新发现的作用力如果落入错误的手中可能带来的灾难性后果，这些是文本中的负面情绪来源。"
+  }
+}
+```

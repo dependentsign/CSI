@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions and viewpoints, particularly in the second half of the story. Lily's decision to take control of her life and seek healing is portrayed as empowering and inspiring. The introduction of flower therapy and its positive effects on Lily's mental and emotional well-being is described in uplifting terms. The transformation Lily experiences, including improved sleep, reduced anxiety, increased confidence, and a newfound sense of purpose, is depicted as a powerful and positive journey. The text also highlights the importance of helping others and the strength of the human spirit.",
+    "Negative Content Summary": "The text contains significant negative emotions and viewpoints, particularly in the first part of the story. Lily's history of abuse and the resulting feelings of brokenness and loss are described in a somber and distressing manner. The initial failure of various therapies to help Lily is portrayed as frustrating and disheartening. The text also touches on the broader issue of abuse and the need for resources to help survivors heal, which can evoke feelings of sadness and anger."
+  }
+}

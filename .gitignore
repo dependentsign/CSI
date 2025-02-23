@@ -1,2 +1,7 @@
 __pycache__/
 .vscode/
+*.jpg
+*.png
+*.gif
+*.bmp
+*.jpeg

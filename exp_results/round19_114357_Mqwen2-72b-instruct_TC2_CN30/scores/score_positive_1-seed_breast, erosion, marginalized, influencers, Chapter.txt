@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.85,
+    "negative_sentiment_score": 0.15,
+    "overall_sentiment_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses positive emotions and viewpoints, such as hope, pride, belonging, empowerment, inspiration, and accomplishment. The marginalized women felt seen and heard by the influencers and the community, and they were inspired to continue their fight against breast cancer. They started a support group, advocated for better treatment and research, and saw a significant decrease in breast cancer cases in their town. They left a lasting legacy and were celebrated as heroes and champions of change.",
+    "negative_content_summary": "The text also expresses negative emotions and viewpoints, such as marginalization, skepticism, and the feeling of fighting a losing battle against breast cancer. The marginalized women felt forgotten and overlooked by society, and they had been let down by society too many times to count. However, these negative emotions were outweighed by the positive emotions expressed in the text."
+  }
+}

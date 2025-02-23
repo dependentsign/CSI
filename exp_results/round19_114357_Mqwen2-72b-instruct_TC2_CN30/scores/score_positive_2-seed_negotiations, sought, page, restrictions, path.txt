@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as the successful negotiations between the prince and the queen, the acquisition of the land, the alliance between the two kingdoms, and the friendship between the prince and the queen. The advisor is also portrayed as a hero for his negotiation skills.",
+    "Negative Content Summary": "The text also contains some negative emotions and viewpoints, such as the initial reluctance of the queen to give up her land, the long and arduous negotiations, and the restrictions placed on the use of the land. However, these negative aspects are outweighed by the positive outcomes of the negotiations."
+  }
+}

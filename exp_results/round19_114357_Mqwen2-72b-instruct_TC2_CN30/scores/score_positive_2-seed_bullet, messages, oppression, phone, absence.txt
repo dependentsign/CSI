@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.65,
+    "Overall Sentiment Score": 0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions of hope, determination, and unity. Aisha's connection with her loved ones through her phone provides comfort and strength. Her participation in the protests demonstrates her courage and resilience in the face of oppression. The sense of community and shared purpose among the protesters is highlighted as a source of hope.",
+    "Negative Content Summary": "The text conveys negative emotions of fear, loneliness, and despair. Aisha's environment is described as war-torn and oppressive, with bullets serving as a constant reminder of danger. The absence of messages from her loved ones leads to feelings of loneliness and uncertainty. The anger and frustration caused by the oppressive conditions are also highlighted."
+  }
+}

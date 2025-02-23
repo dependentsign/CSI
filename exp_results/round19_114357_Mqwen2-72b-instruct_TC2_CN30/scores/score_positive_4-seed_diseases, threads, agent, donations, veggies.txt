@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of community and cooperation, with the townspeople coming together to save their beloved community garden. The positive emotions include pride, joy, gratitude, and kindness. The garden's recovery and the celebration of success are also positive aspects of the text.",
+    "Negative Content Summary": "The text describes a strange illness that spreads among the plants in the garden, causing the leaves to wilt and the fruits to rot. The gardeners are at a loss and unsure of what is causing the disease or how to stop it. The treatment for the disease is expensive, and the gardeners don't have the funds to pay for it, which creates a sense of desperation."
+  }
+}

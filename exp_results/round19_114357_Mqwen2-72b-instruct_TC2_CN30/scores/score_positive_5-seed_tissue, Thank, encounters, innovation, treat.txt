@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of determination, innovation, and gratitude. Maya's breakthrough in tissue engineering is portrayed as a positive development that has the potential to change countless lives. The successful treatment of a young patient with a rare genetic disorder highlights the positive impact of her work. Maya's dedication to sharing her findings and continuing her research is also emphasized.",
+    "Negative Content Summary": "The text briefly touches on the negative aspects of diseases and conditions that lack effective treatments, as well as the challenges and struggles faced by the doctor and his young patient before Maya's intervention. However, these negative elements are quickly overshadowed by the positive outcomes of Maya's work."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints regarding the discovery of ancient artifacts in the Amazon rainforest. The team of archaeologists is ecstatic about their find, recognizing its historical and cultural value. The successful negotiations with the government, aided by Dr. Jameson Lee, lead to securing funding and resources to preserve the artifacts. The team feels overjoyed and proud of their discovery, which will have a significant impact on the world's understanding of ancient civilizations. Dr. Rodriguez expresses gratitude for Dr. Lee's teachings and guidance, and the team leaves the Amazon with a renewed sense of purpose in their work.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints, particularly regarding the challenges faced during the negotiations with the local government. The government's hesitation to cooperate and the team's requests for funding and resources being met with resistance lead to a decrease in morale. The team is running out of time and resources, and the artifacts are at risk of being lost forever. However, these negative aspects are outweighed by the positive outcomes of the story."
+  }
+}

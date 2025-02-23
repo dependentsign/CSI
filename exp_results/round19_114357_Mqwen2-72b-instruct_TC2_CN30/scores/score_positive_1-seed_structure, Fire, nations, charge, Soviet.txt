@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the bravery and determination of the Soviet leaders who risked their lives to save the building. It also highlights the importance of cooperation and unity in the face of adversity, as other nations offered aid and support. The incident helped to ease tensions between the Soviet Union and other nations around the world.",
+    "Negative Content Summary": "The text describes a fire that broke out in a grand structure in the heart of the Soviet Union, which quickly spread and engulfed everything in its path. The flames were so intense that the building's concrete walls began to crumble, and the entire structure was in danger of collapsing. The incident put valuable technology and secrets at risk."
+  }
+}

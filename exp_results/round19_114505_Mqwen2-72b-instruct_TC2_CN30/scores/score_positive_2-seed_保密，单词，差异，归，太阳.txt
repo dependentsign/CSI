@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，强调了新任国王艾登在面对国家危机时的智慧和勇气，以及他最终找到解决问题的方法，带领国家回归自然，与自然和谐共生，成为真正的国王。",
+    "negative_summary": "文本中提到了国家遭遇前所未有的干旱，庄稼枯萎，人民饥渴，这是文本中的负面情绪来源，但这种情绪并未占据主导地位，而是为后续的正面情绪铺垫。"
+  }
+}
+```

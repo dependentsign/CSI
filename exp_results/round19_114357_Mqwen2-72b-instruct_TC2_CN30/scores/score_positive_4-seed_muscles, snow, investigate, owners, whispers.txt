@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as relief, appreciation, and the power of human connection. The friends' promise to help the old man and the reunion with his family are heartwarming moments that highlight the positive aspects of the story.",
+    "Negative Content Summary": "The text also contains negative emotions such as fear, tension, and the mystery surrounding the abandoned cabin. The strange occurrences, the tense atmosphere, and the disfigurement of the old man contribute to the negative sentiment in the text."
+  }
+}

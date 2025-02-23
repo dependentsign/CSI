@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，强调了李明面对困境时的创新精神和坚持信念，以及他通过邀请退休医生和药师加入，成功改善药店经营状况，为社区带来健康和希望的故事。",
+    "negative_summary": "文本中提到了实体药店面临的挑战，如互联网医疗的兴起导致销售额下降，以及李明在转型过程中的争议和质疑。"
+  }
+}
+```

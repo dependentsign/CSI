@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the transformation of the old mill into a hub for technology startups, which brought new businesses, jobs, and opportunities to the town, leading to economic growth and a sense of pride and hope for the people of Millfield.",
+    "Negative Content Summary": "The text also conveys negative sentiments about the mill's decline, which caused frustration and devastation for the people of Millfield, and the impact of the mill's struggles on the town's economy, including suffering small businesses and a shrinking tax base."
+  }
+}

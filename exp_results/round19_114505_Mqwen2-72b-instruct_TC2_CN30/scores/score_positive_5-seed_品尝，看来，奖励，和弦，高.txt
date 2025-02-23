@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本描述了一个充满音乐与美食的小镇，以及一位名叫高远的年轻音乐家兼厨师的故事。高远不仅擅长弹奏吉他，还对烹饪有着浓厚的兴趣。他通过将音乐与美食结合，给人们带来前所未有的体验，最终在小镇的音乐与美食盛宴中荣获最佳创意奖，得到了人们的高度赞扬和认可。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

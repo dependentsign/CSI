@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要描述了李浩在绿谷镇的善举，包括帮助学校采购学习用品、自费购买手指保护器以保障学生安全，以及他谦虚的态度和对社区的无私奉献，这些行为赢得了镇上居民的尊敬和喜爱，展现了他高尚的道德品质和对下一代的深切关怀。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

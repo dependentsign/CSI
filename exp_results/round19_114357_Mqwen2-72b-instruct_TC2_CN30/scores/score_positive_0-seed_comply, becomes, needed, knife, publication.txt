@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints regarding the determination and hard work of Sarah and Jack to save the Millfield Gazette from closure and bring it into the digital age. The successful transformation of the Gazette into an online publication, resulting in increased readership and the publication becoming a staple in the community once again, is also highlighted.",
+    "Negative Content Summary": "The text expresses negative emotions and viewpoints regarding the struggles of the Millfield Gazette to keep up with the digital age and the threat of closure due to new regulations. Sarah's devastation at the prospect of losing the Gazette is also mentioned."
+  }
+}

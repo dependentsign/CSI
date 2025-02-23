@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive traits of Lila, such as her kindness, ability to make friends, and her hard work during the drought. It also emphasizes the recovery of the village, the strengthening of friendships, and the realization that true friendship and status are based on character, not material possessions.",
+    "Negative Content Summary": "The text describes the negative impact of the drought on the village, including the withering of crops and the struggle to find food. It also mentions the change in Lila's status in the village and the distancing of her friends after accepting the gift of salt from Amir."
+  }
+}

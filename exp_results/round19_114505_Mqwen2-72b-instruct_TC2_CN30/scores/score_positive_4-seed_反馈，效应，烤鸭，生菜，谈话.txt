@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive": 0.95,
+    "negative": 0.0,
+    "overall": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了正面情绪，主要体现在李明对美食创新的热爱和对传递文化与情感的渴望。张伟对李明创新菜品的赞赏和对餐厅创新精神的肯定，以及对李明理念的认可和鼓励，都体现了积极的反馈和正面的互动。",
+    "negative_summary": "文本中未检测到负面情绪或观点。"
+  }
+}
+```

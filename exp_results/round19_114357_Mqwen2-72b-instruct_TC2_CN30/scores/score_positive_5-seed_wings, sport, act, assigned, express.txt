@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, particularly in the latter part of the story. The protagonist, Ava, finds a new way to express herself through performing with a group of winged performers, which combines her love of flying with her passion for creativity. This leads to a sense of freedom, fulfillment, and a feeling of being truly alive. The positive emotions include joy, fulfillment, and a sense of belonging.",
+    "Negative Content Summary": "The negative sentiment is relatively low but is present when Ava feels like something is missing in her life as a professional athlete. She misses the freedom of flying without the pressure of winning or losing, which indicates a sense of constraint and dissatisfaction with her assigned role in society."
+  }
+}

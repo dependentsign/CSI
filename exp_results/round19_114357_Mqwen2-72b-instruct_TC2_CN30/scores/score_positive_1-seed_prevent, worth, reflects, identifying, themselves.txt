@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the determination and efforts of a group of teenagers, the Green Guardians, to make a difference in their community by organizing a clean-up day in the local park. The text emphasizes the positive impact of their actions, such as the park becoming cleaner and more beautiful, and the creation of a sense of community and responsibility among the people of Millfield. The text also highlights the ongoing efforts of the Green Guardians to prevent littering and spread their message of environmental responsibility.",
+    "Negative Content Summary": "The text mentions a growing problem with littering in the local park, which is the reason for the Green Guardians' actions. This issue is portrayed as a negative aspect of the community that needs to be addressed."
+  }
+}

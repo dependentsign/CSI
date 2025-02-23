@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as the innovative nature of the tech company, Maya's dedication to her work, her openness to learning new things, the benefits of using alternative tools and supplements in coding, and the success of Maya's project. The text also highlights the importance of collaboration and the value of considering different perspectives.",
+    "Negative Content Summary": "The text contains a minor negative sentiment when Maya is surprised by Alex's suggestion, indicating a slight resistance to change. However, this sentiment is quickly overcome as Maya becomes intrigued by the new possibilities and grateful for Alex's input."
+  }
+}

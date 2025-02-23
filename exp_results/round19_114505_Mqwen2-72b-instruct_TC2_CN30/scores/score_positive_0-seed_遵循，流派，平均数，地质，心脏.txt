@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中充满了对小镇、心石流派、石心老人以及他们对地质学的热爱和贡献的正面描述。石心老人的智慧、经验和对地质学的热爱，以及小镇居民的团结和对未知的探索精神，都是正面情绪的体现。特别是发现水晶洞穴的惊喜和对心石流派的赞誉，进一步增强了文本的正面情绪。",
+    "negative_summary": "文本中没有明显的负面情绪或观点。"
+  }
+}
+```

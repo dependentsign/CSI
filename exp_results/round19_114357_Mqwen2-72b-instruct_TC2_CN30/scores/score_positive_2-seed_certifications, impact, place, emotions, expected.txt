@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of hope, determination, and fulfillment. Maya's dedication to her work, her impact on the community, and her personal growth are all highlighted as positive aspects. The text also emphasizes the emotional rewards of her work, such as the joy on the faces of the children she teaches and the gratitude of the farmers she helps.",
+    "Negative Content Summary": "The text also touches on the challenges and struggles that Maya faces in her work. The organization is understaffed and underfunded, and Maya finds herself struggling to make a difference. The emotional toll of the job is also mentioned, with Maya questioning whether she is in the right place and whether her hard work is making a real difference."
+  }
+}

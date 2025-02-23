@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对玉京、云中鹤以及'智慧之栏'的极高赞誉，强调了智慧、正义、和平以及为国为民的初心。云中鹤的智慧和赤诚之心，以及'智慧之栏'作为国家象征和智慧源泉，引领玉京走向繁荣，成为连接过去与未来的桥梁，激励着后人追求智慧和正义。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

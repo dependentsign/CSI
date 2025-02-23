@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on the joy and inspiration derived from watching a film. The friends are depicted as being amazed by the animation and the fluidity of the character movements, which leads them to create their own animation. The text highlights the importance of the movement of characters in storytelling and the group's determination to perfect it. The positive emotions include admiration, inspiration, and a sense of achievement.",
+    "Negative Content Summary": "The negative sentiment in the text is minimal and not explicitly stated. It can be inferred from the fact that the friends were initially unaware of the importance of character movement in films, which could be seen as a lack of knowledge or experience. However, this is quickly overshadowed by their enthusiasm and determination to learn and improve."
+  }
+}

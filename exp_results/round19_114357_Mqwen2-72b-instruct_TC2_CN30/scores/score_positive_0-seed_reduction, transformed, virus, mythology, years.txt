@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about transformation, renewal, and hope. The survivors find comfort in mythology and use it as a source of strength. They transform themselves into something more than human, becoming stronger, faster, and smarter. They see themselves as the new gods and heroes of their mythology, having overcome the impossible and rewritten the rules of their world. They build a new world that is stronger, more resilient, and more beautiful than anything they had ever known before.",
+    "Negative Content Summary": "The text also expresses negative sentiments about the virus that swept through the world, reducing the population to a mere fraction of what it once was. The survivors were left to pick up the pieces and rebuild society from the ground up. They were terrified when the virus began to mutate, fearing that it would once again decimate their population."
+  }
+}

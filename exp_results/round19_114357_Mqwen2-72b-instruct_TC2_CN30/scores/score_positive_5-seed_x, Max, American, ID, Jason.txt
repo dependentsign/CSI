@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text starts with a positive tone as Max, an American college student studying abroad in Europe, meets a friendly local named Jason who offers to show him around a small town in Germany. Max is happy to have someone to talk to who can understand him, as his German is still a work in progress. They chatted for a while, and Max enjoyed learning about the local history and culture from Jason.",
+    "Negative Content Summary": "The text takes a negative turn when Jason asks Max for his ID, which makes him feel uneasy. As the day wore on, Max started to feel a bit uneasy. Jason had asked him a lot of personal questions, and he seemed to be taking a keen interest in Max's travel plans. Max realized that Jason had stolen his wallet, along with his ID and all of his money. Max felt violated and scared, realizing that he had been too trusting of a stranger."
+  }
+}

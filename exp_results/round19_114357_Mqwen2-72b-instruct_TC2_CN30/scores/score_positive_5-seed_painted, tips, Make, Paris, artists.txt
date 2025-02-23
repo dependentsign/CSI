@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, with themes of community, support, and artistic growth. The vibrant art studio in Paris is described as a welcoming place where artists from all over the world come to create and share their work. The local artists who run the studio are portrayed as passionate and helpful, giving tips and advice to new artists. Marie, a young artist, is welcomed into the studio and feels at home, learning from the other artists and developing her own style. The exhibition of the artists' work is a huge success, and Marie receives many compliments on her paintings. The studio is described as a community of artists who support and encourage each other.",
+    "Negative Content Summary": "The text contains a very slight negative sentiment, which is mainly due to the absence of any significant negative events or emotions. The only negative aspect mentioned is Marie's initial search for a place to paint, which could be interpreted as a minor inconvenience or challenge. However, this is quickly resolved when she finds the studio and is welcomed by the artists."
+  }
+}

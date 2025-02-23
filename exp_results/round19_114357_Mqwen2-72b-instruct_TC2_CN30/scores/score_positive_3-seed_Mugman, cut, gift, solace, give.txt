@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, particularly around the themes of love, family, and the joy of giving. Mugman's attachment to the wooden mug, a gift from his late grandmother, is a source of solace and becomes a symbol of his connection to his family's history. The mug's unexpected healing properties lead Mugman to use it to help others, bringing him a sense of purpose and fulfillment. The community's response to Mugman's generosity is also positive, as he becomes known as the 'Mugman of Mercy.'",
+    "Negative Content Summary": "The text contains a brief moment of negative sentiment when Mugman accidentally cuts himself on a piece of broken glass. This incident, however, quickly leads to the discovery of the mug's healing properties, which transforms the negative event into a positive one."
+  }
+}

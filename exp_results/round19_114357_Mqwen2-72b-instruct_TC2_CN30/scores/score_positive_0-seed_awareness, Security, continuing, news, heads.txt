@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the determination and resilience of the news agency's CEO and her team in the face of adversity. They work together to implement new security measures, which successfully mitigate the security breaches. The agency learns from the incident, becoming more vigilant and prepared for future challenges.",
+    "Negative Content Summary": "The text describes a series of security breaches that compromise the agency's confidential information, causing a growing sense of unease among the staff. The attacks continue despite the IT department's efforts, leading to emergency meetings and a heightened sense of urgency."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive actions of Carol, a bank employee who stood up for what was right and made a difference in the lives of many Americans. She was hailed as a hero for her actions, and the bank became known for its fair and transparent practices.",
+    "Negative Content Summary": "The text also touches on the negative aspects of the rising cost of living and the bank's excessive fees and overcharging of loans. Carol and many of her fellow Americans struggled to make ends meet due to the rising prices of goods and services."
+  }
+}

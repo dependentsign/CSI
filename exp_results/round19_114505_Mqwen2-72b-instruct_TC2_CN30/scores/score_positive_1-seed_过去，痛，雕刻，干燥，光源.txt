@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.7,
+    "negative_score": 0.5,
+    "overall_score": 0.2
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对艺术的热爱、对生活的渴望、以及对美的追求和认可。艾登的故事和他对艺术的执着被世人所知，雕像在艺术展览上大放异彩，带来了正面的情感体验。",
+    "negative_summary": "文本描述了小镇的荒凉、艾登视力的衰退、工坊的黑暗，以及雕像中蕴含的哀伤和痛楚，表达了失去、衰老和孤独的负面情绪。"
+  }
+}
+```

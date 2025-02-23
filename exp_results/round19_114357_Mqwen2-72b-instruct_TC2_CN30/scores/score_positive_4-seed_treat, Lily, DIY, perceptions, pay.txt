@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions related to Lily's passion for DIY projects, her dedication to creating a special treat for her friend, and the initial joy and surprise her friend felt upon receiving the gift. The text also highlights the importance of gifts that come from the heart and the value of personal effort and love over materialistic expectations.",
+    "Negative Content Summary": "The text also conveys negative emotions when Lily's friend's perceptions of the treat change, leading to disappointment and hurt feelings. The text highlights the contrast between homemade gifts and store-bought expectations, which can lead to misunderstandings and unappreciated efforts."
+  }
+}

@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对科技、创新和友谊的正面情绪。李明和张伟因共同的兴趣和对未来的美好设想而结缘，他们的合作不仅创造出了智能、人性化的家电产品，还加深了彼此的友谊，共同实现了梦想。",
+    "negative_summary": "文本中未表达明显的负面情绪或观点。"
+  }
+}
+```

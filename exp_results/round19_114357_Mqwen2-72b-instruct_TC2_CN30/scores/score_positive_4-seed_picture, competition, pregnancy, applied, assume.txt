@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of hope, passion, and determination. Lily's love for photography, her talent, and her dream of turning her passion into a career are all highlighted positively. Her decision to continue with the competition despite her pregnancy shows her resilience and dedication. The joy of winning the competition and the love and joy of starting a new family are also portrayed as positive emotions.",
+    "Negative Content Summary": "The text also touches on the stress and strain of the competition on Lily's pregnancy, which is portrayed as a difficult decision. The realization that she would have to turn down the job offer due to her pregnancy is also portrayed as a setback."
+  }
+}

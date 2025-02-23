@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of passion, joy, and purpose through Maya's dedication to her art. Her involvement in the community art project and the positive reception of her work contribute to a feeling of accomplishment and confidence. Maya's resilience in the face of criticism and her ability to channel her emotions into her art are also highlighted as positive aspects.",
+    "Negative Content Summary": "The text also conveys feelings of struggle, frustration, and self-doubt. Maya's financial difficulties and the draining effect of her odd jobs are mentioned, as well as the hurtful criticism she receives online. These experiences lead to a questioning of her talent and worth as an artist."
+  }
+}

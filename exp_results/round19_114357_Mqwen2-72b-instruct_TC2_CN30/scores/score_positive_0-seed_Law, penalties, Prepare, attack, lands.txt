@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the effectiveness of the law and the king's resolve to protect the royal lands. The king's swift action in punishing the bandits and increasing penalties for future offenses demonstrates strong leadership and commitment to maintaining order and security in the kingdom. The text also conveys a sense of safety and security for the kingdom of Eldoria in the aftermath of the incident.",
+    "Negative Content Summary": "The text describes a group of bandits who attack the royal lands, leading to a violent confrontation with the king's guards. The bandits' greed and disregard for the law result in their defeat and imprisonment, which is portrayed as a severe punishment. The king's response to the attack is characterized by anger and a determination to increase penalties, which may be seen as overly harsh by some readers. The increased surveillance and questioning of anyone near the royal lands may also be perceived as a restriction on personal freedom."
+  }
+}

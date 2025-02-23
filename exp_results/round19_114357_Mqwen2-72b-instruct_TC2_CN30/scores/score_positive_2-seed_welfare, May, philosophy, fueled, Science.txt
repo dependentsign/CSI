@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of personal growth, fulfillment, and purpose. Sarah's passion for learning, her curiosity, and her determination to make a difference in the world are highlighted. The text also emphasizes the beauty and complexity of the natural world, and the sense of pride and accomplishment Sarah feels about her journey.",
+    "Negative Content Summary": "The text briefly touches on a sense of something missing in Sarah's life, which could be interpreted as a feeling of dissatisfaction or restlessness. However, this is quickly resolved as Sarah finds her true calling in scientific research."
+  }
+}

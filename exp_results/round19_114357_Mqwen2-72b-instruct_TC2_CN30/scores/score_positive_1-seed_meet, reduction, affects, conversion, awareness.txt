@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, highlighting the inspiring story of Lily, a young woman who takes action to reduce her carbon footprint and promote renewable energy in her community. Her determination, curiosity, and positive impact on the environment are emphasized throughout the text. The conversion of her home to renewable energy sources, her role as a beacon of hope, and the significant reduction in carbon emissions in her town are all portrayed as positive developments.",
+    "Negative Content Summary": "The text briefly touches on the negative impact of human activities on the environment, specifically mentioning the need to combat climate change and preserve the planet for future generations. This serves as a backdrop for Lily's actions and is presented as a motivating factor for her decision to take action."
+  }
+}

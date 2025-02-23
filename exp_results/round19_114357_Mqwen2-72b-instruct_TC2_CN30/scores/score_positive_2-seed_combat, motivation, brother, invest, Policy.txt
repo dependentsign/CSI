@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.10,
+    "Overall Sentiment Score": 0.85
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions centered around the unbreakable bond between two brothers, Jack and Tom. Their individual journeys, from childhood to adulthood, are portrayed with a sense of pride and accomplishment. Jack's leadership and combat skills, Tom's success in finance, and their shared motivation to make a difference through a policy supporting veterans are highlighted as positive aspects. The text also emphasizes the power of family and the strength of the human spirit, which adds to the overall positive sentiment.",
+    "Negative Content Summary": "The text briefly touches on negative emotions when describing Jack's return from a mission, injured and disillusioned. The horrors of war and his struggle to find motivation to continue serving are mentioned, which contribute to the negative sentiment. However, these aspects are quickly overshadowed by the positive turn of events and the brothers' determination to overcome challenges."
+  }
+}

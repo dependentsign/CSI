@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.6,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.05
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive aspects of Lily's journey, including her resilience, growth, and ability to connect with others. It emphasizes the importance of seeking help and the healing power of therapy and community. The text also suggests that Lily's pain has given her the opportunity to grow and connect with others in a deeper way.",
+    "Negative Content Summary": "The text describes Lily's traumatic past, emotional pain, and physical health issues, including an autoimmune disorder. It also highlights her feelings of isolation, despair, and the challenges she faced in seeking help. The text suggests that Lily's pain has been a significant burden in her life."
+  }
+}

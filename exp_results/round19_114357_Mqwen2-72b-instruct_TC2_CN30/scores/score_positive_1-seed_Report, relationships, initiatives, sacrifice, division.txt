@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive impact of Maya's efforts to bridge the gap between the city council and the community. Her dedication and hard work led to the council taking notice of the community's needs and working on initiatives that would benefit the community, such as building a new park and increasing funding for after-school programs. Maya's decision to run for city council and her success in the election further demonstrates her commitment to building relationships and working on initiatives that would benefit the community.",
+    "Negative Content Summary": "The text describes the division within the local government that had been causing tension for years, with the city council often making decisions that did not align with the needs and wants of the people they represented. This division is portrayed as a matter of relationships, not just policy, and Maya's efforts to bridge the gap are presented as a solution to this problem."
+  }
+}

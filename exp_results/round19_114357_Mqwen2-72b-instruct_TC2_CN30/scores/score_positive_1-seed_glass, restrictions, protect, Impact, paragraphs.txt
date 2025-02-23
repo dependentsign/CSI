@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.25,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the bravery and selflessness of Lily, who uses her unique condition to help others in need. Her actions lead to the group's thriving and her parents' realization of the importance of allowing her to make a difference in the world. The text also emphasizes the importance of trust and the positive impact of letting go.",
+    "Negative Content Summary": "The text describes a world where physical contact is restricted due to the deadly impact of a single touch. The streets are empty, and people accidentally hurt each other. Lily's parents are overprotective and keep her locked up in their glass house, preventing her from exploring the world and helping others. The group of people struggling to survive in the harsh world is in desperate need of food and medicine but can't risk going out to get it."
+  }
+}

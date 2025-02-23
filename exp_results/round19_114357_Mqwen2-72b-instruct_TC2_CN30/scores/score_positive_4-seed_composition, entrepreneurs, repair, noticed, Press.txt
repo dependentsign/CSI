@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong positive sentiment, focusing on the themes of passion, talent, mentorship, and success. Maya's love for music and her talent for composition are highlighted, as well as the positive impact of Jack's mentorship and the success she achieves as a result. The text also emphasizes the importance of community and the role of the small music shop in Maya's journey.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, primarily related to the initial obscurity of Maya's music and the challenge of being discovered. However, this is quickly overshadowed by the positive aspects of the story."
+  }
+}

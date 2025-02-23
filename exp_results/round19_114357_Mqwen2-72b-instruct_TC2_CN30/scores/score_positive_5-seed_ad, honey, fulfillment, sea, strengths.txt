@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a strong sense of adventure, excitement, and personal growth. Maya's journey leads her to discover new strengths, a love for the sea, and a sense of connection to the world around her. The text highlights the fulfillment she finds in experiences and connections, which contrasts with her previous feelings of unfulfillment.",
+    "Negative Content Summary": "The text briefly touches on Maya's initial feelings of unfulfillment in her life, despite having a good job, a loving family, and a comfortable home. This sense of something missing is portrayed as a negative emotion that drives her to seek adventure."
+  }
+}

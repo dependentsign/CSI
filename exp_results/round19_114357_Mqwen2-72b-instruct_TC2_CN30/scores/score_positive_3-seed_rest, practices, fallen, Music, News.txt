@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.35,
+    "Overall Sentiment Score": 0.5
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions related to the power of music to heal and bring comfort. Lily's passion for music, her determination to regain her skills, and the joy she finds in playing with her neighbor are all highlighted as positive aspects. The text also emphasizes the beauty of music and its ability to bring people together and heal their souls.",
+    "Negative Content Summary": "The text also contains negative emotions related to Lily's illness and her struggle to regain her skills. Her feelings of devastation and the loss of a part of herself are highlighted as negative aspects. The mention of war and suffering in the news also adds to the negative sentiment."
+  }
+}

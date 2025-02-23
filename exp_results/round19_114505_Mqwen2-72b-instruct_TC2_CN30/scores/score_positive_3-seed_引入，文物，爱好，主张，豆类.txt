@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.0,
+    "overall_score": 0.95
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本表达了对历史、文物和豆类文化的深厚兴趣与热爱，林浩的故事激励着更多年轻人去探索历史，保护文物，传承文化，展现了积极向上、探索求知的精神。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

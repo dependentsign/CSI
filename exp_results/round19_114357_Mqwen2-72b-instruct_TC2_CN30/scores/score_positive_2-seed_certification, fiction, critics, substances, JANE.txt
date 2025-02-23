@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a predominantly positive sentiment, highlighting JANE's passion for fiction, her dedication to learning and responsible writing, and her success in gaining recognition for her work. The text also emphasizes the appreciation and positive impact of her stories on readers.",
+    "Negative Content Summary": "The text contains a minor negative sentiment, mainly focusing on the criticism JANE faced from some critics who accused her of glorifying drug use and promoting dangerous behavior. This criticism caused JANE emotional distress."
+  }
+}

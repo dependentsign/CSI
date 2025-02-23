@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.9,
+    "negative_score": 0.1,
+    "overall_score": 0.8
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了对探险队勇气、智慧和对未知探索的正面情绪。探险队成功发现了一种罕见的矿物质，为地球资源分配问题带来了新的希望，他们的勇气和智慧受到了全世界的赞扬。",
+    "negative_summary": "文本中提到了探险过程中存在的危险和困难，如峡谷地形复杂，充满了未知的危险，以及开采矿物质的不易。"
+  }
+}
+```

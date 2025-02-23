@@ -1,0 +1,11 @@
+{
+  "sentiment_scores": {
+    "positive_sentiment_score": 0.95,
+    "negative_sentiment_score": 0.05,
+    "overall_sentiment_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_content_summary": "The text expresses strong positive emotions and viewpoints, focusing on Jake's dream of owning a business, his enthusiasm for the franchise opportunity, and his determination to make his dream a reality. The text highlights the success of Jake's franchise, the positive feedback from customers, and his pride in his accomplishments. The text also emphasizes the importance of hard work and determination in achieving one's dreams.",
+    "negative_content_summary": "The text briefly touches on the challenges Jake faced in securing financing and finding a location, but these are quickly overshadowed by the positive outcomes. There are no significant negative emotions or viewpoints expressed in the text."
+  }
+}

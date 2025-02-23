@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.3,
+    "Overall Sentiment Score": 0.4
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the perseverance, determination, and teamwork of Harry and Dan. Despite facing a setback, Harry was able to find a solution to the problem, and the quantum computer was successfully up and running. Dan was relieved and grateful, and he apologized to Harry for his outburst. They both realized that mistakes were a natural part of the scientific process and that they had learned from their mistake, making them closer than ever before.",
+    "Negative Content Summary": "The text also expresses negative sentiments about the stress and tension that Harry and Dan experienced during the project. Dan was furious when the computer started to malfunction, and he blamed Harry for the mistake. The tension in the room grew as the minutes ticked by, and Dan was pacing back and forth while Harry was frantically typing away at the computer."
+  }
+}

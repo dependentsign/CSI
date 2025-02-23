@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints about the creation of the universe, life, and the goddess Aria. The creation is described as powerful, beautiful, and a symbol of God's power and glory. Aria is portrayed as a powerful, kind, and compassionate being who uses her powers to help those in need and becomes a symbol of hope and strength. The text also highlights the importance of compassion and love as true sources of power.",
+    "Negative Content Summary": "The text briefly touches on the limits of power and the inability to control everything, which can be seen as a negative emotion. Aria feels the limits of her power and is unable to help those who need her most at times. However, this is quickly followed by a positive message about the importance of accepting limits and using power for good."
+  }
+}

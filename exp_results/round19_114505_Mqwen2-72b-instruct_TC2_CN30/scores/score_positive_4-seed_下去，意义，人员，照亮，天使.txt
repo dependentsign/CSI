@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，描述了天使艾莉娅用她的光芒和希望为陷入绝望的人们带来光明，鼓励他们重建家园，展现了团结、希望和光明的主题。",
+    "negative_summary": "文本中提到了人间的灾难和人们的绝望，以及小镇的废墟和无助的眼神，这些是负面情绪的体现，但整体上被正面情绪所覆盖。"
+  }
+}
+```

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the CEO, John, who listened to the employees' concerns and implemented changes to prioritize employee satisfaction. The company flourished under the new management, and the employees were happier and more productive than ever before. The text also highlights the employees' commitment to continuing John's legacy of addressing the needs of the employees.",
+    "Negative Content Summary": "The text expresses negative sentiments about the company's initial struggles to keep up with its competitors and the management team's initial neglect of the employees' well-being. The employees felt that the management was out of touch with their needs and concerns, leading to pain and frustration. The text also mentions the resistance from some of the senior managers to the changes implemented by John. The sudden death of John is also portrayed as a painful experience for the employees."
+  }
+}

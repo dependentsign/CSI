@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses strong positive emotions, particularly admiration for Lila's kind heart, her dedication to helping others, and her selflessness. The story highlights her heroic actions in saving a rare bird and nursing it back to health, as well as her quick thinking and tireless efforts to save her village from a water contamination crisis. The positive sentiment is further reinforced by the village elders' recognition of her bravery and selflessness with a special gift.",
+    "Negative Content Summary": "The text contains minor negative emotions, primarily related to the suffering of the wounded bird and the water contamination crisis in the village, which caused sickness and death among the villagers. However, these negative events are quickly overshadowed by Lila's positive actions and the eventual resolution of the crises."
+  }
+}

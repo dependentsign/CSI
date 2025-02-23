@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.95,
+    "negative_score": 0.05,
+    "overall_score": 0.9
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本主要表达了正面情绪，强调了健康生活方式的重要性，以及通过预防和积极的生活习惯来控制血压的正面影响。李医生的诊所和她的理念得到了社区的广泛认可和赞赏，帮助了许多人改善了健康状况。",
+    "negative_summary": "文本中轻微的负面情绪体现在小张的健康问题上，他因工作压力和不规律的作息导致血压偏高，这反映了现代生活中常见的健康挑战。"
+  }
+}
+```

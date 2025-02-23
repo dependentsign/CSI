@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.4,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints regarding Mia's passion for art, her fascination with Leonardo da Vinci, and the initial positive effects of the mysterious elixir on her creativity and confidence. The text also highlights the critical acclaim and recognition that Mia's art receives after taking the elixir, as well as her inspiring vision of art as a tool for social change.",
+    "Negative Content Summary": "The text also conveys negative emotions and viewpoints, particularly regarding the disturbing side effects of the elixir, such as paranoia and visions of a dystopian future where art is used as a tool of oppression. The text also highlights the negative impact of the elixir on Mia's creativity, as her once-vibrant colors become muted and lifeless. The text concludes with Mia's difficult decision to stop taking the elixir and return to her old ways of creating art, relying on her own intuition and inspiration."
+  }
+}

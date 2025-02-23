@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.85,
+    "Negative Sentiment Score": 0.15,
+    "Overall Sentiment Score": 0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints, such as excitement, diligence, gratitude, relief, pride, and appreciation. The main positive aspects are the willingness of Jack and Tom to volunteer, their hard work, the understanding and creativity of Maria, and the sense of community and contribution to a good cause.",
+    "Negative Content Summary": "The text also contains some negative emotions and viewpoints, such as the accidental knocking over of a crate of apples, the resulting bruises on some of the apples, and the feeling of guilt. However, these negative aspects are quickly resolved and turned into a positive outcome."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.1,
+    "Negative Sentiment Score": 0.8,
+    "Overall Sentiment Score": -0.7
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text contains a sense of duty and determination as Mike decides to keep fighting despite the overwhelming odds. There is also a sense of hope that he can make a difference and protect his fellow citizens.",
+    "Negative Content Summary": "The text is filled with descriptions of chaos, destruction, and death on the battlefield. Mike feels frustration and questions the worth of the war. The overall tone is one of despair and horror."
+  }
+}

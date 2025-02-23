@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.7,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": 0.1
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the end of a war, the rebuilding of cities, the return of green fields, and the establishment of peace and prosperity. The leaders' realization of the need for compromise and the people's resilience are also highlighted as positive aspects.",
+    "Negative Content Summary": "The text conveys negative sentiments about the war's destruction, the suffering of the people, the ruins of once vibrant cities, and the barren wastelands. The stalemate in negotiations and the leaders' initial focus on their own demands are also portrayed negatively."
+  }
+}

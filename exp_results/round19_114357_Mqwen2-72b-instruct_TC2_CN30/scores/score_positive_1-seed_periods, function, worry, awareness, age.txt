@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive sentiments about the girl's journey towards understanding and embracing her body and its natural functions. The mother's explanation and the teacher's support are portrayed as positive influences that help the girl feel more aware and empowered. The girl's ability to track her cycle and talk about her body with others is also presented as a positive development.",
+    "Negative Content Summary": "The text also contains negative sentiments, particularly around the girl's initial worry and embarrassment about her period. The unknown and the sudden onset of her period at school are sources of anxiety and discomfort. The text also highlights the physical changes and symptoms that the girl experiences, which can be seen as negative."
+  }
+}

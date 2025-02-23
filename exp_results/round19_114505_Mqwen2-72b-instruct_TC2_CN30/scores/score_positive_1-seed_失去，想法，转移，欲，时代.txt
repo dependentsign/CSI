@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.75,
+    "negative_score": 0.45,
+    "overall_score": 0.3
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本中表达了对科技发展和人类探索意识边界的积极态度，特别是艾米对神经科学的热情和她与伙伴们成功回到现实世界后的哲学思考，倡导人们在科技发展中保持与现实世界的连接。",
+    "negative_summary": "文本中也反映了科技发展带来的问题，如艾米在虚拟世界中失去对现实世界的感知，以及虚拟快乐的虚幻性，提醒人们不要让科技蒙蔽了对真实生活的感知。"
+  }
+}
+```

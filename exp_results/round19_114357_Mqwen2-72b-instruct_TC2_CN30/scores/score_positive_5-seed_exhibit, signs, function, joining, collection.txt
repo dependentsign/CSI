@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, describing a grand museum and its impressive exhibits that showcase the history and culture of different regions. The new exhibit featuring ancient signs and symbols is highly anticipated and well-received by visitors. The signs are beautifully designed and provide a wealth of information about the symbols and their meanings. The exhibit is described as inspiring and enlightening, leaving visitors with a deeper appreciation for the power of symbols and signs in human communication. The exhibit's success is highlighted, serving as a reminder of the importance of preserving and sharing cultural heritage.",
+    "Negative Content Summary": "There are no significant negative emotions or viewpoints expressed in the text. The negative sentiment score is minimal and may be attributed to the absence of extremely positive language in certain parts of the text."
+  }
+}

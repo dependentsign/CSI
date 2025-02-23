@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 1.0,
+    "negative_score": 0.0,
+    "overall_score": 1.0
+  },
+  "sentiment_summary": {
+    "positive_summary": "文本充满了正面情绪，主要体现在小含对世界的好奇心、对魔法的探索、成功制作神奇鸡翅后的喜悦、体验变形后的自由感以及决定分享经历、鼓励他人探索未知的积极态度。",
+    "negative_summary": "文本中未表达任何负面情绪或观点。"
+  }
+}
+```

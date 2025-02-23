@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.9,
+    "Negative Sentiment Score": 0.1,
+    "Overall Sentiment Score": 0.8
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions such as gratitude, joy, calmness, and happiness. The bride feels relaxed and confident after receiving a massage from her bridesmaid, who also provides helpful advice. The bride is grateful for the support of her friends and family and feels a sense of peace and happiness as she exchanges vows with her beloved.",
+    "Negative Content Summary": "The text mentions the bride's initial tension and nervousness before the wedding. However, these negative emotions are quickly resolved with the help of the bridesmaid's massage."
+  }
+}

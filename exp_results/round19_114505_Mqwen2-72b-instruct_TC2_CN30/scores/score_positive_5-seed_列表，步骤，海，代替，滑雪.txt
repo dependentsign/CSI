@@ -1,0 +1,13 @@
+```json
+{
+  "sentiment_scores": {
+    "positive_score": 0.85,
+    "negative_score": 0.15,
+    "overall_score": 0.7
+  },
+  "sentiment_summary": {
+    "positive_summary": "艾米面对滑雪板损坏的挑战，展现出了创新精神和决心，通过将冲浪板改造成滑雪板，不仅重新找回了滑雪的乐趣，还创造了一种全新的滑雪方式，她的故事激励了更多的人勇于尝试和创新。",
+    "negative_summary": "艾米的滑雪板在一次意外中损坏，而小镇上的商店已经没有存货，这让她面临着无法享受最爱运动的难题。"
+  }
+}
+```

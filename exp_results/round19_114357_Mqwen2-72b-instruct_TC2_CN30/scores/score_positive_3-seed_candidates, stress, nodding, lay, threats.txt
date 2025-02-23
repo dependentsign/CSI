@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.4,
+    "Negative Sentiment Score": 0.6,
+    "Overall Sentiment Score": -0.2
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the determination and preparation of the candidates for the job interview. The second candidate's success is emphasized, showcasing her knowledge, poise, and hard work. The text also mentions the candidates' resilience and their intention to learn from the experience for future opportunities.",
+    "Negative Content Summary": "The text predominantly focuses on the stress and anxiety felt by the candidates during the job interview. The first and third candidates' struggles are highlighted, with the first candidate feeling the pressure and the third candidate lacking confidence. The text also mentions the high stakes and the fear of not getting the job, which adds to the negative sentiment."
+  }
+}

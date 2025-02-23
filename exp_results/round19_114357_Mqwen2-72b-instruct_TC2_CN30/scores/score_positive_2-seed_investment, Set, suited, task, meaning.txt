@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, focusing on Maya's journey into the world of investing. It highlights her transformation from a novice to a confident investor, guided by a competent financial advisor, Alex. The narrative emphasizes the empowering and meaningful aspects of investing, such as supporting causes and companies that align with personal values. Maya's growth in confidence and her ability to make a positive impact on the world are portrayed as the most rewarding aspects of her investment journey.",
+    "Negative Content Summary": "The text contains a slight negative sentiment, primarily in the form of Maya's initial nervousness about investing. This emotion is quickly mitigated by Alex's calming influence and the positive outcomes of their collaboration."
+  }
+}

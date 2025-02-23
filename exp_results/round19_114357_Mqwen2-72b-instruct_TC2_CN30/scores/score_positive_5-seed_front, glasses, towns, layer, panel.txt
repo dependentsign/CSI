@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.8,
+    "Negative Sentiment Score": 0.2,
+    "Overall Sentiment Score": 0.6
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses positive emotions and viewpoints through the character of Lily, who is described as a curious soul eager to explore and discover new things. Her discovery of the old house and the special glasses that allow her to see through the layers of time and space is portrayed as a positive and transformative experience. The once-cursed house becomes a beloved landmark in the town, a place of wonder and discovery for all who visit.",
+    "Negative Content Summary": "The text also contains negative emotions and viewpoints, particularly in the description of the old house as peculiar, mysterious, and almost haunted. The locals whisper that the house is cursed, and no one has lived there for decades, which creates a sense of fear and unease. The dimly lit room with peeling wallpaper and a thick layer of dust also adds to the negative sentiment."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.95,
+    "Negative Sentiment Score": 0.05,
+    "Overall Sentiment Score": 0.9
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text expresses a highly positive sentiment, with the majority of the content focusing on the success of a tech company using Amazon Web Services (AWS). The CEO is portrayed as a visionary leader who understands the importance of involving customers in the decision-making process. The hackathon event is described as a huge success, with developers from all walks of life coming together to create innovative solutions using AWS. The young developer, Maya, is depicted as focused, dedicated, and talented, and her project wins first place in the hackathon. The CEO learns an important lesson about the power of involvement and the importance of attracting talented individuals like Maya, who can help take the company to new heights.",
+    "Negative Content Summary": "The text contains a very minor negative sentiment, which is not explicitly stated but can be inferred from the fact that the company was looking for ways to attract more customers to their platform, implying that they were not yet successful in this area."
+  }
+}

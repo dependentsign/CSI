@@ -1,0 +1,11 @@
+{
+  "Sentiment Scores": {
+    "Positive Sentiment Score": 0.75,
+    "Negative Sentiment Score": 0.45,
+    "Overall Sentiment Score": 0.3
+  },
+  "Sentiment Summary": {
+    "Positive Content Summary": "The text highlights the positive emotions and viewpoints of unity, determination, and success in the face of adversity. Aria and her group's courage, persistence, and commitment to protecting the forest and its inhabitants are celebrated. The resolution of the conflict, where the rulers of the Empire listen to the protests and agree to end the hunting, is portrayed as a victory for the natural world and a testament to the power of collective action.",
+    "Negative Content Summary": "The text expresses negative emotions and viewpoints regarding the excessive hunting and exploitation of the forest by the Empire, the rulers' disregard for the protests and their determination to continue hunting, and the risks and consequences faced by Aria and her group in their fight for what they believe in. The text also highlights the threat to the power of the rulers posed by the growing unrest and the Empire's intolerance of dissent."
+  }
+}
